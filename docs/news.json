@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-06T02:24:31+09:00",
+  "updated_at": "2026-11-06T02:29:37+09:00",
   "categories": {
     "반도체": [
+      {
+        "title": "퀄컴 HBC, 발열·수율은 해결됐나? ‘HBM 위기론’ 어디까지 사실일까 - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iYVpGd21fOUpiZjVHcmthOFJQYXpqVmVKcldybG5DNWdBbGRIODNhOG04VEJQMXM4Y25GekNkZTZKWW1INHpVRmlKQQ?oc=5",
+        "source": "서울경제",
+        "published": "Thu, 05 Nov 2026 07:30:14 GMT"
+      },
+      {
+        "title": "고점 대비 반토막 난 삼전닉스…내년 실적 믿고 지금 사도 될까 - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04cVhrdEY0VjNfR2RCWmJjQ3dEWVNFc2djWE4yb1hmWUhXbTlWWllkRllIcHhTWTJhY2FlNGllTllBaTBUNlJONHM4UkYzS0RleEE?oc=5",
+        "source": "매일경제",
+        "published": "Thu, 05 Nov 2026 02:00:20 GMT"
+      },
+      {
+        "title": "[ISMP 2026]HBM 한계 돌파…SK하이닉스 '면적 희생' vs 삼성전자 '시스템 동시 최적화' - 전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oQXl5NkFPLWJtM2pabEZ3bXdBNENjckpVSk5kcVZxTUFobTR1Nm9oaVlXWVRQNlFWZ1J3VWQ3bjR5eU9hUHN4YjBLUUtlZw?oc=5",
+        "source": "전자신문",
+        "published": "Thu, 05 Nov 2026 05:10:44 GMT"
+      },
       {
         "title": "D램 38% 삼성 1위 굳건…초호황 속 HBM4 왕좌 놓고 SK와 진검승부 - 파이낸셜포스트",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Qa2drM1NSaGFYa3dLR0RkOXZ0bk1hZ2ZvT1NhRUZfTmFLQUxSV19ZaVVSTXBrR29lVUQ2V0U5T2NYVkR0UEY2ejdJTDV4S0w1ZzNMRnBHUExqeUlGbVBqdGhfbVJFOEVzOEVZODFYaEFEeGdQ?oc=5",
@@ -21,12 +39,6 @@
         "published": "Thu, 05 Nov 2026 08:33:07 GMT"
       },
       {
-        "title": "퀄컴 HBC, 발열·수율은 해결됐나? ‘HBM 위기론’ 어디까지 사실일까 - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iYVpGd21fOUpiZjVHcmthOFJQYXpqVmVKcldybG5DNWdBbGRIODNhOG04VEJQMXM4Y25GekNkZTZKWW1INHpVRmlKQQ?oc=5",
-        "source": "서울경제",
-        "published": "Thu, 05 Nov 2026 07:30:14 GMT"
-      },
-      {
         "title": "'HBM 선점' SK하이닉스 HBF로 낸드도 뒤집는다, 곽노정 샌디스크와 2년 내 상용화 '속도' - 비즈니스포스트",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IRzJ6Z2RvWDlYblJUZWs3enQ4RkZsMFY1Tzc2TWV3bTBIWXlkR0kzYUhkeVVVMlNsWVhmZDV4akJINWpBN3FBcVI1ZTV1ekctRGJyU1BtQWh5R2Vfd3A2NTlEYUNsa2E2czh0ZHJVVkY0U00?oc=5",
         "source": "비즈니스포스트",
@@ -37,21 +49,33 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TMTBWT1IwRFFBMlJ3UmFXRnlvMTFkbHVNOVYteVUzMm1fU05iX2swT2ZhYjBoMk5obi1GU2s5bF9BVnBsTXhhNzlBdkNaNzllMk9CdnhJeWZid3M2V0pFMEYyRDNUdk54eHoxVWQ0SmRsdw?oc=5",
         "source": "오피니언뉴스",
         "published": "Thu, 05 Nov 2026 06:41:57 GMT"
-      },
-      {
-        "title": "민주당 승리에 AI 투자 위축 우려…삼성·SK HBM 수요는 괜찮나 - 뉴스핌",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9adkFjc2M0RUdZMFlMQWd1dGNmYXhqUFkwbUNYbWdDc1FFeFB2bzIyVF83YXIxM2xTZWNaODNJUE1qRzBsWjZ0ZDR2VGxobW8xckJJR0xxMTZFR2NH?oc=5",
-        "source": "뉴스핌",
-        "published": "Thu, 05 Nov 2026 05:57:00 GMT"
-      },
-      {
-        "title": "[기획]美 민주당 장악에 K-반도체 '긴장'…AI 규제·세액공제 주목 - 매일일보",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SM3dFSkpqeFdSYl9DVkhZcXVkakw5dFpxNGlfTWtpZ0ZuN2tRX0NJaVBKZFlKREZoNko4eHBSemk0SXdlT001UzFpdWFiSV9tZzJmd1dKamhTTDJCTXdsMF9rc0o?oc=5",
-        "source": "매일일보",
-        "published": "Thu, 05 Nov 2026 05:23:34 GMT"
       }
     ],
     "국내 주식": [
+      {
+        "title": "'블루웨이브 쇼크' 코스피·코스닥, 5%대 급락…반도체주 '추락'(종합) - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZERDaU43akRnMlR4M2Z3TThjclpndWNnN2JmME5kalM3NmF1NkRhekdKWElxdHU2Y3dFNWNGOW1zT2FKaGl1QnZmdHd3aVFKWmE4WW1DeUxPVzDSAWBBVV95cUxQSVFQbFdMT2ZhX1BBc29zblc3LUFYNk9EWHZLNGtmT1hkbVlnNkZPOGhZUGhsWHR4dE01Y19CQWlReVlXZHNDOWcyQWd4cjUtSDB4ZnVMdERNMXNIN25VRXk?oc=5",
+        "source": "연합뉴스",
+        "published": "Thu, 05 Nov 2026 07:19:09 GMT"
+      },
+      {
+        "title": "'블루웨이브 쇼크'에 5%대↓…코스피·코스닥, 매도 사이드카(종합) - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxOW5QLWEyY1RmTXdfQUQzNWhyWVNjeHVSWUhqM3E3VmZESTZ0S09GaGRGUXI0Q2NUUU5IbEIzUDU3TWFqMWJuSWVESVNQanFYYVVaNm9LNzZ5VEHSAWBBVV95cUxNZFVXMzVsdnRPSVNCTnc2eF9HLVFvNlNSSVVpbVJCUTZrT0tGc3RYekxnNkYwOFVwSnZXNGFEMUNhcEJZNkQ0eWE4T1Q2S0lINFRHMjBneGZETGt2VE41Qmc?oc=5",
+        "source": "연합뉴스",
+        "published": "Thu, 05 Nov 2026 05:45:05 GMT"
+      },
+      {
+        "title": "[속보] 美블루웨이브 쇼크에 코스피·코스닥, 5%대 급락 마감 - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00emhzc080ZWcxNTM4N2lCOE9jZGtZakNUd29TT2FBTThkZGRwd0c0cjZHblJvTjFCbXpUQ0NqbmtzOUJOU1J4a1N1V1h6RXFTcHc?oc=5",
+        "source": "매일경제",
+        "published": "Thu, 05 Nov 2026 06:38:21 GMT"
+      },
+      {
+        "title": "'블루웨이브'에 급락장…코스피·코스닥 번갈아 매도사이드카 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IV0pRM1VNdWN1SHdjZ1B3WW5DYTMyTHNpc0Ryci1YeGs1Ynoxcm5kcXFwU3NDTmJBdU9TVGJqUFZqY2JwR3FSWlMxcUhVbm5TZTc3c3E4Rks2OXVBeFY5ekNWTE5peHJD0gFuQVVfeXFMT1BORVVuX3NqSDFCYVl5aHdvNTlvczdLVXR1SXlDY01CbkNQeEhwSlFEQ0x5R1ZJT3RwYmdKV256ak1sVHZtYzR0X0lFQUQ0ZThZYlBNVVRRVGdjVjJJNVFxZkFVZE9FZndabDZ0N0E?oc=5",
+        "source": "머니투데이",
+        "published": "Thu, 05 Nov 2026 05:43:13 GMT"
+      },
       {
         "title": "미 중간선거 여파에 코스피·코스닥 5%대 하락 - 비건뉴스",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nSW01cEZXdmFDOEctYlFFWGpiQU1ESXBjZXo3MENWVVZXcmdxcG90OUJrU3d3QzVEVkNsR2xvNzFNRWV0Qkd6eVIxN2VDYTFxZ0RJc3RWYXpQNk1KOEp2a09yaXFZUQ?oc=5",
@@ -75,30 +99,6 @@
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UU0pwU2ZiQmN4SkV4cjhHUVlUOXZRS1FzSElXSHVqazlRSjBEbDNsTEFJalZoeEEtTGxoV25hZktDVTlCYzRLeVB0aw?oc=5",
         "source": "재경일보",
         "published": "Thu, 05 Nov 2026 10:28:15 GMT"
-      },
-      {
-        "title": "코스피 5.28% 급락 5383.80…양 시장 매도 사이드카 : 한국증시 - 재경일보",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wLWdzQ0g1MzU2Ri1Xd3V5UFNQVjZ6eXBoeFJfaWthUW1rSkVET19oYllSNEZKOThYbk5pbVRMWjdjNkxrZzVVcTlIVQ?oc=5",
-        "source": "재경일보",
-        "published": "Thu, 05 Nov 2026 10:25:52 GMT"
-      },
-      {
-        "title": "미 ‘블루웨이브’에 국내 증시 파란불 - 부산일보",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UTDRzaExqV1prbi1VcTdyQ1J3V0ttMDFZUGhiaWpNcnBqVGlhcGlyMF9jOEp3YjdJYnZCd3VtVzFCaGdnSHJXbUQ1b283TVoyQ1pMQnJjLUJ4RGxQQ0tmb2FUel9lVjlJdHpITGQzVU5RaU11?oc=5",
-        "source": "부산일보",
-        "published": "Thu, 05 Nov 2026 09:34:22 GMT"
-      },
-      {
-        "title": "코스피·코스닥 5%대 급락…7개월 만에 최저치 - 인더스트리뉴스",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5dWtFYmF0bFphTEU1SjZUVVN1X1ZfZmlvbU5PekpqLUp5LUQ1YzM5NXQybmZEYkIxUGV6R1ZnVDBTcWtFTzJGS290SjZma21SWDQ3N3FfUDc1UmxEY2lBU0lvQWFiOWJ1b2thd0VpQjZpUQ?oc=5",
-        "source": "인더스트리뉴스",
-        "published": "Thu, 05 Nov 2026 08:49:58 GMT"
-      },
-      {
-        "title": "반도체 덮친 美 '블루웨이브 쇼크’…'코스피·코스닥' 5%대 동반 급락 - 주간한국",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xRUtTLWFoY3VRRVVZdzZMXzRCMWx0bGF1UmJQUXQtRjJxTU5FaWk4OV9QcGs0NFJJRjdvX2ZlZWlfYlhtNGVHSDZ4OGpmLVRoT2xNbWZRRmkyVzRWaFl4MHNqczVKbnVDNVJhdlp1Z1jSAXRBVV95cUxPX3ExdzlrMGoxejhMaVZIZlk5OV9aZzNmbWI0eG5qSnNrVlJ1bXhWdFhVMzltTVNOOUwzS3o0NFRuLUt0UXQ4MENPZ0ZDYW5pM0pkYzRyUGVRR2RFbEFyRTZzeE14SUNUQmhRd2x5cFpIb1NmNw?oc=5",
-        "source": "주간한국",
-        "published": "Thu, 05 Nov 2026 08:45:57 GMT"
       }
     ],
     "미국 주식": [
@@ -111,30 +111,24 @@
     ],
     "경제": [
       {
-        "title": "美 중간선거 이후 금리·환율에 쏠린 눈…韓 금융시장 향방은 - 스포츠한국",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81LWtreHNVdW5UTFZXZU9ZNVhrUUlwMVJFTE5HMk85bnRiWXZSdEdNNUxWSEFNZkx0RndwWXhEek5CbTlTclg2bXgxLUp1WlVNcUp1dzFKVW1VbFFlMUtSM1NpLVVyUmFYQS1fYnNrT1jSAXRBVV95cUxQSGJLZF9sN0YzYlhpODhoLUJadTNZSUkzUlRMOHZBRUV5aHgxUC1LZ0dXQlRjM2ctZFg2c0ZpNmhhYW5Fc1NfRDdqaERFN1lLc0FkWjRYSjMyUV9vMHQxanJMMG9FZkQwZ201VEU0UDRuMzVpNA?oc=5",
-        "source": "스포츠한국",
-        "published": "Thu, 05 Nov 2026 06:44:24 GMT"
-      },
-      {
         "title": "임장은 수십번 다니지만 '기본'은 놓치는 투자자들…신간 - 한국경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Z1dGUVlOYmJTTVlqbUdOTUFpb0p2RnNhanJLb2F1M1VtNmxsWWV5ak5LRlhBUXk2NUFUZDJndkN1WDlDaTdZY0tLNzAtRnhFYjRUOHRtc1lhdw?oc=5",
         "source": "한국경제",
         "published": "Thu, 05 Nov 2026 06:09:07 GMT"
+      },
+      {
+        "title": "美 중간선거 이후 금리·환율에 쏠린 눈…韓 금융시장 향방은 - 스포츠한국",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81LWtreHNVdW5UTFZXZU9ZNVhrUUlwMVJFTE5HMk85bnRiWXZSdEdNNUxWSEFNZkx0RndwWXhEek5CbTlTclg2bXgxLUp1WlVNcUp1dzFKVW1VbFFlMUtSM1NpLVVyUmFYQS1fYnNrT1jSAXRBVV95cUxQSGJLZF9sN0YzYlhpODhoLUJadTNZSUkzUlRMOHZBRUV5aHgxUC1LZ0dXQlRjM2ctZFg2c0ZpNmhhYW5Fc1NfRDdqaERFN1lLc0FkWjRYSjMyUV9vMHQxanJMMG9FZkQwZ201VEU0UDRuMzVpNA?oc=5",
+        "source": "스포츠한국",
+        "published": "Thu, 05 Nov 2026 06:44:24 GMT"
       }
     ],
     "AI 기술": [
       {
-        "title": "한화오션, 부유식 데이터센터 핵심 기술 공동 개발 - 디일렉",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NYko2bEI3UFhBNGI5aU1ja1FwTE9pYzZjLVVLeHp5WHowSGtwMjFNbXh1RXNualJ3TXhMMjBSbVQ1d1R0RFNnT20wM0I1RlkxaWhoN3BIcGlwa2dlLV96bUtzRWN6UQ?oc=5",
-        "source": "디일렉",
-        "published": "Thu, 05 Nov 2026 13:41:57 GMT"
-      },
-      {
-        "title": "한화오션, 해상 데이터센터 전력 안정화 기술 개발 - 매일일보",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qc1N0WWFiVTNnclBxeTNzcDZIS1pqWUcxSGpHdGJFS0ltUWlTTzdfQXZhbl9GTWVBZzB5eU1wQ3M3NlhHVF8zcE5ubnhmVF9JSGl2dWhubU1LaHVERE04RVVRZlE?oc=5",
-        "source": "매일일보",
-        "published": "Thu, 05 Nov 2026 13:32:47 GMT"
+        "title": "월가, 데이터센터 구축 속도·입지·비용 달라질 것 - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hak9QZVY4OXBXUUxNLU5YZ3p2dUpXeEN4ZElWc1pQY0Z0aktSVUkzOXhEY1RvMERlVlFNcVBiOUEwSUlIeWVycDd3QkRPLUhKUVU5MEstTDR2UTlrZE9fWNIBYEFVX3lxTE1hak9QZVY4OXBXUUxNLU5YZ3p2dUpXeEN4ZElWc1pQY0Z0aktSVUkzOXhEY1RvMERlVlFNcVBiOUEwSUlIeWVycDd3QkRPLUhKUVU5MEstTDR2UTlrZE9fWA?oc=5",
+        "source": "연합뉴스",
+        "published": "Thu, 05 Nov 2026 01:25:21 GMT"
       },
       {
         "title": "핵융합 실증에 1.5조 투입…3173억 들여 원자력 추진선박 개발 - 이데일리",
@@ -143,34 +137,28 @@
         "published": "Thu, 05 Nov 2026 12:58:06 GMT"
       },
       {
-        "title": "AI 데이터센터 전력·냉각 해결할 기후기술 경쟁 - 기후에너지경제",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQjBkdzhEcEg1blZpUXo1blJmNHg2QWVMallFQ19TVHRnenZDWTNxbWRNRmhObnE5SG5Yb3pKQWJybWRVcXdBT3lxQkF1WERhZmVIZGtUOHNCZXhuUXl3RU01T3c?oc=5",
-        "source": "기후에너지경제",
-        "published": "Thu, 05 Nov 2026 12:11:00 GMT"
+        "title": "한화오션, ABB와 손잡고 '바다 위 데이터센터' 기술 고도화 - 파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MbEVzWG5mU0N3Q1V5dFBpbUxwN0RxUnFqNW5VMHFlOXdmRXQzZDRXQzloTWNDNnhHaF83WDk4Mno1Ui12eXU4Zk53T0gyUmxiYlM3WjhzZ1lBUQ?oc=5",
+        "source": "파이낸셜뉴스",
+        "published": "Thu, 05 Nov 2026 05:27:27 GMT"
       },
       {
-        "title": "[인터뷰]“제주 데이터센터, AI 시대 새로운 성장동력”…틸론 최백준 대표, 글로벌 빅테크 유치·지역경제 선순환 강조 - 뉴스N제주",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OVB0U1hzdEhUWTJSYmNUSllaZWFHcVJaVGhOUEE3ZDZyOG9YZHJieXZiSVhDcWZMZmRRYVJ3NEdVVF85UUtYemZhV1NWVk00QzUwT0IxeWFsc0wxb2tya0FrLTFyT28?oc=5",
-        "source": "뉴스N제주",
-        "published": "Thu, 05 Nov 2026 10:54:00 GMT"
+        "title": "한화오션, ABB와 부유식 데이터센터 전력·제어 기술 개발 협력 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYVotaDRWS2lLclZza3B3ZGNJT0I1aklqQ1oybnZBcnFWbUZrdWkxa284LVlQNnFEeG9nOHRabUc2clJySmF5dXJXaGFhcVdzUm9kTlkyUUNPRDBselVEQXNISWhJaDFqaW1uZNIBckFVX3lxTE5fUEJsc05vRkR6cWJKby0yMU5DUFM4dGxtV2NnU01PS0liWEp3STV6M0p2dWFaVXJTakN5MzhKN3J1MVVMZ2VFUVIzNkVqa0k5bVdCYTdPY1ZRbzVwQy1TUzAwZ2sxMFhNS2hEOTViNW9kUQ?oc=5",
+        "source": "머니투데이",
+        "published": "Thu, 05 Nov 2026 04:49:21 GMT"
       },
       {
-        "title": "한화오션, ABB 손잡고 부유식 데이터센터 핵심 기술 고도화 - 한국일보",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BZ25TWDNzZlF4aVhmdHRXeUhwbE1JOF93Zjk1T2JySHYxdjNJVi1zOUlkUFA0R2ZmcmZYMktIeWN4eG5DZUxXLW1OU0RFSldGdG1zM1VTOTZzM2pKTFpPQU52TjBCN2FnWEJtdGJ30gFzQVVfeXFMTXZYZjdFRm5Gb3FzWHdaa2FkRFpfcWE0VE5mYlJoMjdLMkEta19BTlFLMEFQa2hKR2VuN0J6VmJQVW05bF8tMlpPY1JWb0s3a0duOGVPczZ2R2hXZTJ0U0k4eWhUOGphLUZQcGNzSkF2WW9NOA?oc=5",
-        "source": "한국일보",
-        "published": "Thu, 05 Nov 2026 08:43:00 GMT"
+        "title": "한화오션, 부유식 데이터센터 핵심 기술 공동 개발 - 디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NYko2bEI3UFhBNGI5aU1ja1FwTE9pYzZjLVVLeHp5WHowSGtwMjFNbXh1RXNualJ3TXhMMjBSbVQ1d1R0RFNnT20wM0I1RlkxaWhoN3BIcGlwa2dlLV96bUtzRWN6UQ?oc=5",
+        "source": "디일렉",
+        "published": "Thu, 05 Nov 2026 13:41:57 GMT"
       },
       {
-        "title": "나주시, AI 웨어러블 기술로 치매환자 실종 예방체계 구축 - 매일일보",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uNlE5eFpiUFJyTEtXQ0JIY2tRSDlJWTQ3UlhJU0xqY0VYQWpPRDlUME9OdUw3S09MY3NrYWNsRm1QVHAzb3p4TDFYemNsZ01QNmdiMHpLbWRUT01SQWZDc2RUVmg?oc=5",
-        "source": "매일일보",
-        "published": "Thu, 05 Nov 2026 08:22:34 GMT"
-      },
-      {
-        "title": "한화오션, ABB와 손잡고 '바다 위 AI 데이터센터' 기술 개발 - 해사신문",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTU2dyTUhkeGdISjlSaHNITEU3U1JIQ2hkU0ZSSWdkdzV0RVJfVDRZQjdKeXFtZFBiYklBVGRQak1YLVhIaHhGbnlQalRvWnJuclJ0X0x3SUI3UlBCYVQydTVyY01NM1F3OUcw?oc=5",
-        "source": "해사신문",
-        "published": "Thu, 05 Nov 2026 07:48:59 GMT"
+        "title": "\"AI 데이터센터 전력 손실 줄인다\"…인피니언·솔루엠, IBC·BBU·PSU 3대 축 확대 - 디지털데일리",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4WHpJcWJBUl9Db3dYdkxKbVFWWllrbTFRczZYTkRfOEJhVkp2R3Z6RzVldlM0ODRlMTF0X01BUFlFRzQ2eFpYTlpfVUFVYmpyZEprdWdnNmNaN1NZYi1DRzcwdTc?oc=5",
+        "source": "디지털데일리",
+        "published": "Thu, 05 Nov 2026 06:21:44 GMT"
       }
     ]
   },
