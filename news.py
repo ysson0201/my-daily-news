@@ -27,6 +27,38 @@ HEADERS = {
 }
 
 
+# 뉴스 서비스용 언론사 우선순위
+# 숫자가 낮을수록 우선순위가 높음
+SOURCE_PRIORITY = {
+    1: [
+        '연합뉴스', 'reuters', '로이터',
+        'bloomberg', '블룸버그'
+    ],
+    2: [
+        '한국경제', '매일경제', '서울경제',
+        '이데일리', '머니투데이',
+        '파이낸셜뉴스'
+    ],
+    3: [
+        '전자신문', '디일렉', 'the elec',
+        'zdnet', '지디넷', '디지털데일리',
+        'etnews'
+    ]
+}
+
+
+def source_priority(source):
+    """언론사 이름을 기준으로 우선순위 반환."""
+    normalized = source.strip().casefold()
+
+    for priority, names in SOURCE_PRIORITY.items():
+        for name in names:
+            if normalized == name.casefold():
+                return priority
+
+    return 4
+
+
 def parse_published_date(date_text):
     """RSS 발행 시간을 KST 기준 datetime으로 변환."""
     try:
@@ -137,14 +169,19 @@ def fetch(query, limit=8):
             })
 
     # 최신 뉴스부터 정렬
+    # 언론사 우선순위가 높은 기사부터 정렬
+    # 같은 우선순위에서는 최신 기사를 먼저 배치
     articles.sort(
-        key=lambda article: parse_published_date(
-            article['published']
-        ),
-        reverse=True
+        key=lambda article: (
+            source_priority(article['source']),
+            -parse_published_date(
+                article['published']
+            ).timestamp()
+        )
     )
 
     return articles[:limit]
+
 
 
 
