@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T02:11:26+09:00",
+  "updated_at": "2026-11-06T02:18:14+09:00",
   "categories": {
     "반도체": [
       {
@@ -203,16 +203,16 @@
     ],
     "AI 기술": [
       {
-        "title": "AI 데이터센터 전력·냉각 해결할 기후기술 경쟁 - 기후에너지경제",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQjBkdzhEcEg1blZpUXo1blJmNHg2QWVMallFQ19TVHRnenZDWTNxbWRNRmhObnE5SG5Yb3pKQWJybWRVcXdBT3lxQkF1WERhZmVIZGtUOHNCZXhuUXl3RU01T3c?oc=5",
-        "source": "기후에너지경제",
-        "published": "Thu, 05 Nov 2026 12:11:00 GMT"
-      },
-      {
         "title": "한화오션, ABB와 손잡고 '바다 위 AI 데이터센터' 기술 개발 - 해사신문",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTU2dyTUhkeGdISjlSaHNITEU3U1JIQ2hkU0ZSSWdkdzV0RVJfVDRZQjdKeXFtZFBiYklBVGRQak1YLVhIaHhGbnlQalRvWnJuclJ0X0x3SUI3UlBCYVQydTVyY01NM1F3OUcw?oc=5",
         "source": "해사신문",
         "published": "Thu, 05 Nov 2026 07:48:59 GMT"
+      },
+      {
+        "title": "AI 데이터센터 전력·냉각 해결할 기후기술 경쟁 - 기후에너지경제",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQjBkdzhEcEg1blZpUXo1blJmNHg2QWVMallFQ19TVHRnenZDWTNxbWRNRmhObnE5SG5Yb3pKQWJybWRVcXdBT3lxQkF1WERhZmVIZGtUOHNCZXhuUXl3RU01T3c?oc=5",
+        "source": "기후에너지경제",
+        "published": "Thu, 05 Nov 2026 12:11:00 GMT"
       },
       {
         "title": "한화오션, 부유식 데이터센터 핵심 기술 공동 개발 - 디일렉",
@@ -227,12 +227,6 @@
         "published": "Thu, 05 Nov 2026 13:32:47 GMT"
       },
       {
-        "title": "[AI프리즘] 전기 더 쓰는 AI…데이터센터, 전압 높여 손실 줄인다 - 연합뉴스 한민족센터",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHenVBeEVRU3dReGxJY1ZZRjh3d0pabkt4Mnd6LTByUjVYUEFSMFNjcVFrWV9YdHNFX0Y5VElyUktpOTRmSzg3aTN5UDJqWkpxNHBtRzNNN2dsQm55UmM3RXAzcE1wMEtaelJjbk1mbi1uVDlN?oc=5",
-        "source": "연합뉴스 한민족센터",
-        "published": "Thu, 05 Nov 2026 06:14:51 GMT"
-      },
-      {
         "title": "\"AI 데이터센터 바다로\"…한화오션, ABB와 해상 전력 기술 개발 - 뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHS3lKcjgxcENvV2pSa0VMWC0xbkNGczV5SlVxNDBxZWxoMDltTWFmWndFbGdmUnEyeUpRMXA4akd0eUNMMTdUMU90djFsTFBmTmEyNC10WmZVUjBG?oc=5",
         "source": "뉴스핌",
@@ -243,6 +237,12 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBia2xER2JZYTgtUDM5SXo1Nnh4RTB4TkktWWZMUjI1ZDl2VlZvSHJCT09jU0NpcjZzeGFJcVM2YUlYaVJla09Kdm1iekpFWDZWVmhBOVRDWFBoem8?oc=5",
         "source": "에너지경제신문",
         "published": "Thu, 05 Nov 2026 01:48:18 GMT"
+      },
+      {
+        "title": "[AI프리즘] 전기 더 쓰는 AI…데이터센터, 전압 높여 손실 줄인다 - 연합뉴스 한민족센터",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHenVBeEVRU3dReGxJY1ZZRjh3d0pabkt4Mnd6LTByUjVYUEFSMFNjcVFrWV9YdHNFX0Y5VElyUktpOTRmSzg3aTN5UDJqWkpxNHBtRzNNN2dsQm55UmM3RXAzcE1wMEtaelJjbk1mbi1uVDlN?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "published": "Thu, 05 Nov 2026 06:14:51 GMT"
       },
       {
         "title": "[인터뷰]“제주 데이터센터, AI 시대 새로운 성장동력”…틸론 최백준 대표, 글로벌 빅테크 유치·지역경제 선순환 강조 - 뉴스N제주",
