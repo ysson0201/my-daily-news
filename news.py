@@ -1,3 +1,5 @@
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 
 import json
 import os
@@ -23,6 +25,20 @@ CATEGORIES = {
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (compatible; MyDailyNews/1.1)'
 }
+
+
+def parse_published_date(date_text):
+    """RSS 발행 시간을 KST 기준 datetime으로 변환."""
+    try:
+        published = parsedate_to_datetime(date_text)
+
+        if published.tzinfo is None:
+            published = published.replace(tzinfo=timezone.utc)
+
+        return published.astimezone(KST)
+
+    except (TypeError, ValueError, IndexError):
+        return None
 
 
 def normalize_title(title):
@@ -90,7 +106,10 @@ def fetch(query, limit=8):
 
     articles = []
 
-    for item in root.findall('./channel/item')[:limit]:
+
+    cutoff = datetime.now(KST) - timedelta(hours=24)
+
+    for item in root.findall('./channel/item'):
         title = html.unescape(
             item.findtext('title', '')
         ).strip()
@@ -98,6 +117,16 @@ def fetch(query, limit=8):
         link = item.findtext('link', '').strip()
         source = item.findtext('source', '').strip()
         date = item.findtext('pubDate', '').strip()
+
+        published = parse_published_date(date)
+
+        # 발행 시간이 없거나 최근 24시간 밖이면 제외
+        if published is None or published < cutoff:
+            continue
+
+        # 미래 날짜가 잘못 입력된 기사도 제외
+        if published > datetime.now(KST):
+            continue
 
         if title and link.startswith('https://'):
             articles.append({
@@ -107,7 +136,16 @@ def fetch(query, limit=8):
                 'published': date
             })
 
-    return articles
+    # 최신 뉴스부터 정렬
+    articles.sort(
+        key=lambda article: parse_published_date(
+            article['published']
+        ),
+        reverse=True
+    )
+
+    return articles[:limit]
+
 
 
 def main():
