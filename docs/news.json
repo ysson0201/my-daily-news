@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T01:46:43+09:00",
+  "updated_at": "2026-11-06T02:11:26+09:00",
   "categories": {
     "반도체": [
       {
@@ -33,16 +33,16 @@
         "published": "Thu, 05 Nov 2026 10:53:08 GMT"
       },
       {
-        "title": "민주당 승리에 AI 투자 위축 우려…삼성·SK HBM 수요는 괜찮나 - 뉴스핌",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9adkFjc2M0RUdZMFlMQWd1dGNmYXhqUFkwbUNYbWdDc1FFeFB2bzIyVF83YXIxM2xTZWNaODNJUE1qRzBsWjZ0ZDR2VGxobW8xckJJR0xxMTZFR2NH?oc=5",
-        "source": "뉴스핌",
-        "published": "Thu, 05 Nov 2026 05:57:00 GMT"
-      },
-      {
         "title": "고점 대비 반토막 난 삼전닉스…내년 실적 믿고 지금 사도 될까 - 매일경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04cVhrdEY0VjNfR2RCWmJjQ3dEWVNFc2djWE4yb1hmWUhXbTlWWllkRllIcHhTWTJhY2FlNGllTllBaTBUNlJONHM4UkYzS0RleEE?oc=5",
         "source": "매일경제",
         "published": "Thu, 05 Nov 2026 02:00:20 GMT"
+      },
+      {
+        "title": "민주당 승리에 AI 투자 위축 우려…삼성·SK HBM 수요는 괜찮나 - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9adkFjc2M0RUdZMFlMQWd1dGNmYXhqUFkwbUNYbWdDc1FFeFB2bzIyVF83YXIxM2xTZWNaODNJUE1qRzBsWjZ0ZDR2VGxobW8xckJJR0xxMTZFR2NH?oc=5",
+        "source": "뉴스핌",
+        "published": "Thu, 05 Nov 2026 05:57:00 GMT"
       },
       {
         "title": "D램 38% 삼성 1위 굳건…초호황 속 HBM4 왕좌 놓고 SK와 진검승부 - 파이낸셜포스트",
@@ -71,6 +71,12 @@
         "published": "Thu, 05 Nov 2026 07:19:09 GMT"
       },
       {
+        "title": "‘블루웨이브 쇼크’에 코스피 급락…삼전 7%↓·하닉 9%↓ - 한겨레",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2QmdsLUhfcGVqeWw5ejBIRFVGemxETG1ud0N1SjRtMTdIeDhvSnNINjh2ank0dGVXeHJxaHpoVFduVERybHdFWXZ4RjZwdjVTZTRRcVR0TEkzTFZ6MF9mRlJwOHNuTTA?oc=5",
+        "source": "한겨레",
+        "published": "Thu, 05 Nov 2026 11:30:00 GMT"
+      },
+      {
         "title": "'20만 전자'까지 위협받은 코스피...코스닥도 '매도 사이드카' - YTN",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oQnNIY281czViSkdQakRiUFUta2JKSGZodERPUTBLcFl4ZUVRdjZobWJEVXNKV202eDlCd2Z1RUtuNVc5Qk9HQlJ5LXhCQ19DRkQ2a1FoaEpCY3c1T3RIZ0s2Q25DMTAzRGFWdnVxNA?oc=5",
         "source": "YTN",
@@ -93,12 +99,6 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdGpPSmlWSmZ0cGNYTkJhSkNZQkhqRUFBQ0NVcXd4YnJTTzVJSW8yTjM4T3BhVzV5SEF0X3VzdFUwRFZ6NlR0c2JUWWlYYXRoMjVxX3FYY1VfSHYzZXVXYUo2Uld2MUlGb1lQdQ?oc=5",
         "source": "뉴시안",
         "published": "Thu, 05 Nov 2026 07:36:41 GMT"
-      },
-      {
-        "title": "[마감시황] 美 '블루웨이브'에 AI 규제 우려 확산…코스피·코스닥 5%대 급락 - 뉴스핌",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04ZVh0dUxxdVBicXNONWVmNERfQjY4RE4zSnFTd0JEcVljTlkyUUoxUm9JRGtib1pvTVZGMlotUkI5VUo0M0xkZlg3alZhLWRiYnV5UTJQWmprdzZG?oc=5",
-        "source": "뉴스핌",
-        "published": "Thu, 05 Nov 2026 07:05:00 GMT"
       }
     ],
     "미국 주식": [
@@ -107,6 +107,12 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40RmtfSkZrdHNfUnpuTkxWRzJNc2xpRXRjcFJwS3kzSHZtTnp6TTZoa2lrTmdNQ0NkRzZ2VVlJQnczbmpFYWd0SFAtVmVHU0xnaXN0Q0JybXd3OVpfcHhDLXFZSS1LS19ndG5tY1B0MHrSAXNBVV95cUxPaXRYWUdRR3ZVdlFOblZoampzS09vb2JiM2hsOGYyMkhodWpvQUhjSDlxR0FYNEdJdUlFYXFjYU90UklXZzU1MWxDNDUzWXFQLUJGQ2JPMXFGTXlJTW5PWi03eDN1VFV3dFZXV3RRbjhwZF80?oc=5",
         "source": "초이스경제",
         "published": "Tue, 03 Nov 2026 22:45:06 GMT"
+      },
+      {
+        "title": "실적 기대에 힘받은 뉴욕증시…S&P500·나스닥 또 최고치(종합) - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KdHQwT3BzQlJrbzg2MGYySDhTckh3eE45YXBicllIZkZfT0RpUDFZMVYzQWFHZzhlb2ZmNmVzOFBDdTdUV3hGSFdPMGw3MFlfSFh6RlpTaFhTamPSAWBBVV95cUxOXzdkeG15YVZ1alo5SFpJNDdHcWx1cG5MaDZsR1NNV0VLR3EwYkRUanpLZzczVVEzamx3YlZZUFBLZ0xabmFfT2VreWZha2dCc0NGMkptTW1QMmNralllcTA?oc=5",
+        "source": "연합뉴스",
+        "published": "Wed, 07 Oct 2026 07:00:00 GMT"
       },
       {
         "title": "삼성자산운용, KODEX 미국S&P500·나스닥100 분배금 지급 - 증권일보",
@@ -121,16 +127,16 @@
         "published": "Wed, 04 Nov 2026 22:10:42 GMT"
       },
       {
-        "title": "AI 투자 우려로 흔들린 뉴욕 증시…다우·S&P500·나스닥이 보여주는 미국 시장 [더 나은 경제, SDGs] - 세계일보",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GTUN4QzNZNjJhRHRoMThqUVVYU2xETEtCVWRZT1ZLbHlkakJFckFOQ0Ftb1ZmeFo1bVJBd0ZpMU00TDZXVVpvdVFCb1FoMVJaSDdnRlF3QnDSAVRBVV95cUxQTGcxZG1CTWpxb0l4SE45OFA0MjBFUFprNERkVGNpbHVKbEkwVkJBLTZmbTMzVnVkWVpFZ2FVTHVoN3c3bHIyb0tYZGphUk1jUWRNako?oc=5",
-        "source": "세계일보",
-        "published": "Tue, 03 Nov 2026 12:37:13 GMT"
-      },
-      {
         "title": "[서울데이터랩] 미국 증시, 반도체 강세 속 혼조…S＆P500·나스닥 상승 마감 - 서울신문",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zSWgtZ3I2Um1UWmJ6TmVXVWg2YWZMWTB6Y3JLRGZqV2ptVVlvUzlFcHh4eXRxNGNnTzhBQmNyazZoSzlNSzJjSU9oeWlmUG9zV0pIS1V3QjlzY01JcXlmUzh3NHhPVzAxSUswZWJmMA?oc=5",
         "source": "서울신문",
         "published": "Wed, 28 Oct 2026 21:11:47 GMT"
+      },
+      {
+        "title": "AI 투자 우려로 흔들린 뉴욕 증시…다우·S&P500·나스닥이 보여주는 미국 시장 [더 나은 경제, SDGs] - 세계일보",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GTUN4QzNZNjJhRHRoMThqUVVYU2xETEtCVWRZT1ZLbHlkakJFckFOQ0Ftb1ZmeFo1bVJBd0ZpMU00TDZXVVpvdVFCb1FoMVJaSDdnRlF3QnDSAVRBVV95cUxQTGcxZG1CTWpxb0l4SE45OFA0MjBFUFprNERkVGNpbHVKbEkwVkJBLTZmbTMzVnVkWVpFZ2FVTHVoN3c3bHIyb0tYZGphUk1jUWRNako?oc=5",
+        "source": "세계일보",
+        "published": "Tue, 03 Nov 2026 12:37:13 GMT"
       },
       {
         "title": "미국증시 혼조 마감…국제유가 급락에도 AI주 매도세, 나스닥 1.07% 하락 - 톱스타뉴스",
@@ -143,12 +149,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUZVM2VjS2hFUTMzempCalQ2ZDN5V0VBWUJvV0FUbFdCaW9UX2xHalhoNERGNjIzRnk1eXFVMlU2UTY5QmhMZUc5VGhoU05mUlNuQnd6dlJJRGlSeE81cHdRZHI5UFMyZ2dtNlAyZEVDaWZ1UDlqV2plaEpFR0NLU2FWN0doZGdxd01NMDJRS0lScWdGdk9xSFdNUjgzbmdJb2tmOWxraDBBMk81Vm9hTmVtX3Y1VVZvQTBNN05OOHJScFR5dzRWUg?oc=5",
         "source": "TradingKey",
         "published": "Tue, 03 Nov 2026 04:19:00 GMT"
-      },
-      {
-        "title": "S&P 500·다우·나스닥100 전망···이번 주 미국 증시 좌우할 핵심 변수는? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQc3FKNzZmWk1MNTVwQVQyYmN5M2VNX0JHUE4tMFFkTHh3blEyNVZxZWt0S0R1eFJBc3VjWlZ2eDJNOGNsNTJXWHpWcGV2MUdob0VodW81OVV5VFpiV25BMkprZUgwRUQ0MGJXeHZHQldrZENxdHE3enMwNl9kQTdJc0JXTlFiSmpSeXpfRWlsc2lyY0JtVGltQ2ZWSU1oVWk5SVNOdU9FZ0lfSUEwUkcyX3dtaTY0aDZ5a0VlR3NWbEpKVHVveEVGYlY2QmRsN3VrNUtXOVV1T2N5b2xJMjY5d3JyUjZKcE9QVWl1VVhUMWZlTk9rbHA5TUlZRG1LMUNSMnUzdGY3TFpZZkRDX1RHUTVoQ2hVY2Fnb0FfN0xtUmdvOURhQ3NJ?oc=5",
-        "source": "Benzinga",
-        "published": "Mon, 02 Nov 2026 01:22:56 GMT"
       }
     ],
     "경제": [
@@ -203,16 +203,16 @@
     ],
     "AI 기술": [
       {
-        "title": "한화오션, ABB와 손잡고 '바다 위 AI 데이터센터' 기술 개발 - 해사신문",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTU2dyTUhkeGdISjlSaHNITEU3U1JIQ2hkU0ZSSWdkdzV0RVJfVDRZQjdKeXFtZFBiYklBVGRQak1YLVhIaHhGbnlQalRvWnJuclJ0X0x3SUI3UlBCYVQydTVyY01NM1F3OUcw?oc=5",
-        "source": "해사신문",
-        "published": "Thu, 05 Nov 2026 07:48:59 GMT"
-      },
-      {
         "title": "AI 데이터센터 전력·냉각 해결할 기후기술 경쟁 - 기후에너지경제",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQjBkdzhEcEg1blZpUXo1blJmNHg2QWVMallFQ19TVHRnenZDWTNxbWRNRmhObnE5SG5Yb3pKQWJybWRVcXdBT3lxQkF1WERhZmVIZGtUOHNCZXhuUXl3RU01T3c?oc=5",
         "source": "기후에너지경제",
         "published": "Thu, 05 Nov 2026 12:11:00 GMT"
+      },
+      {
+        "title": "한화오션, ABB와 손잡고 '바다 위 AI 데이터센터' 기술 개발 - 해사신문",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTU2dyTUhkeGdISjlSaHNITEU3U1JIQ2hkU0ZSSWdkdzV0RVJfVDRZQjdKeXFtZFBiYklBVGRQak1YLVhIaHhGbnlQalRvWnJuclJ0X0x3SUI3UlBCYVQydTVyY01NM1F3OUcw?oc=5",
+        "source": "해사신문",
+        "published": "Thu, 05 Nov 2026 07:48:59 GMT"
       },
       {
         "title": "한화오션, 부유식 데이터센터 핵심 기술 공동 개발 - 디일렉",
@@ -227,6 +227,12 @@
         "published": "Thu, 05 Nov 2026 13:32:47 GMT"
       },
       {
+        "title": "[AI프리즘] 전기 더 쓰는 AI…데이터센터, 전압 높여 손실 줄인다 - 연합뉴스 한민족센터",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHenVBeEVRU3dReGxJY1ZZRjh3d0pabkt4Mnd6LTByUjVYUEFSMFNjcVFrWV9YdHNFX0Y5VElyUktpOTRmSzg3aTN5UDJqWkpxNHBtRzNNN2dsQm55UmM3RXAzcE1wMEtaelJjbk1mbi1uVDlN?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "published": "Thu, 05 Nov 2026 06:14:51 GMT"
+      },
+      {
         "title": "\"AI 데이터센터 바다로\"…한화오션, ABB와 해상 전력 기술 개발 - 뉴스핌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHS3lKcjgxcENvV2pSa0VMWC0xbkNGczV5SlVxNDBxZWxoMDltTWFmWndFbGdmUnEyeUpRMXA4akd0eUNMMTdUMU90djFsTFBmTmEyNC10WmZVUjBG?oc=5",
         "source": "뉴스핌",
@@ -239,16 +245,10 @@
         "published": "Thu, 05 Nov 2026 01:48:18 GMT"
       },
       {
-        "title": "AI 전력 출렁여도 끄떡없게… 한화오션, 해상 데이터센터 기술 손본다 - 아시아경제",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ab2o0ZlFhTmRVM0NVVlJpR3FJNkRFYmZMVkVTZldPbHhfV2lkQTZtcDFYVnNjMXpRWkRwMnA0N1p6QThseTIzZk5FT2Y3TksyNVR2dVoxYUdFSy15d0NLSw?oc=5",
-        "source": "아시아경제",
-        "published": "Thu, 05 Nov 2026 06:26:12 GMT"
-      },
-      {
-        "title": "[AI프리즘] 전기 더 쓰는 AI…데이터센터, 전압 높여 손실 줄인다 - 연합뉴스 한민족센터",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHenVBeEVRU3dReGxJY1ZZRjh3d0pabkt4Mnd6LTByUjVYUEFSMFNjcVFrWV9YdHNFX0Y5VElyUktpOTRmSzg3aTN5UDJqWkpxNHBtRzNNN2dsQm55UmM3RXAzcE1wMEtaelJjbk1mbi1uVDlN?oc=5",
-        "source": "연합뉴스 한민족센터",
-        "published": "Thu, 05 Nov 2026 06:14:51 GMT"
+        "title": "[인터뷰]“제주 데이터센터, AI 시대 새로운 성장동력”…틸론 최백준 대표, 글로벌 빅테크 유치·지역경제 선순환 강조 - 뉴스N제주",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OVB0U1hzdEhUWTJSYmNUSllaZWFHcVJaVGhOUEE3ZDZyOG9YZHJieXZiSVhDcWZMZmRRYVJ3NEdVVF85UUtYemZhV1NWVk00QzUwT0IxeWFsc0wxb2tya0FrLTFyT28?oc=5",
+        "source": "뉴스N제주",
+        "published": "Thu, 05 Nov 2026 10:54:00 GMT"
       }
     ]
   },
