@@ -1,212 +1,79 @@
 {
-  "updated_at": "2026-11-07T08:26:55+09:00",
+  "updated_at": "2026-11-08T08:23:41+09:00",
   "categories": {
     "반도체": [
       {
-        "title": "[쏙쏙뉴스] 미국 민주당 압승이 반도체 위기? \"우린 훨씬 유리해졌다\" - OhmyNews",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wOFYzMWJucUZadDM3QzRHaGpZWW4zLW9PVFU0YmdEWGJFQmdFU0VCLXFtUG5jRHJydUhQaWYzOFB1MGR4RTRvZHNWWFc5UWxVODNOSHpJU0hqeG9fbmdwWkx2LXdsQm9xZkV5VzJRYVEzRmJLRVF5Qg?oc=5",
-        "source": "OhmyNews",
-        "published": "Fri, 06 Nov 2026 11:39:11 GMT"
+        "title": "HBM 주문 백지화?…美 민주당 싹쓸이→삼성·SK 진통...실제 영향은? - 아주경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BVm00amM0a3Vib25PaENLYUdITFhmby13TmdrZFAtRi1ySFk0UkFuU01yVFZBVU8xV0RNUVhiNGJRNllQVFZqTDhXWjhCbklCY21sUFM0UEQwQdIBWEFVX3lxTE1fUkg5Q1Zicno5cEhUbW5IQ1NfYUR4LU1MYWZveUc1QWhFeUNQUk9LWTZwdm9fbnFTckwzQ1FVRVF1RkV5d0t2S3djam9fMDlqYUxUNS1mR24?oc=5",
+        "source": "아주경제",
+        "published": "Sat, 07 Nov 2026 09:27:31 GMT"
       },
       {
-        "title": "[반도체포커스] 삼전닉스 메모리 쌓는 퀄컴 HBC…3D D램 상용화 교두보 될까 - 이코노미트리뷴",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpZURzUzVicmNjN0dNampWZ2xBaU1DTUFSUkxBS0VXVWxuMmFtWHprek05VUExYmRRZHMxekJZaHJQNF9iZW5KWUE1RUhOcjlDYm9UQzVjQXhiTHVIZmhCQnFqV3lFbHhiWjlyUEtPdTFzQnZRY0ww?oc=5",
-        "source": "이코노미트리뷴",
-        "published": "Fri, 06 Nov 2026 08:20:49 GMT"
+        "title": "美 '블루쇼크'에 K반도체도 긴장 … 데이터센터 지연시 삼전·하닉 공급 차질, 가격하락 우려 - 뉴데일리",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FLWx6a01NU2JOdnN3RTBkS2Q0T3BjbkRoTGFDWWRlRTVaQWhPV3RiRlh0cWVZWXhyWFhuZnRKcUJVeU9Vb0JCblFERG00SUxiOGprd1ZDRHgwY2Nzb0dLR2VNd2RubkdyeUZpT1pjMTZVSjNvYUpOYlNvONIBgAFBVV95cUxNNDdpcVFRck5wUkNRYUN4X3VxUm9maEt6Z2ZMZ3R3TllyUk5sZ2QzWUNJR1EyRlJDN2hERC1oZUVJNWFySjlYcTBXZHpmNU85N0xYR0N6ajZNQjBiZWc1TGdWUF9XMDFweGpDNlEzR3ZFZ0RZc2FDR2hZR255MFBnSw?oc=5",
+        "source": "뉴데일리",
+        "published": "Sat, 07 Nov 2026 08:40:00 GMT"
       },
       {
-        "title": "마이크론 성과급 갈등에 45억 달러 대만공장 증설 중단, 전영현 삼성전자 HBM 점유율 확대 기회 잡나 - 비즈니스포스트",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHeThVVDk2ZmlKR2QxTHdIUWJ4TjJfbkdaY3BDOWdaUjZLMnk0OU13Sm00bnE3R0I4cEsxMkIzSDRhY3FJZjRRTkZlREJsdi1TZnNMSEFwTVBWc0lyOHB3SFFlYm5QWG1TZ2lFbFpMTUh4d2M?oc=5",
-        "source": "비즈니스포스트",
-        "published": "Fri, 06 Nov 2026 06:41:06 GMT"
-      },
-      {
-        "title": "‘AI 반도체’ 변수 데이터센터 규제…중장기 성장 기대는 여전히 유효 - 한겨레",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91WjBRZWlXQkx0YTJheHBEc2h0N2xlOTYtNGlrVms3cjQ0T3ZYcTRKc01LNF93aFVrMmNDUVpYdFdqeTVWSGxJTlhkQ3RlRmdwTXhWbEhEaHE3RUFiNk5KRWtYdXQzbXVwbUE?oc=5",
-        "source": "한겨레",
-        "published": "Fri, 06 Nov 2026 06:36:00 GMT"
-      },
-      {
-        "title": "'영업익 15% 달라' 노조 요구에…마이크론 6조 HBM 공장 멈추나 - 조세일보",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KbzdzMGltSjhoR2hzdkU2dC1rMnB2dFIzWVZIMDM2a3FPRERjdk5ickt0THNfdlVCZTlMNFljRG9ESS1iV1pQWHJhWEVBa0g3WExkTE1MYkU0elMtNzJF?oc=5",
-        "source": "조세일보",
-        "published": "Fri, 06 Nov 2026 05:21:12 GMT"
-      },
-      {
-        "title": "SK하이닉스 HBM4 '업계 최상위 수율' 확보…삼성 추격에 생산 효율 높인다 - 뉴스핌",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NUDhsNFY1WHZKVGdLeVRkSmcwaTVYdTJPZjJSbW1sYUx3SFRlNlRVNExGbzJ5V3RNRWp6djU1bFdHNmhyYmhRdHFWS3pLbnZTTlMzRWQxQUx4UGlT?oc=5",
-        "source": "뉴스핌",
-        "published": "Fri, 06 Nov 2026 05:07:00 GMT"
-      },
-      {
-        "title": "미국발 AI 충격, 아시아 반도체 증시 덮쳤다 - OBC 뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56SGJVRy02S1QtRmpSS1RENi12OHhUTE01eDBlNDlad3lhU01OeE1sWFM2amV1TWlnSC1iay1ldDlzYlNYMzhXaTVUMkdCN3p2c3VOSlFycENQUGd4ZFlqeTR3d1VyaGRI?oc=5",
-        "source": "OBC 뉴스",
-        "published": "Fri, 06 Nov 2026 04:57:02 GMT"
-      },
-      {
-        "title": "美 중간선거 민주당 압승에 삼성전자·SK하이닉스 투자 셈법 복잡…보조금·AI 수요 '이중 변수' - 중앙이코노미뉴스",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yWFk5Ri1kWF9qb05BQ3FtLTNnWW1zV2N1U3F6dVZ0ejM0WE8xLXY3NGZldDl0SkJpd29GaG5WZ2s2WFJGUUMxNHVsQWFjNlowY2FoSHJPLXBrZGZLZnFjUlRuYlVkZWpFU2t4RGgwOWVYdw?oc=5",
-        "source": "중앙이코노미뉴스",
-        "published": "Fri, 06 Nov 2026 04:39:09 GMT"
+        "title": "美 AI 데이터센터 지연 우려…K-메모리 ‘증설 속도 조절’ 시험대 - 뉴시안",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yNFpkRGhpcXhidTdJTDRFbmdlc2RWRkhxck96aHQ2RDFQMFBmMFdnZjlLSjFWQ29OSGJ2TDlYNERfNFFtVF83MVlIYjZpcGVKcUlWaDQwbVdBVVlPel9QT3c0ZHR3NEduMHVMQw?oc=5",
+        "source": "뉴시안",
+        "published": "Sat, 07 Nov 2026 00:50:49 GMT"
       }
     ],
     "국내 주식": [
       {
-        "title": "'블루웨이브'에 급락장…코스피·코스닥 번갈아 매도사이드카 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IV0pRM1VNdWN1SHdjZ1B3WW5DYTMyTHNpc0Ryci1YeGs1Ynoxcm5kcXFwU3NDTmJBdU9TVGJqUFZqY2JwR3FSWlMxcUhVbm5TZTc3c3E4Rks2OXVBeFY5ekNWTE5peHJD0gFuQVVfeXFMT1BORVVuX3NqSDFCYVl5aHdvNTlvczdLVXR1SXlDY01CbkNQeEhwSlFEQ0x5R1ZJT3RwYmdKV256ak1sVHZtYzR0X0lFQUQ0ZThZYlBNVVRRVGdjVjJJNVFxZkFVZE9FZndabDZ0N0E?oc=5",
-        "source": "머니투데이",
-        "published": "Fri, 06 Nov 2026 13:23:17 GMT"
-      },
-      {
-        "title": "美 'AI 규제·데이터센터 둔화' 악재 덮친 증시…코스피 5,000선 턱걸이·코스닥 5%대 폭락 - 프리진경제",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lRDhnWTRldF83ajVCdEQ0Z1VySG4tMjIyNlQ4OEthUXlhSEtEM3VwUVlRX0g0NHJ5eW12bW9lbnBHQzBPRVROWVdsam91dXhSZnVPZk9NUVlNNmJUMTREN1I5dXFEY0RYWGd2dA?oc=5",
-        "source": "프리진경제",
-        "published": "Fri, 06 Nov 2026 08:34:57 GMT"
-      },
-      {
-        "title": "국내 증시 이틀째 패닉셀… 코스피 5059·코스닥 644 마감 - 대전일보",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkZUVUWURieXdNWFVObVVlVjlwRVRRc0xST2N6V2stTXd6NGFNNWdaSG5ZSDJEN3FFYURpcy1lR2ZaUVNyMFVqNFd4RFJVVjNGb0NFb1gzb3VaY0t3bm9jUk5mNGlQN3ltZk9BUmlkb9IBc0FVX3lxTE9XZEVEb3QtbDZzcm1xR0IyWmVSV1pWUHhsWEpBTkc3aWxGUGEwN3FfZ1VvR2s1MnpzSWFsd3BteXA5bzFZZVA0X0x2VjdycEtTM3ljRDFWanRRdEpGaHFaMnhaZ1JVbnRPZ0NqaDQxVEhUbmM?oc=5",
-        "source": "대전일보",
-        "published": "Fri, 06 Nov 2026 07:22:00 GMT"
-      },
-      {
-        "title": "코스피 -6%대·코스닥 -5%대↓ - KB Think",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qZ1RnU0xPOW5rdGhyc0Y3dDlVdU5sQ3VkZmlHa09GY0oybmZ6by1JbU9xSjFOZXpDY3FqazRFT1o5a0xJSFhQZTFyeU9OOUt1cGN2eW0yNTZ5eGNWdDRvcEUzd0tWeVVxdVB4ag?oc=5",
-        "source": "KB Think",
-        "published": "Fri, 06 Nov 2026 07:02:50 GMT"
-      },
-      {
-        "title": "'검은 금요일'...코스피 6%·코스닥 5% 폭락 - BBS불교방송",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LVi11al85ckJIMW9KcDFnWE9PNUhYYnFLVG9qb2VhRGxGWXNCVF92SWxQQ0JRR3NOY1NKRzRnRjNtOThVUDFHX1YtWTZ3Y3VsNllJcFI5Uk91cUdodFJINE1BcVZRWFFnSVRR?oc=5",
-        "source": "BBS불교방송",
-        "published": "Fri, 06 Nov 2026 06:46:56 GMT"
-      },
-      {
-        "title": "엘리스, 코스피·코스닥 동반 급락에도 25%대 급등…VI 잇따라 발동 - CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGTy1iQ283dFVTSkRiVHJIOFg5ekZUcThrcDMtLVdTS3JtOWxZUkRldzc1NUZhMlBmUG52UTR3NllrRGtiV1BqM1hwWkhjMjFISFZiejFsRy0xQkUtUzhldUFXN1V3ZEx4?oc=5",
-        "source": "CBC뉴스",
-        "published": "Fri, 06 Nov 2026 04:47:14 GMT"
-      },
-      {
-        "title": "루닛 주가 껑충…코스피·코스닥 동반 폭락 속 '역주행' - CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41WWJ5WkRZWEptMFdFTlBWaGR6MUppbHppcE9yRG1fenF1Ul9rWHVmaEVQVzVqdFpGVS10Q0toTkFuQUp6MG9YWnVrYUZBeGp6cG03cVhtV2x0Y3JWaVJXVDhGLTRtcDZ5?oc=5",
-        "source": "CBC뉴스",
-        "published": "Fri, 06 Nov 2026 01:29:41 GMT"
-      },
-      {
-        "title": "코스피·코스닥 덮친 '검은 금요일'…서킷브레이커·사이드카 연달아 발동(종합) - 뉴스투데이",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBISFJaZHc1MzRsaWNzR1gtaVF5b3lCaWVlcUl2ZmNWdXp2ZjhnNG9UVmRJLWNQMm1NbnRRVXJjRnhzT0tsRmtDZ2F1cmV0dnZZVVBNVlk2S2x0WEFmQUE?oc=5",
-        "source": "뉴스투데이",
-        "published": "Fri, 06 Nov 2026 01:24:00 GMT"
+        "title": "[11월 첫째 주 세계경제동향 브리핑] 코스피·코스닥 11%대 동반 폭락…美 증시도 급락 - 기호일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qUlZmY2NFbEFiYmEwcFhFS1dqeXdsT0d0NDdtQXpSRDNsemxxYVVWNnp2cWpRdVVVZElXMW9CNHNUcXBrd3JOcUFQQWpaV2lWWUMxN1REQ0NjVUNzV1NNd3ZHNUxjdmtVbFNYaTJvbw?oc=5",
+        "source": "기호일보",
+        "published": "Sat, 07 Nov 2026 01:45:31 GMT"
       }
     ],
     "미국 주식": [
       {
-        "title": "27개 증시 약세장 분류…미국 S&P500·나스닥은 기준 미달 - 토큰포스트",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxRGM4MERPeWF1V3VpRHZUVVBLTEY2Q05mUzN3SjFvN3QxbzJTZGZ1eWJaaDdTZl8xdVhwcF8yRDFiWDhHMGRUMFVfZW9DREkwazRXWjZ30gFbQVVfeXFMTTk1dVlqQUJwaE9WVHBlSlJDVVNLVy1CMjcwNVhXTWpRZ09hRWJHMkdmY3FTUUxFeEZ2RTJydGtjeE9IMUtxNV81Q0JPeHd3QVRMc1lObkk1RTRKcw?oc=5",
-        "source": "토큰포스트",
-        "published": "Fri, 06 Nov 2026 15:38:28 GMT"
+        "title": "나스닥 지수는 미국 증시에서 4주 연속 하락세를 기록했습니다. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWtzeGN5dEN0Q0VJQU03TGNid3A2eGRuNFBibTZHQkpKdjRiSUdWaDEtR0xGZFRjMzhLWWxVZTBuWUxyNzhna29mSHJsYTllZjB4dHpzSXQwS19iZVF5dzZXTTdJMzd1Y3RkTUM4eHRIRllFOVVYTlQzYkd6U2czbEl5eG5tRWkwSlJacy1aelNTUnhDdmp3UHVZb29hbjQ?oc=5",
+        "source": "Vietnam.vn",
+        "published": "Sat, 07 Nov 2026 04:38:03 GMT"
       },
       {
-        "title": "뉴욕증시, 'AI 쇼크' 하루 만에 반등 시도…저가 매수에 나스닥 1.2%↑ - 뉴시스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54ZWE4Y3NoNlRGRWZ5OUxFS2NuV1Y2U0lNdzU4bzZINnNKbl9JbEgwaGloUHdVTmtNaC15Q24xYkxlMVBvbHl3ZHpkQzk1TjVua0F4YS1NODllcURCRlRVLdIBeEFVX3lxTE0wb2g2WGVBN3l6aHp6aW1iRU0tb0JjNVRTM3NiYVJRckNIXzBDd0ExSXk1Mm9UUGdnOTV5TlN0UnVHdnE0TTYzb0taQnhURUpZRFA3R1AwVXJUQW5vbE5OOFlOaUR6WFpjSGlqTUYwM3M0dXRweFVwTQ?oc=5",
-        "source": "뉴시스",
-        "published": "Fri, 06 Nov 2026 14:42:16 GMT"
+        "title": "AI주 하루 만에 반등…다우 떨어지고 S&P500과 나스닥 상승 - 콕스뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdjZsTHF2dXdYQ1hRM3cwZXY4NUxfdm8wZDFYd3ZSSmFsRjFiR0lGSEpTRklCa1V3QzlWV0dkRzJaX1JLWnJuNzJnRmctS0JzYWljNkFNSUw0YWp1WVVTQVJ4U0ZScEZObEE?oc=5",
+        "source": "콕스뉴스",
+        "published": "Sat, 07 Nov 2026 01:58:01 GMT"
       },
       {
-        "title": "S&P500 4.4%·나스닥 5.5% 하락, 코스피 장중 8.6% 밀려 - 토큰포스트",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pcnp1akdqU19kYm4wdUVrT1pjUHBNc1dQSFVhVm96TzlSU3lKSDZVSXFRWko4V3hhSXpNYnEwUG9zTUFYQzM1VGtodUVqblJJYVF5c0lFbXbSAV5BVV95cUxOOTV3WDlRc05Yeno1bmVyUDZFMzlhZXk0aWdEU1RmRl82ODJnQ0xYb2YtNVlkUDBMRXNtbDFJcGRDa25aZ3lEbkZTeTJueHpxQ09CRGNkZm1CZkVGNHpB?oc=5",
-        "source": "토큰포스트",
-        "published": "Fri, 06 Nov 2026 07:29:51 GMT"
-      },
-      {
-        "title": "기술주 주도 전일 5% 급락 후 Nasdaq 1% 반등, 스페이스X 주가 8% 이상 급등 - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdHItRjgtdXFXcE9CTTlIMjd0dklBUXV4aWVSRHBGSm9PRnFXSkJ5OVNTMzRBbVA4WU9oTlVVMnh6S29OVVB3Q0NMV2lNcXpFQUhTZG1LZS1PdmkwMU9DTmZmNjBFNWgxQTlIWFpWZzVjY2V0emphRk9ab0VJYXNKZDhJNkJwLWJnM1NxM1hsVmkxRXM3c0dGMnRaYWpaMEtYX0h6U1g5MGlueHFDSF9tQUdnOHVRcHBsR2hLTG9DWFlZMXBJaTlZQlBR?oc=5",
-        "source": "TradingKey",
-        "published": "Fri, 06 Nov 2026 04:16:00 GMT"
-      },
-      {
-        "title": "미국 증시 급락에 S&P500 기업 시가총액 약 3조달러 줄어 - 이코노미블록",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zLWdfdVZIY2lJMGVFS3NidjRkWVhTWmkwdTRCYkRPUkFNYWFLcDFEb3lqSk1kWDA3dVpLVW5ka3hUTWJJTEFQWVpLTms?oc=5",
-        "source": "이코노미블록",
-        "published": "Fri, 06 Nov 2026 04:16:00 GMT"
-      },
-      {
-        "title": "[미장 브리핑] 뉴욕증시, 다우 하락... S&P 500 급락 - 센머니",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SbUJLckQ2OTNGclZDUUUzMTFucUdGVmRaS2h4MXVBMEtRN012UkdFWGNlaEhEUFJxSzlVR3AwNWx5cWJhYUFDYllXUFBsTE03TnktTFBydUNfTTFTN2ZzdnBCblpwV1ZFS0JoRA?oc=5",
-        "source": "센머니",
-        "published": "Fri, 06 Nov 2026 00:10:50 GMT"
-      },
-      {
-        "title": "민주당 승리에 美 증시 '패닉셀'…S&P500 4.4% 급락·3조달러 증발 - 디지털투데이",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QanBrWlBMZGp4WWxpUDU5UDFLMUhHT0VFOU44VzlPNTlELW1oWmZ1ZXNSZWgtNFR1LW9lTVhtbGNKME1FLTdNdXZWVWtBVDFzLWdaOTFaREhVWXI2MEFadVoxSUVEcUYxa252WHhHNXdrb1E?oc=5",
-        "source": "디지털투데이",
-        "published": "Fri, 06 Nov 2026 00:01:17 GMT"
-      },
-      {
-        "title": "AI 규제 우려에 나스닥 5.5%·S&P500 4.4%↓ - 한국금융경제신문",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11cm0tbjRGV2xOM3Y0a0FtcUw5T0p6NXU4OTJuUE5QSHlKUHlPTmE4cFo3UW0yenlIRHYwN3ZYVUhjU3hlVGZjWENuaGJ2bDVpTmxuVEhzazFzY1AyRldDaUlUS2sxZ25KWTFvSNIBcEFVX3lxTFB4dS1GVHVJNkZWUVcwU2xWSEVkekNKMjJvLS1hODRfbzNzRUZzLWRkOERwYjZ2T2diRGVJN096RUNBSWQwOGNMSmMtaGVFWVRObVcwMEphMWpfT3JNMVVsNE1JMVVsWFBNNDQ0WW4wMU4?oc=5",
-        "source": "한국금융경제신문",
-        "published": "Thu, 05 Nov 2026 23:34:31 GMT"
+        "title": "뉴욕증시, 반도체주 반등에 낙폭 일부 회복…다우는 하락 - 스페셜경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0RlB6cXhxekphb2lldTZ1RlZzRGJKdUhyOVYycmc0bnNJQWtDckYyQlZrRHpkbkdfZGtZZVlxOTFSMS05VGNpd09Tcy1sZThlSUZoVXhXMDhzTXpvZk9rX0dWcXNMZm1OZzJPUQ?oc=5",
+        "source": "스페셜경제",
+        "published": "Fri, 06 Nov 2026 23:42:19 GMT"
       }
     ],
-    "경제": [
-      {
-        "title": "[책마을] 투자 고수는 달러와 금리를 본다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZWM5eVVDX09VcFFkQzdFQlFya3FLTjEtcW92TEMxOVJkZEZzdFA3X2Z1UnZIOS1FZEJKZ1BxbkxicEs3MDl0cDFscmNXa0hKdEo3WUNWaVY5QQ?oc=5",
-        "source": "한국경제",
-        "published": "Fri, 06 Nov 2026 08:49:25 GMT"
-      }
-    ],
+    "경제": [],
     "AI 기술": [
       {
-        "title": "미 중간선거 쟁점된 데이터센터…버터도 안녹는 국산 AI칩 주목 - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVk5IdzlwMTYwVV9oS2JaTjZsSUVSd013WXo5RndaWDJPNy1XTk90UFhyd1lxNUdpbjJFeFMxbEVwTGhmVVNQNV9NVUEzY0ZuMmJrT1RsT0pSdm_SAWBBVV95cUxQekJOd2YyYjAxdHlyR3hhZTNyUFdiRW1sOXhjWWFCYTFwekYxb1BWRXhtMEhTNmkxa1VYa2NGSkY2TkNNSlU1Y2x3ZjlCTTUwTFM1UlVxclVTLVZRNEZFQ08?oc=5",
-        "source": "연합뉴스",
-        "published": "Fri, 06 Nov 2026 06:20:27 GMT"
+        "title": "AI 데이터센터 규제 우려 과도했나…이번 주 코스피 반등 시험대 - 핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Qa2RMZUZqZjBST1dkVk9tOVVDem1lWk1HeTFKbEM1SkxEZVRNNTkydVJxQW4tQ3JrYksyWGVkcGFzdFJMdEJ6N3AzbHlwam5rdU9EaHlwSnZHZVZmUm5Mc1VTeUxUOGVrVW01eEZrcklxOVHSAXdBVV95cUxPbXJuVWhvOGpvZ3VCTG5qam5weG9EOVFHRjhMb3gxRWc3WVI1Z19tcUI3NlE1RjVrZGFuV2tCTTRPV1BnaDBXMkZFejU2UERNX1p5dHZCbjI2TlRRZGY2cmpTME5xX0F2VDhFeU82RUFtWkM1SHVkWQ?oc=5",
+        "source": "핀포인트뉴스",
+        "published": "Sat, 07 Nov 2026 21:12:57 GMT"
       },
       {
-        "title": "\"미국 주춤해도 한국은 멈추면 안 돼\"…정부, AI 투자 지속 강조 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wdWs4UmN0ZzZTNmFZR2xDdFo3dnVURmpwUEdqZGNneUdFZGNOblh0aEJLUmZ5eDU3TDBabkExREpOZU9tS19IblVDMk5POWZXRVBGVjZ4ZWk5UQ?oc=5",
-        "source": "한국경제",
-        "published": "Fri, 06 Nov 2026 08:18:02 GMT"
+        "title": "미국 중간선거가 AI 주식 매도세를 촉발한 이유 - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83NnJlbTkxLXpuNmFvSEkybVViY3BmOHh3bGZRdVNrTmlTRnFRZXU5MDRpQ1kxU1U0bnF4VkFhdmZCZ012a09KcV9xSlZWYjJkVFRGb2ZOazJQVmJlN2fSAWNBVV95cUxOU2Y1ZFlCX0dNNmJ4UUJpcnNfZGI1ZG5TZktFZkdaTjFDMFBkTjczS0NIcDBzcDMtMVdEUFphMkljSnR1d19Ea2xMdFQzdllKNm5uMFVxQVpMSEw1Q0lDb1RVT28?oc=5",
+        "source": "BBC",
+        "published": "Sat, 07 Nov 2026 02:51:04 GMT"
       },
       {
-        "title": "데이터센터 전력 불안 원인 찾아낸 켄텍 학부생들…한전 발명기술혁신대전 동상 - 매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6VXAzNVZBTjNfQ00zNVVKemJkd2N2aGJCaUQ4ZmZfcU9tZm5YT0pQUmhGSnk0WE1nNzFaWWdJZnRXVTZLbmlSQjVkZnBxN2xfOHVBbA?oc=5",
-        "source": "매일경제",
-        "published": "Fri, 06 Nov 2026 05:31:41 GMT"
+        "title": "블루쓰나미에 막힌 AI데이터센터, \"우주로 사막으로\" - 포쓰저널",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jWXlkNFhidlJyYkt5YUtwU0hSR0E5d21nSVRMSXRPQXdlb1lYWVc1elFvLVBTRHZmYklUSnhNaHhTRTM0TF82S285SXFsTjlXdnpLV2ZJSlJmeUt2VHlaWmctWQ?oc=5",
+        "source": "포쓰저널",
+        "published": "Sat, 07 Nov 2026 02:10:47 GMT"
       },
       {
-        "title": "오라클, 225조원 규모 美 AI 데이터센터 구축 지연 우려에 7% 급락 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XMDktZkk1SEZsb2h4M25EeTRQWXpLUkl6XzFKTUtVNjZxenpLNlQtUUV2RV9faEswRDNBTU5iSGViOU8tNmJtTS1KYm9iV1FSNHQwRTEtZzdmdw?oc=5",
-        "source": "한국경제",
-        "published": "Fri, 06 Nov 2026 05:06:39 GMT"
-      },
-      {
-        "title": "배경훈 “美, 다시 AI 투자할 것…AIDC 투자 늘려 신속 대응해야” - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IdkN4WDhyb2VtaTRFRDh6TWt5Q3ZmUWxiUFNqZ1N4dWZjTmJtYkk4eUpvdUFJVFVHelNuYVV1Vk54Tm9IZ0ZNWXhmNVFvV2xVSlHSAVNBVV95cUxOa1hVV3VOOHlSSUFFSGw3dkxmdHQwcE9BTDRka1MzcDVrTVk2RTVjVndZUTNBQ0FVZVBmTVIzei1mY215RlBDVXNJZnpEM3JpRVdBVQ?oc=5",
-        "source": "서울경제",
-        "published": "Fri, 06 Nov 2026 04:17:02 GMT"
-      },
-      {
-        "title": "배경훈 “美 AI 데이터센터 규제, 韓에 기회… 투자 멈추면 안 돼” - 디지털데일리",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqMHREQlJOYjU4Sm1wS2ZtUldEYW85NXRWWk5UNmd1ZTQxWWtuS210UmJCOGxCOUs2WURybDRGUUdHQ0pyOTVwYmx3SGRNaGtCX3lsWklVSjJCcFBaa3RXMHh2bDQ?oc=5",
-        "source": "디지털데일리",
-        "published": "Fri, 06 Nov 2026 08:04:13 GMT"
-      },
-      {
-        "title": "소코멕, 한국 AI 데이터센터 전력시장 투자 확대 - 디일렉",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQcEkwNnMwMk8zOW9DZzZjNWJRQzJ3VU5WTEV4T1UxV09HR2tudHV3cTU4bTd6ejVpX205MEV2NVlnTno5d1NtOUxaMkpnaWtOVXVzX3R4SDFPakdPeEhHWFloV0Jidw?oc=5",
-        "source": "디일렉",
-        "published": "Fri, 06 Nov 2026 06:25:22 GMT"
-      },
-      {
-        "title": "[AI 블루쇼크①]데이터센터 규제 우려에 나스닥 급락…AI 거품 터지나 - 뉴시스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3M1Q2VzlUemxyWVlKb3czbTNmVm1iU2dFb3ZhUWppQzZlMUxHbkxSVUVVclc3d05ZNTFwRmMtd2traVc5VzkzeUxySjhxSjdaODg2QkJNeWJ3eEp4WTZTTNIBeEFVX3lxTFBtdjRXbXVZUFJ3eGd2LVk3OG9FRWRyMEQtY1RjdGE5bTVVYlFhZ052VXpkNkFTY2xPemtuckdFTGhYQ2VWR2xTak9welBmdWQyVXZ6dXliX1BtSTJ5R3VpeTBiSVVRMmhqcDg2R3dvdVFlT1NPS1NUZA?oc=5",
-        "source": "뉴시스",
-        "published": "Fri, 06 Nov 2026 21:00:00 GMT"
+        "title": "배경훈 “美 AI 투자 주춤해도 다시 확대…한국도 데이터센터 투자 늘려야” - 세계일보",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KenR6WmZvdzhPSGtWTE95cHlzSDdHeUJXRXp0d2hSeDVOZkxvaWtvamVrVDFaVWQyV2tkSko4clRwWFNBNFdPYTFXWkpPV0FCVDNtMkNqdnrSAVRBVV95cUxOTVgzcFJBTW5PcWlwT3hBNi1ET3RpcVhBWkhMUW1pa3BnS0ZWSnRrTkZKeU1wdnYxUXZtTl84b2dKNmplY1VUcm5XVFkyWFlSRnV5LXY?oc=5",
+        "source": "세계일보",
+        "published": "Sat, 07 Nov 2026 01:40:21 GMT"
       }
     ]
   },
