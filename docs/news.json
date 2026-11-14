@@ -1,181 +1,96 @@
 {
-  "updated_at": "2026-11-14T08:29:52+09:00",
+  "updated_at": "2026-11-15T08:24:35+09:00",
   "categories": {
     "반도체": [
       {
-        "title": "'깐부' 삼전닉스는 문제없나...'AI 락스타' 젠슨 황 퇴진에 복잡해진 셈법 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZZDUyZ2FHSHJNRW92LTF2V2Uta3FUTHRlZkNxN1FsclRJWEtoTW9vNGVZcXR2UlBNd2JPSUJQRnJCbWwxdmpHRms4LUY2bUd6WTlUcGRDVHdoLUhXVmg4YjVKQWFCb1lTR2RsbtIBckFVX3lxTE9xb09xSE9GRnl6eXh1b29BLXc0OVItVlJYMWo3WEhiOEhYeVpDa3JYTVd0S3ZiVW1zX0QtUzZQQTFyWkpwaVNldFV5TzYzT1ctQ05lWHJ3QTJuSnB4NVBXTHRzRGh0RFJlT0tFYkVQQkoydw?oc=5",
-        "source": "머니투데이",
-        "published": "Fri, 13 Nov 2026 02:40:59 GMT"
+        "title": "휘청이는 '큰손' 엔비디아…삼전닉스 추가고객 쟁탈전 불붙나 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uMXF5UmF5dXRPcFk2U1RLaFVTLV9NYTJKbXhNcklKbjRPdjUzaTQwWmZwWmJJNnNYcWhGekFoS182djhHc1BDejl1UWwwbi0tcFE?oc=5",
+        "source": "매일경제 마켓",
+        "published": "Sat, 14 Nov 2026 21:01:01 GMT"
       },
       {
-        "title": "젠슨 황 떠난 엔비디아의 빈틈…삼전닉스엔 '뜻밖의 호재'? - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFcUNOY04yUXB1ZVNSMUJ0SlpINWM4eVQ3ZXE5ZDBkTGFkMUtnMFZKdGRkVGFUcTRkODJxVVRqTjk2R0haMmExVDExVmhuTmN0LURKZHpxNERPZw?oc=5",
-        "source": "한국경제",
-        "published": "Fri, 13 Nov 2026 01:48:32 GMT"
+        "title": "[반도체포커스] 엔비디아 '베라 루빈' 추가 지연설…내년 HBM 매출 비중 확대 제동 걸릴까 - 이코노미트리뷴",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95eldQWjVnRjFhcDBYWjc2anFabkFiSnNRTmhQdnNjTURiYWFycU9ZZjY3NmtqQXlxMDdQRFVvTzZHVUtDOXVoR0pEVS0zbTlFZjRFTkh3dGt6aERScFFWM3FaQ1hkNFh0ekcxLUNXVF9ZRk9UZ1VF?oc=5",
+        "source": "이코노미트리뷴",
+        "published": "Sat, 14 Nov 2026 09:38:25 GMT"
       },
       {
-        "title": "젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수 - 뉴시스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVRkVodG03emxfTHFUUnBRUTFvT3Q1cU13S0ZnNFpMNU4xc01kbk9mNk5XdU1iMTRlWkxpdFdLMkpSMjdROEdudzg5VHM5TTQwZ2lWeWJYVHl4aGZGUllCedIBeEFVX3lxTE92MmVLSVdXNzdoal9feEVXMVlZeWhaejBYTllsSTk4dnFoRC13ZGJxMXRTYW9XeG1neVhlX0lHQjV1X0J0X3hRT2RUdnJOQjhOTHFUVy1OeDVjSi1fbGhnRTZ0SlJLQ1FMUDFoVkFBZ2lMbG5DMU9PNg?oc=5",
-        "source": "뉴시스",
-        "published": "Fri, 13 Nov 2026 23:00:00 GMT"
-      },
-      {
-        "title": "젠슨 황 퇴진에 K-HBM 긴장⋯삼성ㆍSK 장기 공급계약 영향 촉각 - 이투데이",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rR01QSHNfdTBDWkZYNG9CTHpvcjQ0WG5tdC1PU1lrREd6Y2J1NXoydk5kT0FjMzZuR0oxSVFOUXBHd0RTUTk3YVptaGxSeEVmMlFkRQ?oc=5",
-        "source": "이투데이",
-        "published": "Fri, 13 Nov 2026 22:00:00 GMT"
-      },
-      {
-        "title": "“22조 적자의 교훈”…삼전닉스, 메모리 증설 공식 뒤집는다 - 한양경제",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03aS1uUDRGT0V2Q0VsY2t0bmIyeDdsZHFUZjdVQmZVQnBNQWVfczBhbXBUYi1fV01lY0gzM1kydFN0YmYxZXprcllXNHl4dl9MNWU5cU5BZmV5dHE2TlpUV3dULXRpZFVHVGVOdm85U1k3QQ?oc=5",
-        "source": "한양경제",
-        "published": "Fri, 13 Nov 2026 10:56:30 GMT"
-      },
-      {
-        "title": "젠슨 황 사임에 삼성·SK하이닉스 촉각…HBM 추가 수주 변수 - Korea IT Times",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJemNCLUlLQzNSYkpYNE5SRVpkV204TnRDdnp5VlZESk5TZTQweTluOFZ1LWpnWWVlNnJxcFNiZFVYZXRwRmc2WFNNcUZSNTYwd2hNRS14eGR4QVZTSDhfeTBLMWtOWS14c0UzTUVlWEU?oc=5",
-        "source": "Korea IT Times",
-        "published": "Fri, 13 Nov 2026 10:31:00 GMT"
-      },
-      {
-        "title": "[AI제국의 위기 ③] 젠슨 황 퇴장에 HBM 경쟁 새 국면···삼성 반격·SK 수성 - 서울파이낸스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nNUtFODRweFNPMEFQQ2NtWWJCd3Y4bWU1M29qTjFCRGEtWlNyckNxVl9xS0RzTmg3MFI3NFdYWk00MmhIRWY5a2NiQUpMU3BtV2s1NEZoVGlLYzVnQUQzNnZLb2k5RURhX2c?oc=5",
+        "title": "[AI제국의 위기 ⑧] 젠슨 황 없는 AI시대···삼성·SK·현대차 '기술 자립' 시험대(終) - 서울파이낸스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hNkZ6aGRnTGkyMC1vZ3A1TlJ4OFREYUVLdlVwZWpsZkNURDdVWDd3WWxBUDNpdnROeTkzTXZGeEtvNW5pdlRhWUJqTFJWS3Raa0Fib3g3UV9zS3l6eFRHdjR6d0VKWWxmNHc?oc=5",
         "source": "서울파이낸스",
-        "published": "Fri, 13 Nov 2026 08:00:00 GMT"
-      },
-      {
-        "title": "젠슨 황 사임에 中 반도체 공급 의혹까지…삼성·SK하이닉스 영향은 - 위클리서울",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94bTNTSHAtaUxzRUhOOFExaG8xbnR1ZTJOWnNRb212bTVYUnE0UGhDcDRsZEJGZXJsVXpYb0JwSjJFdWVHM01HS1g0WVNiMUEzenAyOHZmRmhjWmJ4Y1BzV19FaXVIcXRjUWNJMA?oc=5",
-        "source": "위클리서울",
-        "published": "Fri, 13 Nov 2026 07:46:47 GMT"
+        "published": "Sat, 14 Nov 2026 08:00:00 GMT"
       }
     ],
-    "국내 주식": [
-      {
-        "title": "'젠슨황 퇴임'에도 증시 선방…코스피·코스닥, 2%대 상승세(종합) - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VbGh6bDh5N1puRFFldFRzeE5iYWJmTE1hOTFpeXMwSHJtaVpQcHl6eEFYX0s0N2JMWmgxUmFGN1hYUUpVNGRNWnJ0Q0g4YkVKVDQwR0dKM2FuYnBuZ3V0Q9IBYEFVX3lxTE1VbGh6bDh5N1puRFFldFRzeE5iYWJmTE1hOTFpeXMwSHJtaVpQcHl6eEFYX0s0N2JMWmgxUmFGN1hYUUpVNGRNWnJ0Q0g4YkVKVDQwR0dKM2FuYnBuZ3V0Qw?oc=5",
-        "source": "연합뉴스",
-        "published": "Fri, 13 Nov 2026 00:26:17 GMT"
-      },
-      {
-        "title": "\"젠슨 황 리스크 충분히 선반영\"…코스피·코스닥 2%대 상승 출발 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oeFNCQS0wdTNRWl9MN2l4bE04NlBHeVY5UEREMmthdzBYc01lVWVRdDVReTZVVmVUQXhjTm1ZSEw3cmFBSW1HclZYVEZkdkRYXzY4dG55dW1lRmxjX080THRQWm9PdzJT0gFuQVVfeXFMUHBjVWV0UldHSllSZ3ctMjJ0NTdNNmNBVkU4OFc3YTVQYzRaMHNOVkd3LU5LYVdveFdlUnhVNFBtRWFpcmpwcFFyaTRjWF9mdUFZb25Bc3NzbGM5eWNCMzcwRWluVVRpME1xWktXQkE?oc=5",
-        "source": "머니투데이",
-        "published": "Fri, 13 Nov 2026 00:26:30 GMT"
-      },
-      {
-        "title": "[마감시황] ‘젠슨 황 쇼크’·정책 실망감에 코스피 5300선 붕괴 - 한양경제",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MNld0NlJ0QnhoeXFwSUtiUkVwRzNCR1B0a2gxRFVyeTJ5YkVZaHBMSHgyUXNSd2gxM3RHY29iUEY1SGtSaXhSYkVVTVJJcGp1d2EyNlFsU0VMelRxUmx5YV9GbThZTXlwN0wwSi1LQmc5UQ?oc=5",
-        "source": "한양경제",
-        "published": "Fri, 13 Nov 2026 10:53:31 GMT"
-      },
-      {
-        "title": "[증시분석] 코스피, 5,500선 넘었다가 5,290 마감…외국인 매도에 반도체주 밀려 - 강릉뉴스",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4M0xyMERjUENvUHRSTmViSjdrM25wRWIxWW9vZ1ZKRmh6emRzVnlPdmY5MmcxMFlQTjI3cTBCdXpiWTh2U3NpZEozY3V6cUpySTFkZk01TjNxX1E0OC1KeVF6YzNVQUk0RVBiVDhsOA?oc=5",
-        "source": "강릉뉴스",
-        "published": "Fri, 13 Nov 2026 10:31:53 GMT"
-      },
-      {
-        "title": "[1113마감체크] 코스피 지수, 외국인 매도 속 하락…코스닥은 강보합 마감 - 인포스탁데일리",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qM3RkeGcwYzF0OTVBdDE0MnAxS05vZ3hIR1JKbUctVmhXUW9keDJLMXRxMmRyNDFaNmsyMjJaRGZNY29Na29scUFVdmRGc0dTWkdXU05mcExwbGlsT0hTZjk5Z0g1OExqZGJKNTFUQmY4Ulotb1E?oc=5",
-        "source": "인포스탁데일리",
-        "published": "Fri, 13 Nov 2026 08:09:50 GMT"
-      },
-      {
-        "title": "[포토] 코스피 하락, 코스닥 소폭 상승 마감 - 천지일보",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VVWs0aEVPTUFXVVZ5LW9aSUxIU2piV0xwdXVBZy1IN1hvaXVFaEVLYTFMbzdWRl9URXVCLVo1bVNsanNPcmtWUE1palh1aTdVbXNNV2N3Y1J2SkZrM1FtelBYM1htdVlNY0E?oc=5",
-        "source": "천지일보",
-        "published": "Fri, 13 Nov 2026 07:44:32 GMT"
-      },
-      {
-        "title": "[오늘의 증시] 11월 13일 코스피 코스닥 - 뉴스1",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sTWczSEVnUXlVTWtWTlBvOEZfRURTQkd2Vy01M0ljcFRMYTVRZ2NKbnJxaWxGRnVpVklfWmphdDJDRTR5SkxYRC1haw?oc=5",
-        "source": "뉴스1",
-        "published": "Fri, 13 Nov 2026 06:37:52 GMT"
-      },
-      {
-        "title": "젠슨 황 사임 악재에도 코스피 2%대 상승…코스닥도 1%대↑ - 이슈밸리",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XMjFuTmJyTm9zSmFCdXQtTmloc1gtS1dYS3ItdmJfOXIzeFFDS3RXUUo0XzB0OV9DazNsRnpVMFJuWGFfdEdzSUg5Ry1TZFY1UXdINklQX0V3S2pXbDl2S0VLdHctMWlyMDlQbGZB?oc=5",
-        "source": "이슈밸리",
-        "published": "Fri, 13 Nov 2026 04:58:57 GMT"
-      }
-    ],
+    "국내 주식": [],
     "미국 주식": [
       {
-        "title": "[속보]뉴욕증시 혼조 마감…다우 상승에도 나스닥 0.91% 하락, 엔비디아 충격 기술주 확산 - CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fUkNsM0xQQzl3elJ4aG1wTHpFZmxocVc3VUJHTlpzSTR1NWJVVWk1Nk8xYUpoMUtLNFpDOE8tbU1zc0d0dHlLSHBWQU1lZUNwXzE5Vk4zMmU0bnlUdlFsYThFSG4wR0Uz?oc=5",
-        "source": "CBC뉴스",
-        "published": "Fri, 13 Nov 2026 23:05:00 GMT"
+        "title": "S&P 500과 나스닥 지수는 4주 연속 하락세를 마감했다. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1FLbTN1NWFoQjNkSnZuTmZpUGNrMGJpdVBrSl84SGg5TnhDcEIybG5rektPVHJHZjFQLURHOXNha3pRc3M5YlJSVFhZOE9nSndGTUh0UnY1cjVPUG9yWmhlTkU0NzNOT2NSRUJWSEtibGZMaU1YTWpEamRCWHM0WlByQVpYb3dKQlE?oc=5",
+        "source": "Vietnam.vn",
+        "published": "Sat, 14 Nov 2026 06:02:29 GMT"
       },
       {
-        "title": "뉴욕증시, 다우지수만 0.1% 상승…엔비디아 2%↓ - SBS Biz",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zT0VkX0tHMldrX3paSVY1TmVNcWd6X1JHQ05RMkJ2QTVkZ09NUW1fZk91cUNuSEhUTVdRX2hibHg5RFo1UkZqbEhtS3FnQzNsSUxz0gFYQVVfeXFMT3FMcFFPcnV2VHp3UWdCd3R1bW9uOFo5LXBfWk55MVdtVUViV1JKeWthb0gyNzliRGxybzVaaUpkbVZ3OUcyblNZZ0c2UndGSEgzangxY1dnNw?oc=5",
-        "source": "SBS Biz",
-        "published": "Fri, 13 Nov 2026 21:27:00 GMT"
-      },
-      {
-        "title": "[속보] 미국 뉴욕증시 3대 지수 동반 상승…다우 154포인트↑, 나스닥·S&P500 반등 출발 - CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QmpvZnBhZXZPUmJkOEp0RW0zTXpCN2tPcFo2X2hLVEdLT3loTHNqNmdoNmVST01reW5lRGZlUFJKaUdqTDhJTTJBZWc5Q0ZfTUJRRlktdUV6bDB5UGw1RVJqaFFOaXVJ?oc=5",
-        "source": "CBC뉴스",
-        "published": "Fri, 13 Nov 2026 14:37:15 GMT"
-      },
-      {
-        "title": "뉴욕증시,젠슨 황 사임 충격에 동반 하락…나스닥 0.4%↓ - 스페셜경제",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bGxrR1c4aHlxOWhfRG1yLXhYek90aWhXQUEySEFVaXc0MG9fRE1CdjFQSnI1TDJGRlZaRlg3WlV3eG9aQ1p2N1dseGxaNk5Db2ZwRHdELURtOERKVVhIdEktTWZJR3hpYW5iQQ?oc=5",
+        "title": "뉴욕증시,엔비디아 주가 급락에 혼조…나스닥 0.91% 하락 - 스페셜경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WGlTcnY0YUt3WnY1LXVZbTJGYURZX1VXZ0xNdEVBNS1RS2RWNlVPNXhpSTJLSVdWYXROT2NHTWJLX05jb1VWZUlVRHVWVU9sdXlNMGhES1RqYTFIbV9IQXk0YlBvSkhUNUpGSA?oc=5",
         "source": "스페셜경제",
-        "published": "Thu, 12 Nov 2026 23:51:39 GMT"
+        "published": "Fri, 13 Nov 2026 23:50:17 GMT"
+      },
+      {
+        "title": "뉴욕｜엔비디아 6주째 추락…뉴욕증시, AI 불안에 하락 - OBC 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hek9zRU1UeERDaEJvVmYtVV9McDdoanlDSGUzdFlucjZxNnFkREFkeVA3VzViZjFCWHZkOXE0YS0wSzhHNEFmMGVfMnRFTGYtNHczbENXcFJ6d1VyMzZ4SE5acWVjQk5ZRWc?oc=5",
+        "source": "OBC 뉴스",
+        "published": "Fri, 13 Nov 2026 23:24:40 GMT"
       }
     ],
     "경제": [],
     "AI 기술": [
       {
-        "title": "AI 데이터센터 기술로 대통령상…엘리스그룹 인터넷대상 수상(종합) - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vR1RycHNfb1k1OXk0Y2ppekVCd3pGZHFTNWpXM0M2UHRJZUUtb2tOekJMU1VyUko1RlZyWmhQUU9BT1FVUWJmX1RqdXI5ckxhTVNZOUJicW9yZHZsU21DatIBYEFVX3lxTE1vR1RycHNfb1k1OXk0Y2ppekVCd3pGZHFTNWpXM0M2UHRJZUUtb2tOekJMU1VyUko1RlZyWmhQUU9BT1FVUWJmX1RqdXI5ckxhTVNZOUJicW9yZHZsU21Dag?oc=5",
-        "source": "연합뉴스",
-        "published": "Fri, 13 Nov 2026 05:19:18 GMT"
+        "title": "\"전 세계 특허 80% 쓸어 담았다\"… 中, 차세대 ‘수중 데이터센터’ 기술 패권 장악 - 글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlNxSkFzaWhSN1hVRU42WS1MclUxWUt6RWhzekpWQ1dMVGJYSEk4ckNPOWEtV0lVUWZpT1dfd0FzSjNMaVRvblJHN25BdlJPbEgzT1dmamJOenRIaVlTZW5Rb01EcV9hR2xoRU5kdkp2ejd6ZzB6bmVremlMTWUxVmNLcGZfR0ht?oc=5",
+        "source": "글로벌이코노믹",
+        "published": "Sat, 14 Nov 2026 20:35:00 GMT"
       },
       {
-        "title": "[AI픽] 엘리스그룹, 엔비디아 B300 기반 AI 데이터센터 가동 - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aWWcyV0xYZFdneV91TnoySTYyWXRYWUJXQi0tVjEwZWF4Zm5xUzZYRnU2MS1Fb0h6ZFNaS3RDMTdjRjMtTmpUQVRtUFJaWjVBTklrOW9oVlJWTXfSAWBBVV95cUxPSEZpY3FEeXRMVG5mVVhoTExVdHJJc3dqTWFnaFd5X0stVEczZGVJU0NMd1VDSHdfcW5PWTRwUVRmNFhDR3YyMVZDazBuSVYtd1Y1WjVPRTdVUzF0VjluSEo?oc=5",
-        "source": "연합뉴스",
-        "published": "Fri, 13 Nov 2026 00:38:40 GMT"
+        "title": "Hue: 기술 프로젝트 투자를 위한 4곳. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HbUJJNFFRTVNmSk5GdlIxbUZSMFpzZ2pnX0o0cjhVd1VITk5pTGUyM0FTRlpxSG80TVhEbVdTNW5kYllSSUEyMFdlNjBzVkNNSEdTOW5XTmxOYVNWeS1UWkxxZ3VZcTNnV2xRXzQycUMtQTA?oc=5",
+        "source": "Vietnam.vn",
+        "published": "Sat, 14 Nov 2026 11:58:24 GMT"
       },
       {
-        "title": "파네시아, AI코리아대상 장관상·반도체의 날 장관표창 연달아 수상 - 전자신문",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zdERyZTRNMW5SMFZMdEFKVTNqVDRhMzU4RXBUUUE0c1BEdnM5NzVuRTJyOUFNNzZBNWlRUEtSbWltQzFDamtadFpuQ29BUQ?oc=5",
-        "source": "전자신문",
-        "published": "Fri, 13 Nov 2026 05:50:01 GMT"
+        "title": "충남연구원 최창규 박사, AI 데이터센터 입지 연구로 ‘우수논문상’ 수상 - 브레이크뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KYTlrQUtmWllDdGZSQ1dZMHZfZzdFc2xDNzZaZ3BGODZEbFh4VkpYazhpOHZyZDd1UldTUDVPSDQwZw?oc=5",
+        "source": "브레이크뉴스",
+        "published": "Sat, 14 Nov 2026 06:10:00 GMT"
       },
       {
-        "title": "충남연구원 최창규 박사, 한국인공지능학술대회 ‘우수논문상’ 수상 - 메가충청뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yVVRMQXNzN3BRTDB6a0lfYmlTNGw5YUJfeVRsMWpJN2k4WFI2aEpNbktGVXlSd2Z1azBYVVdsQmpUa0dHTmpMRnRnUGhMQ0J5d00taTBqVkdWRDBic2RQVW82QzEyc20tZzNPZw?oc=5",
-        "source": "메가충청뉴스",
-        "published": "Fri, 13 Nov 2026 23:04:48 GMT"
+        "title": "LG CNS, AIDC에 거는 기대…기술·협력으로 글로벌 도약 - 데일리한국",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pQkFNWjJsRGdjTFlNUGxrekdlcVBlX1VKN0JfN3ZBM0FLTkhveTJmbTJUeVhJRHd3VENkLTlpcTVKdXNvWmN6bnNQckJGNWtYSVZGbmt2TDB2N0ZYNk84andteHB2QnI0QkhCY0dhTdIBc0FVX3lxTFBQZDlWcklXWWNlaU9nbHhpYm5HSUVnZEJLTERnbk1vNlZJcmhORDRXaVU3WGgzR3RoX0FSUG5ySFFldDFMNGhNM2dDTU04c3NsaEw0bEdtT0xaRU5mb3BidzdsTWM2Um44RnB5QkV3cUx4cDQ?oc=5",
+        "source": "데일리한국",
+        "published": "Sat, 14 Nov 2026 04:00:00 GMT"
       },
       {
         "title": "앨리스 황, 화웨이·딥시크·알리바바 중국 빅테크와 ‘거미줄’ 연루 - 한겨레",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LbjgxeGhEMl9DT2Zobk12d0phM3UwSEhBanVrZVQ3dm14dU5KenhVcmg1cTNjd3ZsUlBaRmxSTFpiem9DMkRyWklMc2xacXdKTm1WZ3FldWZyTy1lNUxvbV9scTNXVHJCS1NIRQ?oc=5",
         "source": "한겨레",
-        "published": "Fri, 13 Nov 2026 09:08:00 GMT"
+        "published": "Sat, 14 Nov 2026 03:05:00 GMT"
       },
       {
-        "title": "하정우 \"AI 데이터센터 전력·냉각에도 K소부장 기회 확대\" - MTN 머니투데이방송",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xM3J1dmhLSU9RdkZObFFudl9wTGI4bGRVTEgzN0I4QTZxY2drZlFrb3RaZEZueHZLaTRzOHc5M285LUMzNjg5a3FQQmgzY3loRFVSZUh2emoyb19wc09r?oc=5",
-        "source": "MTN 머니투데이방송",
-        "published": "Fri, 13 Nov 2026 08:04:36 GMT"
+        "title": "[AI제국의 위기 ⑥] 젠슨 황 퇴장에 AI 투자 셈법 복잡···네이버·통신 3사 '촉각' - 서울파이낸스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VSHhrNU1BZ08zTDNyTENqWU1EektYeHpENnBFTEpuSjhCNUM4d1NlaVR4d0kwWFpXUUJqN3hhVUxrLXVXUmxBemVsLTRZX243dXExU0hicEVrVHl2VUxYWkpBTkxvSzYyTlE?oc=5",
+        "source": "서울파이낸스",
+        "published": "Sat, 14 Nov 2026 03:00:00 GMT"
       },
       {
-        "title": "[新한일경제⑤-끝] AI 인프라 5억달러 공동투자…6G 통신 협력 - 포인트데일리",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFeXFLTGdLNHh2OThKS08yeW1iR2VTS0RLcEhzUGZQSmVTaU5udkE4Zjl5UlpWZl92SWJ1ZXZtdTY5Yjh4a2c2eUF3NWNSRHpHMFYxcVlMSVoxd2U2T1E1VUlNNkJ0Nno0V0lJbjhZSEHSAXRBVV95cUxOZEZMTFRfQ2pBbXg2S2UtMzRJRW1LTlNfQnlJNk1hZnQ2LWk2QUhFUVpQUnhoWVdvcUJOeEl4cGtXOW1oQWRMd2lrUWhIR0ZJanQwNlRiQnJHdW9lYmR0alc0MnFLSEZfdnc5Rnk0dmNKUzF5Vw?oc=5",
-        "source": "포인트데일리",
-        "published": "Fri, 13 Nov 2026 06:50:14 GMT"
+        "title": "中 엔비디아 AI칩 의존 프로젝트 4조6천억원…수출 규제에도 기술 수요 지속 - 진일보 | 전남일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdkhXcEJ3WFRpcUgtUUFaSHlraTllVHJJWG9SV3VTWEI3OGRJdE03TXBhMzFaTjV3NldmRFU4eGZLNGI1TEZONEJ3cHlPa3FmWnBQa3VpVFpxcm1nRVNQZUdZR1VwLWVJWmhlZjZfQQ?oc=5",
+        "source": "진일보 | 전남일보",
+        "published": "Sat, 14 Nov 2026 02:27:28 GMT"
       },
       {
-        "title": "[반도체의 집②] 통신3사 AI DC 확장 속도···투자·사업화 전략은 제각각 - 시사저널e",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FeWEyQkV1MFdMMlk4eVo5TV8xNmdNNlMzN2M0Rjgyb3A5OXlvS29XMjNhQjhWeWh1dG9mUDlXYjY4cGtNUGFwd2FYb2tKTWlpY0tYN0dMcXdvWkEwcGs5WThEcW5YSTFZRXNad3l5TmVaZ9IBdkFVX3lxTE1GbUtBQkNLZzE1aU9acl8tRmVPWEhTZk05aVNqUU9oUjdoMGktalA4bjFuRXp4NG5GbGZWdERnX01jVkgxcUtLaHBRLUZybGdJYmF3UzM4eHZ5NktlVUVldVUzQWEycjF3N1cxbFh4SVpoVGtQWWc?oc=5",
-        "source": "시사저널e",
-        "published": "Fri, 13 Nov 2026 05:31:37 GMT"
+        "title": "충남연구원 최창규 박사, 한국인공지능학술대회 ‘우수논문상’ 수상 - 충청메시지",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10eDRNTWUyelNONnByazd3UmtGUWJfLVBaQlVjTGRBZ212RF9vZVFseDNiNVUzNWtKOTNrYkZoY2dUQWYybTlJTTFiNmdpY19ENWxnMW1YbHlreHVsWE9FUF9sbTJpeVRnYmRF?oc=5",
+        "source": "충청메시지",
+        "published": "Fri, 13 Nov 2026 23:48:46 GMT"
       }
     ]
   },
