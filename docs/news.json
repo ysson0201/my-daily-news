@@ -1,96 +1,121 @@
 {
-  "updated_at": "2026-11-15T08:24:35+09:00",
+  "updated_at": "2026-11-16T08:34:42+09:00",
   "categories": {
     "반도체": [
       {
-        "title": "휘청이는 '큰손' 엔비디아…삼전닉스 추가고객 쟁탈전 불붙나 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uMXF5UmF5dXRPcFk2U1RLaFVTLV9NYTJKbXhNcklKbjRPdjUzaTQwWmZwWmJJNnNYcWhGekFoS182djhHc1BDejl1UWwwbi0tcFE?oc=5",
-        "source": "매일경제 마켓",
-        "published": "Sat, 14 Nov 2026 21:01:01 GMT"
+        "title": "HBM 강국 한국, AI 주권은 있나…젠슨 황 사태가 던진 경고 - 이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1h0ZHNscEM0VEU3dGxNREZDUzFUd1NwVGJ2UUU1M2ZiQUVOS2tLRFgzVnNOZmZDZjRZcUZKakpPOHVyYnFlZ3hvT3hTVHVIYmxjdmVrS09OOWhFTnd3RG1PV0hUa2pxUGZiY3FubnpoMjVibXZZXzlKSHVTZzFYQg?oc=5",
+        "source": "이데일리",
+        "published": "Sun, 15 Nov 2026 20:17:02 GMT"
       },
       {
-        "title": "[반도체포커스] 엔비디아 '베라 루빈' 추가 지연설…내년 HBM 매출 비중 확대 제동 걸릴까 - 이코노미트리뷴",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95eldQWjVnRjFhcDBYWjc2anFabkFiSnNRTmhQdnNjTURiYWFycU9ZZjY3NmtqQXlxMDdQRFVvTzZHVUtDOXVoR0pEVS0zbTlFZjRFTkh3dGt6aERScFFWM3FaQ1hkNFh0ekcxLUNXVF9ZRk9UZ1VF?oc=5",
-        "source": "이코노미트리뷴",
-        "published": "Sat, 14 Nov 2026 09:38:25 GMT"
+        "title": "[비즈톡톡] HBM 하나에 500만원 주고 밀수하는 中… 반도체 굴기에도 못 넘는 ‘메모리 장벽’ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlpfMXZFVUxIdEpiU2RlbzJQY0U2UUFHSFlhLVNrc194d0t3dzNTcVpPdWNmaXpYaW43RExRNElUM0hlMTA3S01tcHoyOVdFekZnWlB6OTJxU0NNZmZZeVFqYXd2WEljWDkyN2ZUWjRoYTVZVWxRRk9QV1IwZmF6aHFR0gGWAUFVX3lxTE5Dc3AxcUx3WWNtenowcUV2ek5CX21rY0JNR2lsOU5NNVRXd24xNU5meVVGcUZlSmpsUHQ5OEctQTgyVFpDVVFCbkVaNnF0R2hWX3hqWk9BY3dPcHo3M0FqNG81NGlEWkloVE0xOXR3U0lBczh0SkFnVnQ4aWNIdl9HTXN0ZGs2WjZ4ZFlEdERBWVJwMmpfUQ?oc=5",
+        "source": "Chosunbiz",
+        "published": "Sun, 15 Nov 2026 21:00:00 GMT"
       },
       {
-        "title": "[AI제국의 위기 ⑧] 젠슨 황 없는 AI시대···삼성·SK·현대차 '기술 자립' 시험대(終) - 서울파이낸스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hNkZ6aGRnTGkyMC1vZ3A1TlJ4OFREYUVLdlVwZWpsZkNURDdVWDd3WWxBUDNpdnROeTkzTXZGeEtvNW5pdlRhWUJqTFJWS3Raa0Fib3g3UV9zS3l6eFRHdjR6d0VKWWxmNHc?oc=5",
-        "source": "서울파이낸스",
-        "published": "Sat, 14 Nov 2026 08:00:00 GMT"
+        "title": "젠슨 황 떠난 엔비디아…삼성·SK하이닉스 'HBM 공급망' 판도 바뀌나 - 뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RM3pGcU55enZLYW5fUDFqLW1wZVQ3RnFudFVWSXYzSTR3MmpuM2FlNXNwcjBOMk5LR3NRSzc0bkNCcXZ5ekRuM3VOcjVUZ1Q2dEVZb1o2UlhUUWZsYm5RY9IBeEFVX3lxTE1IYzVWUkMwdl9TbG16TGZnckxXRml0STBSTWZEam5mQXpYeTk0YXB0bHEzMk5EWUFPbVB2bnIybzBDS0pkODR6ay0yNTZ0dGdWWVdSU0lFYzNGWHpYVEN3bFRTbGl5cjBBZlVNaDhIeFlsQWJiVnMycg?oc=5",
+        "source": "뉴시스",
+        "published": "Sun, 15 Nov 2026 20:10:00 GMT"
+      },
+      {
+        "title": "삼성·SK 반도체 공장 건설 본격화…용인·청주 JTX 등 광역철도망 구축 일정은 미확정 - 광교신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QbzY1V3NPTk4zbEg2azZtVFhIbmJRQkI0a0RVOHJUY0dVQmk5OThXTGRiSkdPS2dBc1NSN2k3WFQwVnBiRC1lbE9wOWoxTTcyazc4T2lpQTQ5emlYTEpoWmRYdU5malNB?oc=5",
+        "source": "광교신문",
+        "published": "Sun, 15 Nov 2026 12:57:22 GMT"
+      },
+      {
+        "title": "젠슨 황 떠난 엔비디아…삼성전자 웃고, SK하이닉스 울게 될까 - 뉴스웍스",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15SVBXMWtsQ3JLMmVvMEVlcHdkODZNQ1FXQW05dl9wLWFhSlVocUdHZElqWElZSWNON0hOVEpJeW9aQWR3WGQtS3RPLVdsTFpUNnpneHUtbnBNSkNaUWpzUk9yRUdTZzY1ZEZJLWVRRdIBc0FVX3lxTE80THRLRXJZX3BDT3ZGSzZkVlVCN0dMVGZKRTlLZXRDN0F2VHkzWU1UbHBhcEhwck8yZXpNcUw5VElGRkdsVFd3eS1NX3FEdVFzMnJjbWpKUFR4UUdlSmtyeEhFYnJKR1hXQWctN1lkR3NhY0E?oc=5",
+        "source": "뉴스웍스",
+        "published": "Sun, 15 Nov 2026 09:00:00 GMT"
+      },
+      {
+        "title": "‘젠슨 황 리스크’에 출렁인 삼전·SK하닉…반등 열쇠는 HBM 고객 다변화 - 이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03b0pSeFZCUF9NcXN0UGZ4ckhFdzloTE5jWEgxcnVnLXhMMDVPM0ZlaXN3OHZFS2E3YzIweGQ2YmJfalE0UmFQU1h3Mm5mQm5hdTBkUw?oc=5",
+        "source": "이투데이",
+        "published": "Sun, 15 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "title": "삼성전자·SK하이닉스, '엔비디아 변수' 속 추가 대형고객 쟁탈 본격화…AI 반도체 판도 급변 조짐 - CWN",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fQ1dPN1dCVWczd1dseWQzV3FsN2U2YXpnR3BHR0o1ZElNTmJkUWFOeXA3Y3NHWXFWUkJzTmxjTnloVHJCNGdnOHlrWFBtUVZRSnlnZTA5MmE4aWlYaEQtSlpn?oc=5",
+        "source": "CWN",
+        "published": "Sun, 15 Nov 2026 00:33:20 GMT"
       }
     ],
-    "국내 주식": [],
+    "국내 주식": [
+      {
+        "title": "[AI MY 증시전망] 엔비디아 실적 앞둔 코스피…\"AI 불안에 약세 전망\" - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FYU9HVW9JN0R1YjRyT2FCaUJ3VU9GaDJvQlBfM25CLU9oanFwYWowbDV0eGotSzhPMERXVnB4OURzYktOV05zdG1zcUtLUmtvRTl1RmtOckNmby1y?oc=5",
+        "source": "뉴스핌",
+        "published": "Sun, 15 Nov 2026 23:06:00 GMT"
+      },
+      {
+        "title": "삼성전자·KB금융·현대차 상승, 레인보우로보틱스 9%대 급등…코스피·코스닥 엇갈린 흐름, 뉴욕증시는? - CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ncTBWdURfdHhUYUdBUTd2MVhIUTlPVDQ0V2FhVEZGZTF3ckRtdnJ0ZGdCbUZyRnlfaERZd2pMN2NWM0lCYmpHUWxEdWVDSlBjQi16U3JNUEdRWFVwVC01dmxlUm9SY3R2?oc=5",
+        "source": "CBC뉴스",
+        "published": "Sun, 15 Nov 2026 00:05:00 GMT"
+      }
+    ],
     "미국 주식": [
       {
-        "title": "S&P 500과 나스닥 지수는 4주 연속 하락세를 마감했다. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1FLbTN1NWFoQjNkSnZuTmZpUGNrMGJpdVBrSl84SGg5TnhDcEIybG5rektPVHJHZjFQLURHOXNha3pRc3M5YlJSVFhZOE9nSndGTUh0UnY1cjVPUG9yWmhlTkU0NzNOT2NSRUJWSEtibGZMaU1YTWpEamRCWHM0WlByQVpYb3dKQlE?oc=5",
-        "source": "Vietnam.vn",
-        "published": "Sat, 14 Nov 2026 06:02:29 GMT"
-      },
-      {
-        "title": "뉴욕증시,엔비디아 주가 급락에 혼조…나스닥 0.91% 하락 - 스페셜경제",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WGlTcnY0YUt3WnY1LXVZbTJGYURZX1VXZ0xNdEVBNS1RS2RWNlVPNXhpSTJLSVdWYXROT2NHTWJLX05jb1VWZUlVRHVWVU9sdXlNMGhES1RqYTFIbV9IQXk0YlBvSkhUNUpGSA?oc=5",
-        "source": "스페셜경제",
-        "published": "Fri, 13 Nov 2026 23:50:17 GMT"
-      },
-      {
-        "title": "뉴욕｜엔비디아 6주째 추락…뉴욕증시, AI 불안에 하락 - OBC 뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hek9zRU1UeERDaEJvVmYtVV9McDdoanlDSGUzdFlucjZxNnFkREFkeVA3VzViZjFCWHZkOXE0YS0wSzhHNEFmMGVfMnRFTGYtNHczbENXcFJ6d1VyMzZ4SE5acWVjQk5ZRWc?oc=5",
-        "source": "OBC 뉴스",
-        "published": "Fri, 13 Nov 2026 23:24:40 GMT"
+        "title": "[시황] 미국증시, 엔비디아 경영진 교체 불확실성과 금리 인상 우려에 나스닥·S&P500 하락, 다우 소폭 상승 - 버핏연구소",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYNk5sX3lYOF95UGRQcDJGRkthelF4V3NMLXN3MEpONF9TUEJPVG43cEtFNW5TTlJleWUyQk13OTNvWThpM09NcGhUREhFdHhBbi1iRzNkWU5wUkQ0eGlIRjF3?oc=5",
+        "source": "버핏연구소",
+        "published": "Sun, 15 Nov 2026 23:04:44 GMT"
       }
     ],
     "경제": [],
     "AI 기술": [
       {
-        "title": "\"전 세계 특허 80% 쓸어 담았다\"… 中, 차세대 ‘수중 데이터센터’ 기술 패권 장악 - 글로벌이코노믹",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlNxSkFzaWhSN1hVRU42WS1MclUxWUt6RWhzekpWQ1dMVGJYSEk4ckNPOWEtV0lVUWZpT1dfd0FzSjNMaVRvblJHN25BdlJPbEgzT1dmamJOenRIaVlTZW5Rb01EcV9hR2xoRU5kdkp2ejd6ZzB6bmVremlMTWUxVmNLcGZfR0ht?oc=5",
-        "source": "글로벌이코노믹",
-        "published": "Sat, 14 Nov 2026 20:35:00 GMT"
+        "title": "LG엔솔·삼성SDI, 美 ‘RE+ 2026’ 출격…AI 데이터센터 ESS 공략 - 이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTEVseTM2VUdXMkpMNktTYVBHMmRON0JTaWdtVlNlWXBneWlyRm50NHJlWVFKUVZZdDdtWmxBVWdydzFJUlhud1EtSExIZjEydi1qSDFmaExPVVZyUFBaMTc5b2VsRHRMM2o3TUxiMmVDc3ppMFpWSloxdVpKeGpzQw?oc=5",
+        "source": "이데일리",
+        "published": "Sun, 15 Nov 2026 00:25:44 GMT"
       },
       {
-        "title": "Hue: 기술 프로젝트 투자를 위한 4곳. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HbUJJNFFRTVNmSk5GdlIxbUZSMFpzZ2pnX0o0cjhVd1VITk5pTGUyM0FTRlpxSG80TVhEbVdTNW5kYllSSUEyMFdlNjBzVkNNSEdTOW5XTmxOYVNWeS1UWkxxZ3VZcTNnV2xRXzQycUMtQTA?oc=5",
-        "source": "Vietnam.vn",
-        "published": "Sat, 14 Nov 2026 11:58:24 GMT"
+        "title": "LG에너지솔루션, 북미 RE+서 AI 데이터센터용 전력 솔루션 공개 - 전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LbFI5Ql9kUy1IMVZHTlVqLWg5Ni1XUG1SaUZkWEpxUnBkYnRYYXdMdzJCS29QZVQ1bGlnaGxCeXVQRVJ0Z0ZtbU55ZElCQQ?oc=5",
+        "source": "전자신문",
+        "published": "Sun, 15 Nov 2026 01:56:13 GMT"
       },
       {
-        "title": "충남연구원 최창규 박사, AI 데이터센터 입지 연구로 ‘우수논문상’ 수상 - 브레이크뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KYTlrQUtmWllDdGZSQ1dZMHZfZzdFc2xDNzZaZ3BGODZEbFh4VkpYazhpOHZyZDd1UldTUDVPSDQwZw?oc=5",
-        "source": "브레이크뉴스",
-        "published": "Sat, 14 Nov 2026 06:10:00 GMT"
+        "title": "원전 AI공장 40MW 구상…SovAI·BAM 개발 협력 - 에너지안전신문",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ud2p6Y3lVTjR4WGtnUV92SlJ6QU9iNHBXTlFraExsNVBLMnVjZGxMXzdueHB3ZlBvZWlQaTRFb0dfMEhCU2EyMFNFQktUQ0VHNDJtWUdHZkRDcHRmRWh5aFEwQWw?oc=5",
+        "source": "에너지안전신문",
+        "published": "Sun, 15 Nov 2026 21:49:25 GMT"
       },
       {
-        "title": "LG CNS, AIDC에 거는 기대…기술·협력으로 글로벌 도약 - 데일리한국",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pQkFNWjJsRGdjTFlNUGxrekdlcVBlX1VKN0JfN3ZBM0FLTkhveTJmbTJUeVhJRHd3VENkLTlpcTVKdXNvWmN6bnNQckJGNWtYSVZGbmt2TDB2N0ZYNk84andteHB2QnI0QkhCY0dhTdIBc0FVX3lxTFBQZDlWcklXWWNlaU9nbHhpYm5HSUVnZEJLTERnbk1vNlZJcmhORDRXaVU3WGgzR3RoX0FSUG5ySFFldDFMNGhNM2dDTU04c3NsaEw0bEdtT0xaRU5mb3BidzdsTWM2Um44RnB5QkV3cUx4cDQ?oc=5",
-        "source": "데일리한국",
-        "published": "Sat, 14 Nov 2026 04:00:00 GMT"
+        "title": "AI 에이전트 시대, 인간과 디지털 노동자의 공존 방법 - 매일노동뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tcVdaX2c2azRXbUVjQ3NFUnQzUWhyeGJNYXNMaEpFUndwOW4yS2lqUWdRaEZfc1d1djJEUHFlXzJHWVdYaWhZU3lhZlVGSkFhZGpCYWViLU96dkY4M3ZIa1Y5Nm40WGZqcmtRbDl0dWM?oc=5",
+        "source": "매일노동뉴스",
+        "published": "Sun, 15 Nov 2026 21:30:04 GMT"
       },
       {
-        "title": "앨리스 황, 화웨이·딥시크·알리바바 중국 빅테크와 ‘거미줄’ 연루 - 한겨레",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LbjgxeGhEMl9DT2Zobk12d0phM3UwSEhBanVrZVQ3dm14dU5KenhVcmg1cTNjd3ZsUlBaRmxSTFpiem9DMkRyWklMc2xacXdKTm1WZ3FldWZyTy1lNUxvbV9scTNXVHJCS1NIRQ?oc=5",
-        "source": "한겨레",
-        "published": "Sat, 14 Nov 2026 03:05:00 GMT"
+        "title": "\"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\" - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YOUc4djVZTXhaWnRUdnVaNzhzOWljYWdkN2ptRl8zdTBrV3VYZnhfbEhZZGZ1ZFdtNGI5YTlUZk5zR3JZWEJNVnBIT01janVmamc?oc=5",
+        "source": "매일경제 마켓",
+        "published": "Sun, 15 Nov 2026 17:16:51 GMT"
       },
       {
-        "title": "[AI제국의 위기 ⑥] 젠슨 황 퇴장에 AI 투자 셈법 복잡···네이버·통신 3사 '촉각' - 서울파이낸스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VSHhrNU1BZ08zTDNyTENqWU1EektYeHpENnBFTEpuSjhCNUM4d1NlaVR4d0kwWFpXUUJqN3hhVUxrLXVXUmxBemVsLTRZX243dXExU0hicEVrVHl2VUxYWkpBTkxvSzYyTlE?oc=5",
-        "source": "서울파이낸스",
-        "published": "Sat, 14 Nov 2026 03:00:00 GMT"
+        "title": "LG에너지솔루션, AI 전력시장 공략 가속…배터리 넘어 데이터센터 통합 인프라로 확장 - 이코노미트리뷴",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTndCd1gzajlQcldlZ01YYnMxdUt4TDRFeXNmeXBqWXJYczl6V3NVdHJEOUM4NHF1bXk3MGhxOGVCcHlsQTNlTGhpczE5SlFNb1RkSXpjZWFRRTJWU2JhYnVuSjhfdkMzRWdCT3lEbDRoMFAxX25j?oc=5",
+        "source": "이코노미트리뷴",
+        "published": "Sun, 15 Nov 2026 11:14:49 GMT"
       },
       {
-        "title": "中 엔비디아 AI칩 의존 프로젝트 4조6천억원…수출 규제에도 기술 수요 지속 - 진일보 | 전남일보",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdkhXcEJ3WFRpcUgtUUFaSHlraTllVHJJWG9SV3VTWEI3OGRJdE03TXBhMzFaTjV3NldmRFU4eGZLNGI1TEZONEJ3cHlPa3FmWnBQa3VpVFpxcm1nRVNQZUdZR1VwLWVJWmhlZjZfQQ?oc=5",
-        "source": "진일보 | 전남일보",
-        "published": "Sat, 14 Nov 2026 02:27:28 GMT"
+        "title": "LG엔솔·삼성SDI, 북미 AI 전력시장 공략 본격화 - 스페셜경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KY1BGRmw1NzJDbWI0dGUzN0VHVlVWRXh6YzcyWnF6aktXLWpka3lTT1IzZXc0RmptaGxsNFdTaXZPRjdHMkt6bXFRWmduZm9KTUw2LWRIR2NYN19nQnd2MU42LUYtRkdCeG1Zcw?oc=5",
+        "source": "스페셜경제",
+        "published": "Sun, 15 Nov 2026 06:46:20 GMT"
       },
       {
-        "title": "충남연구원 최창규 박사, 한국인공지능학술대회 ‘우수논문상’ 수상 - 충청메시지",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10eDRNTWUyelNONnByazd3UmtGUWJfLVBaQlVjTGRBZ212RF9vZVFseDNiNVUzNWtKOTNrYkZoY2dUQWYybTlJTTFiNmdpY19ENWxnMW1YbHlreHVsWE9FUF9sbTJpeVRnYmRF?oc=5",
-        "source": "충청메시지",
-        "published": "Fri, 13 Nov 2026 23:48:46 GMT"
+        "title": "LG에너지솔루션 'RE+ 2026'서 북미 AI 데이터센터 공략 솔루션 공개 - 뉴스웍스",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XbnlZYnJhV0VVU2VkdUxhbV9pYkRoWEFBM25jVjU0c3RnVlRXZ3c0enpoMmR4NklDdU9peDVOeXlXam9QajBzOEJ4RVVUbGZxWjJKQTJObXJUVFYwaWNZVUlma0w0eUVGMHRHdWl4SdIBc0FVX3lxTE1GOFJYYktEY0xMVFFiZzJPQ0pyQ01GbkVCUWZ4VFp3cXI3RTljZVRudWU5MzRJNXg2bnF2R21iYWU2dHhXZW1zLUNHMUh3WUEwaG05X1dKU3J2Y3BLaGxuSklYa01CTnVjNmhnSmVtVy0zbGM?oc=5",
+        "source": "뉴스웍스",
+        "published": "Sun, 15 Nov 2026 06:44:25 GMT"
       }
     ]
   },
