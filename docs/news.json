@@ -1,130 +1,165 @@
 {
-  "updated_at": "2026-11-17T08:32:07+09:00",
+  "updated_at": "2026-11-18T08:39:45+09:00",
   "categories": {
     "반도체": [
       {
-        "title": "증시｜美 반도체주 폭락…삼성전자·SK하이닉스 동반 급락 - OBC 뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lU0NhQlJNeTh0NU1KSWxDYzFsdTE5OWVCMWhWLW1yNk04dzBpb1B4YVlNTmtxMGZCUm9VNC1mZTh4Y0hLYTdnZGd4SUJSZjlJcDZOLXNxc2pYN05vdmh5WlF4NEpkakM0Wmc?oc=5",
-        "source": "OBC 뉴스",
-        "published": "Mon, 16 Nov 2026 23:26:11 GMT"
+        "title": "\"지금 안 늘리면 늦는다\"…삼성 덕 본 日 1위 기업의 승부수 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRHdVWWFOaVlSNzZaMDdsZ3JVTFoyNXJMVW9OcW5ra2I4YkpMd05sUDRVcU5MeUViTC1UNEVJb2RNWnRoNnZrMEs4U2VOUlY5S0p5MFpORHFhZw?oc=5",
+        "source": "한국경제",
+        "published": "Tue, 17 Nov 2026 22:44:50 GMT"
       },
       {
-        "title": "삼성·SK하이닉스 곳간, 현금 329조…1년 새 193조 불었다 - OBC 뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ic3dHSFd6alptaGh5a3hCT3hkcXI4bFVDTHUtNkluYjBsZXR1UkhfUUN2czloV1RteDVZNFlNaVFIMEhRaF9xb2JoUUZ2OE1yUDFaZklhZFFtNUZsdjBNNWphMGZ1YWR0RFE?oc=5",
-        "source": "OBC 뉴스",
-        "published": "Mon, 16 Nov 2026 23:08:23 GMT"
+        "title": "美는 中 AI칩 우회 봉쇄, 연준은 금융 위험 경고…삼성·하닉 영향은 [갭 월드] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4SmJ2VHhPWTl4OG5TSkNXNHpHQlZFLWZoS0dyQ0JTUHYtOGsyZ3hPNWpNM2dNUXFlQXpNemkzUTA5cTlxck9sYmxRaTJxbzRYa3fSAVNBVV95cUxPVGpOd0RVdGhqQldwakRTYTZZMGQySDdQTW1wc3ZlQ0Nob1drczZDcGdHZG9jUGM5QS1Db2pQdjJWUUQ2cVBXb0lkd3ZuV1M3MWlBQQ?oc=5",
+        "source": "서울경제",
+        "published": "Tue, 17 Nov 2026 22:00:00 GMT"
       },
       {
-        "title": "젠슨 황 복귀설에 K반도체 촉각…HBM 협력은 \"예정대로\" - 아이뉴스24",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xeEFaVFFJNU04ZU9yU1VPdzl4LWVaUnJqQ3FZSGVIeW5ZMW02YWY4T3o5ZW1GbUZSZ3NKWHdyblVpRlpWdGVDR2JXbw?oc=5",
-        "source": "아이뉴스24",
-        "published": "Mon, 16 Nov 2026 22:00:00 GMT"
+        "title": "삼성전자·SK하이닉스, AI 메모리 구조적 공급부족 수혜-KB證 - PRESS9",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KOWhEWXNIRWhLS25hNnQ1RmF4U3A0enpGRWtIQVFCQzkyYi1RdXpDa1VmREV5VkpTTUpYM2hUVS1Wdk1uNFV3dnBRYVNPZ21jQkJKZ0lQcjl0R3JuQzVOZWJNRHI?oc=5",
+        "source": "PRESS9",
+        "published": "Tue, 17 Nov 2026 22:53:37 GMT"
       },
       {
-        "title": "엔비디아 독주 흔들리면 구글·AMD로 HBM 공급 분산… “삼성전자가 최대 수혜자” - Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1Jhang1bkJKcURhVkdlT0t3ckM3ZW44YTg3eHRxenUwM3FVWkJjVG1BUEU2UEROX3RqcFNJeWdXLWdHVU0yU3NVVmU4MExmaXpxQmYzVDZpQXQ5NG9RMndMVDZfbS00MFAyQ2J5YUNxa3AyYVI1ZUEyTERXQWx5SEhR0gGWAUFVX3lxTE1obFFDTnYwVEZSbG1HeXpMZW0xVExRU3JQLXhVOFlid1lCZWl4dTk0SjBpTkY0SFR5UUg4emJnMVN3ZDdBQnluSDRSa2FubUVxZ3RUVEV6cXBvcXl5UFk2cWFaSWtDUV9JU3RuN0xMNlJ2YmxGRUNnZmlIVHItNmFfT3RmaGNQWE1mWVJuMFRFZ0JrNG9Bdw?oc=5",
+        "title": "삼성·SK, ‘AI 특수’ 美 매출 250조 ‘폭증’…中도 120조↑, ‘中 반도체 견제론’ 딜레마 - CEO스코어데일리",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sY0VPTjJJaFZCeEpCaU5tdjBQalpDdFhTZHpPMkZKcUVmMXJrRUxNam00X29DRGRGVG82ZGctZ2VyQ2N4Vng2MTdLbVhHX2dfeF9tdGxBVWJkNW5kWXFJMFpLZU5MTzlnRVE?oc=5",
+        "source": "CEO스코어데일리",
+        "published": "Tue, 17 Nov 2026 22:00:00 GMT"
+      },
+      {
+        "title": "AI 투자는 공격적으로, 반도체 조달비는 관리… 달라진 빅테크 셈법, HBM 가격 협상력 시험대 - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZnA5WDJ4bW5aNWVIQU1tZGhBai02UU84Wk1pcERhM1NwbDJVQjM3ZGczaGtCSUhHZVVwTzRmS3Ziei1XM1VZa09OQUZwTjJRd1NMbnBZamdTS2QwUGFuRVZLS2hoaEFBT1UzTHVoUTVPRS04VWtKeTRQYXgxN1BBVnZB0gGWAUFVX3lxTE5xeWtyQVc4NWM5Y2JNT19PWk45OGVZYXNTMFM5MWdkc0ZXZWNKcmk2eHYwY0hLTmhtY3BVQ3g4enBkMno3WXVRZjdscktna3NpREh0aGRfMUZNVWNydDItMVY1Qnl0N25ZYVpZUVFXOEFfMGU5MS05LThQZTVIbGhKc1o1WThXak5JczlwZjBXNjJvekVRdw?oc=5",
         "source": "Chosunbiz",
-        "published": "Mon, 16 Nov 2026 21:04:31 GMT"
+        "published": "Tue, 17 Nov 2026 21:05:43 GMT"
       },
       {
-        "title": "[中 메모리 진실 ①] 삼성·하이닉스 추격 공개...D램 공포 과장됐나 - 인사이트코리아",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qN05rdVhRcnM2bXB0RW9mYUJzb3hOLWllVC1xX1VNYXN6ekIteUJEV3piRkdaMXJUZDRvbHE1UlgwNU90RjBvWFIyV0RfX3JOcmZtSlRDdnZmVDYtVlJ3LTZkUXVmTEtDcnBIUFBCU19jVDTSAXdBVV95cUxNcnEyUTd3RFFJSTg0MWR6OFQyR29wYUxMcHVhLTJYb2ZSVkFYZVlhTHFhS2ItOWZhRGRKR1RjSERJQlpuUUYxTXZIQ3d2OEJkcUZoZHRNeGpqVno2S0pydVV5RHR6WlcwX3BrX3dGZXRncjVtR0NBVQ?oc=5",
-        "source": "인사이트코리아",
-        "published": "Mon, 16 Nov 2026 21:04:00 GMT"
+        "title": "美 데이터센터 전력 대란..삼성·SK하이닉스도 ‘먹구름’, 왜? - 데일리카",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kbmxkdGFfY2E2M2xhLXVPenR6a2x4QVFBWTNZU2Jhcjk5ZUVWY2RuOXN0RDNiWnZwdDJmSkRyWUZxcV9NNlA1NDB5QnRFd01JclU4WV9uTVFhTTFBYTVQeDFvOXVETnY4MzRCNXNfcUFCdGlDN3c?oc=5",
+        "source": "데일리카",
+        "published": "Tue, 17 Nov 2026 21:05:18 GMT"
       },
       {
-        "title": "[글로벌 AI·반도체 산업 ]젠슨 황 사임 후폭풍…엔비디아 리더십 공백에 美 대중국 AI 반도체 정책도 중대 변수 - 코리아포스트 한글판",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QcnpKZUIxR2NGbzVVazgwMkZCcmhxZEhKN2FQZW51NTZXalBNMkNsMTdLa3NwOWx6YzZId1JGdXRaZzlVUFZ4cEpVeUdRYWhiM19ySUJBWlN1STZwYVRFaVhsQWY1Y3QxbEUwM0pR?oc=5",
-        "source": "코리아포스트 한글판",
-        "published": "Mon, 16 Nov 2026 12:29:57 GMT"
+        "title": "엔비디아 쏠림 벗어나… K 반도체, 고객 다변화 나선다 - 세계일보",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11b3ZaSnQyN2xKZjFPTFYxcGVoaFNVcEo4QXI4cmlPZjNiUFFSLVhCWXI5X3loYXg5eTRqeDJ4RkdZbF9RT04xZHZTLWQxek0xelFWUVpiY3U4bHRyZzRJa3ZHcEVjdlp2Mk1J0gFUQVVfeXFMTTYzakVkbXZSUW1sSnpoWDBoNGpHeWJ6bVpxNGpjb01kdDlmdkRpenpuRzBZV1N1UW5EeDFtQV9iVGZmUG8zNDllLXpoU0hoUXpSZTdk?oc=5",
+        "source": "세계일보",
+        "published": "Tue, 17 Nov 2026 21:00:00 GMT"
       },
       {
-        "title": "삼전닉스는 아낌없이 투자중...3Q 누적 시설투자, 삼전 57조·SK하닉 31조로 역대 최대 - 생생비즈플러스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WUs4TDlHam1FNDh4bWdBdjcwdTFRQlBtTTVjZ0loM1pVVG8wU3Q0cXR2bkkzT05oQy04SlNOTEU4LVFkY3NtX215bExScjR2MXRZNm5YTjJxNktUazRVSVp2dWxIUEtoazhSUA?oc=5",
-        "source": "생생비즈플러스",
-        "published": "Mon, 16 Nov 2026 11:25:55 GMT"
-      },
-      {
-        "title": "[분석] 메모리 정점론 속 HBM 5배…내년 봄은 온다 - 파이낸셜포스트",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xLTUyUDlITXdQeS1uQW9rWDRfdHZPcU8wcndvNmZ2clBaN0Y1QVJBZEZDQndSYkVPWkJScVBac2JGSzFleWVBZ3BQckxQNU1IR3dDbnVRWjhTS21talNZYlN6LXJTQVY3ck9RVEVPSnFueHNr?oc=5",
-        "source": "파이낸셜포스트",
-        "published": "Mon, 16 Nov 2026 11:20:15 GMT"
+        "title": "“삼성전자·SK하이닉스 또 악재 터졌다”…美 법원, D램 담합 소송 기각 거부 - 데일리25",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3SVR1SU14RlhGanYyalhUN2pFYU91cXQtdXB1NFBMN1p3OXFnTWdDbnpRSTJIbTg4dDhWTHVyekdjV0xCNmZoQnA2OUNIdkJJemZ0LVRSa3ZLa0xYN0F4MXc2YzFPTnplZGFnWA?oc=5",
+        "source": "데일리25",
+        "published": "Tue, 17 Nov 2026 16:22:21 GMT"
       }
     ],
-    "국내 주식": [],
+    "국내 주식": [
+      {
+        "title": "[AI MY 증시전망] 엔비디아 깜짝 실적…코스피 '안도랠리' 기대 - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PVFJzNm0taHE0YW9JVGFfQjdKcE9mQXU5UFRyWEE2VlV6TVFPa29VNTh5Ql9hTlhDaVVRNEVydzZsMW9haFA2WW44ZjB0a2VsZFdlTEt1c1IyeGg4?oc=5",
+        "source": "뉴스핌",
+        "published": "Tue, 17 Nov 2026 22:27:00 GMT"
+      },
+      {
+        "title": "[그래픽] 코스피 코스닥 추이 - 뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43OXZ1cmhYX3NMUUxtX2JLRm8xblpqWmNOZ2VGa0JSSkZiX2J0bThYRW1IZnRQSFZ2dmttbUpxbDR3cTZUVFJFbXNSMA?oc=5",
+        "source": "뉴스1",
+        "published": "Tue, 17 Nov 2026 06:41:50 GMT"
+      },
+      {
+        "title": "[오늘의 증시] 11월 17일 코스피 코스닥 - 뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12ZXo1aEdvNVFvZUpXTW1wLXo2ZGs2SzZJUndVUWFCeHc2Qk56NjNqY3VnZGpuQ1NTNTA5cEE5Uk1MQldIYVpvbG5acw?oc=5",
+        "source": "뉴스1",
+        "published": "Tue, 17 Nov 2026 06:37:53 GMT"
+      },
+      {
+        "title": "[오늘증시] 코스피 5000선 줄타기…모건스탠리는 '1만 르네상스' 전망 - 오늘경제",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wYTQySHZlaDk1MEV4emlnRnEwbUNvTFBuRklNVDM1SU0yckFhUVJGTEx3N19vNWtjN2pBMjhzSVhBM3d0NkFVYnNRQnhkOW1MUWdJZjYzcHJ1Q1ljRHJlZ01DcFZpTlJSbkMyMFVLSmcwVHM?oc=5",
+        "source": "오늘경제",
+        "published": "Tue, 17 Nov 2026 01:44:34 GMT"
+      },
+      {
+        "title": "코스피, 장중 5,000선 붕괴 후 반등…외국인 매도에 약세 지속 - 산경투데이",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6a3ljYnB0UHNfTU0tcFpXb0VJZVVmOFhNS21OZGFMRERvQmVvai01eG9hbEtLbndmc2JCSl9jb3l5SXUzTWhsaWZsNlJXRXdocmVBTjVFMkM3azVRSnRhWU9MX2Q3Y293bnhRRWt2SlLSAXRBVV95cUxOSm5HRjQxaEdXV1NCOVQ0UmZaMnNWUHJWZk41RDNHMVgwUFFyZFpIc2FDbUhyaVFoWHZycW5TOGRLVXFTVy0waFdyRHZJYlNJV1pFV1A2STNfcUJORzZrV3M4T0h6cEhVb0NaX3N1ZjNnajRMTQ?oc=5",
+        "source": "산경투데이",
+        "published": "Tue, 17 Nov 2026 00:40:10 GMT"
+      },
+      {
+        "title": "코스피, 1.81% 하락 출발해 5000선 턱걸이…코스닥도 1%대 약세 - www.ebn.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lajAzd082LWQwMFMxbUtXcVhORUh0TkF1dWFqa01ZcWdneGxfdjNsNjdLcC02UXEzMHBMdjJlNXJ0S2NhenBoTnRjTmpDYk80bEVGdW9WY0pTZ1VLci1aZWgwbUdtNU9X?oc=5",
+        "source": "www.ebn.co.kr",
+        "published": "Tue, 17 Nov 2026 00:03:20 GMT"
+      }
+    ],
     "미국 주식": [
       {
-        "title": "뉴욕증시, 엔비디아發 악재에 3대 지수 급락…나스닥 2.49%↓ - 산경투데이",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZHhXMTZWM21GbGNIUWJiSnZyVDVTMl9WQTZQNHYxTkJ4Y2J5R1VoemFxMktzN3JPNThjTGNqM1VZblZOd3dxWV9vQ3B2N09peVNQYzFiVXhrQU5nZVlEelRUa1k5dGhXM2NlUGNBbDbSAXRBVV95cUxNQWdBZnUtWFU0OEJNeTlGRXVXeHg3Wm1XUFhtQVhwdnNxeFhXT3BPb0Y2ZXQ3dTN3ZWVUQUdUelNxTTZEME5ySWYyblRmbEFzSXo5MWczR0pDYjB2bVlwNmJGQTdhM2laSVVyM0pyWTk1Z08zRQ?oc=5",
-        "source": "산경투데이",
-        "published": "Mon, 16 Nov 2026 22:15:39 GMT"
+        "title": "[뉴욕증시] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ - 연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSHR1LTh6RjJNQ19LMGhqVWlwT3Z2Y3dzeGFxdGlBWkJWdl9YcTctZG50ZW5pdE1CR3VHRzFSUlBJTF9SR2NKTWpCQ2M2eDZTanVra0tmSjNRWS1ZUTA3ekhqQ3YtbFJ5TGJ6emlmNC0?oc=5",
+        "source": "연합인포맥스",
+        "published": "Tue, 17 Nov 2026 21:34:31 GMT"
       },
       {
-        "title": "[속보]미국증시 나스닥 1.42% 급락…다우·S&P500 동반 하락, 엔비디아 실적 앞두고 기술주 압박 - CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOXpqb3VROGpRUmx6NUZEWTNBUzgzVWFYU0dvZWRiOXpFbk85Z2VuNkFoSjZ6eFNCX0lYTTZoVnN4SGZxMV9lVHIzNnlUVndZTEhrcVVjYzZzdnl2cE0wNWlWNkUxVTBf?oc=5",
-        "source": "CBC뉴스",
-        "published": "Mon, 16 Nov 2026 15:00:00 GMT"
+        "title": "미국증시 전망, 나스닥 2.49% 급락 뒤 반등 시도…엔비디아 실적·10년물 금리 5.14%가 변수 - 톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xYnJoX1lMMXNYdGJHOFBPa1p0LUVuT3VIR1dsMk9YX2FHTTdVWHdpVHBKc25uZlBtVUN2WmZ5bFZRRTRnMkx1bWpxTmVMaGFVaXFNUVNIcGUyN2o2c3VXZ1lUS0ZNSTlZak1ITVl3d0NFZw?oc=5",
+        "source": "톱스타뉴스",
+        "published": "Tue, 17 Nov 2026 14:04:38 GMT"
       },
       {
-        "title": "이번 주 다우·나스닥100·S&P 500 향방은? 미국 증시 핵심 변수 총정리 - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQUEI0TGpyYjFULUFBYlowb3Iyb2dyWm5VS09wd0pER0RBU092aVVMcmYzbTZjQjR4b1pDa25vWGlhX3ItR3MtdjNjX0I5WklNeGlqTEQ5MEdRNUlmUG1nWEl3NlExcWFRZUlUTURtRVdqc1BwXzdLcm9vLWpYQ3NPS0dOTDNDdlFlNll5ZlVlYlFNUzBQVVNFSE9yWkY0R3kybk1iX0Mtek53OWhiZjhnbFppSGdWdlRNSXNaS1RvRU90eFZ0a1c0ZjFzczNib242WmlnNlNpbmxnSG5nMUhFZDVwdEZ0ZzU1d2FfTmNMUThxdE5UbmdibmVscU5hMG1iNk5kR3lOaWp6eWh4NXNEc0RnUzBmTE9uQlZHeWFxNFVVeC1abVFlZ2FCMklPbHkyVlpfTnpHeWdLOHRPVU5TanB3?oc=5",
-        "source": "Benzinga",
-        "published": "Mon, 16 Nov 2026 00:28:44 GMT"
-      },
-      {
-        "title": "미국 S&P500·나스닥100 채권혼합 ETF, 올해 1조원 유입 : 금융 - 재경일보",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QUmtGUENCVTlHM0VxQUl0bGQ0R2tNZGJmUzN2b1VxdkgtcXZZZEdHTG1Ha2JYWmd6YXhYT2dPMEFDZ2IwOVpqNlJDOA?oc=5",
-        "source": "재경일보",
-        "published": "Mon, 16 Nov 2026 00:16:07 GMT"
+        "title": "뉴욕증시, 엔비디아 4% 급락에 휘청…나스닥 2.49% 하락 - 스페셜경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9raFE5VEY2OE1MX0Vhb1BxYkI3dDN4TS1RN2dYWjJXSzBaUzI1dHBJU2FlTWxtQWZyYXZyQUVibGFobWZBUEpGNUVVOXo0ZHNLVzg2NXo0LVlWeHg1dzJoNGpPY0FuWklKQXh2SQ?oc=5",
+        "source": "스페셜경제",
+        "published": "Mon, 16 Nov 2026 23:51:20 GMT"
       }
     ],
     "경제": [],
     "AI 기술": [
       {
-        "title": "GW급 AI 데이터센터 전력 확보전…SKT·효성중공업 손잡았다 - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTTUR0aUdLT3FuMFgyd2x0dzY2YVdaMmRlMnJ3Zzc1d29rZmszbE5ZNEZiLV9PQkRFTUZjTjh5NnhDdzNhcGMwQTJRQ1NnLWI5OXoydHRZaTkxdWPSAWBBVV95cUxObjdBU0FRWFl6WGV2UExxOEJ5SG5BYXBkUW04ejZ3VU9mUXUtVHNDTUtVNkUzemZrblREU2poWDM4VkZXMnAxSjNWcGRSN3hWT0NTb3psZ2dxbWhqYV9ZSEQ?oc=5",
+        "title": "서울대 공대 80주년 포럼…우주데이터센터 등 6대 연구전략 제시 - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5UzBvemNfdDczZGIxRy05VVJjX05UZDJRdEJLd2dOSHo4aXhmc0ozcXFaWGF3OTNQbWtTVjJaanctTVM1cVNpaW8zOTRTR1FfTnRVSmkzQTZYbFnSAWBBVV95cUxOUDRnYWxycWcwdWVNZ1hRODJTQ0VKYVFIYl92TkZ6ZFk2Z0VzRmpYdzNqN1lvSnZtVFMxaUlzOEtveURTZmI2dnFHVGZhT2NJRXNVSXJjQTRiWDhManhTeW4?oc=5",
         "source": "연합뉴스",
-        "published": "Mon, 16 Nov 2026 02:00:03 GMT"
+        "published": "Tue, 17 Nov 2026 00:41:12 GMT"
       },
       {
-        "title": "부동산 대신 AI 데이터센터…中 은행·보험사 돈뭉치 몰린다 [차이나 워치] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BVUh1Q29hWDQzOGVnV09jeXJkckpsd2Q3cngyQ2JSNU84V244ZFU1RlQtY054M1V2ZGtTZ0VuamYzamRPa3ZGYzc0bzMyM0hkdGxuNkt1QXRtUQ?oc=5",
-        "source": "한국경제",
-        "published": "Mon, 16 Nov 2026 22:51:02 GMT"
+        "title": "미국 AI 데이터센터 403곳 탄소배출량, 덴마크 한 나라와 맞먹어 - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEN3hBZE5HWDVPTU9tY0ZMLUxBcmRuVkNiRExtZmxVYWVYblZZZ1RjdU5hLUs4ang3SnFycjd2dVU4dmlPQlhuSU5HMzIwdFpXQWc?oc=5",
+        "source": "매일경제",
+        "published": "Tue, 17 Nov 2026 01:29:50 GMT"
       },
       {
-        "title": "APEC 왜 선전에서 열리나…기술 기업 밀집한 中 첨단 도시 - 이데일리",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmZtdnVTeDY5dGpURG9lNzM0Z1cxMVpLdUxxZXlFZmtLN0tHRC1CSjBVcDcwVnRlclU5dEJUejdFZTREclBiUWZEQThzM2dnUUlfc3hEZm9IWHlxSE9EaDA4Qzd4amtVRkJqSXZLNXZiOW84UnZVdTNVa2o1RzBfOQ?oc=5",
-        "source": "이데일리",
-        "published": "Mon, 16 Nov 2026 08:24:37 GMT"
+        "title": "엘리스그룹, '탄소가치평가보증' 38억원 확보…친환경 AI 데이터센터 사업 가속 - 전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53ckhLRkI1cGYwcFVKc1Jmeklzc1J2NGNVTzhSR3BfS25uR2t5NVVYQ1dTOWctbS15TEJ1RDNMS1YzaGxBRENQb1V5UHBWZw?oc=5",
+        "source": "전자신문",
+        "published": "Tue, 17 Nov 2026 05:00:00 GMT"
       },
       {
-        "title": "효성중공업, SKT AI 데이터센터에 전력설비 공급 - 파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MM0dqVG9PYXcySHM3b2J5SkpiUFBYbDhDVDdJQWhUN0h0TUZoWURON0hXcEM0WWlTaHpiSDFpeWRVTmdQamhaZWk5bVFvODVaMFdhb19iU0RTZw?oc=5",
-        "source": "파이낸셜뉴스",
-        "published": "Mon, 16 Nov 2026 04:47:39 GMT"
+        "title": "미국, 중국의 해외 AI 반도체 이용까지 차단…미·중 기술패권 갈등 격화 - 지이코노미",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRlpacHBYUFNQR18zcUpjeWNRdlRSV3pvM0Znb0lkUkVTd2F6LXR6ZjNhenljRGxpSDdyX0YyTVZpTVF2Y3BFVk5ndW5adWhQRUpXSUVlYnBHVlk0b1hHYUFIYUw?oc=5",
+        "source": "지이코노미",
+        "published": "Tue, 17 Nov 2026 20:44:57 GMT"
       },
       {
-        "title": "\"초대형 협력\" SKT·효성중공업 '맞손'…AI 전력 확보 총력전 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSk80enl3ZFRTa0k4SlMyR3V5dFpHV1RJWGNRS3pIOWdrQ0lnNkFVc3FZRkVBTHEyUTZ2emp0YmhwWWRvQXhBWVNQZTNkaVJvQVkxUGQyMVM4Zw?oc=5",
-        "source": "한국경제",
-        "published": "Mon, 16 Nov 2026 02:00:08 GMT"
+        "title": "(해외환경뉴스) 워털루 혁신 기술, AI 데이터 센터 냉각 비용 낮추고 효율성 높인다. - 제주환경일보",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Jcm5QODI4clZYXzQzLW5ROUVLMjY3SDQ3NjRVQlptMGYtbnJiOXphYWFKSGFxbzg4c25YVWticXhIM3pFR3UxRWdLS01zQi1wVzRPb2lTOFI3Y0l6bF9EQ2M3TkRKRW9S?oc=5",
+        "source": "제주환경일보",
+        "published": "Tue, 17 Nov 2026 16:21:23 GMT"
       },
       {
-        "title": "SKT, 효성중공업과 'GW급 AI 데이터센터' 구축 맞손…핵심 전력망 선제 확보 - 이데일리",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUEyT2JLRDgtb2Nzb3R3LVAxbmR4WnZVeXpnUTJoVE1FQUw3Z1RlT3NTWWVPRDZMYjJ3cV83TjBEdjNKMTU1UjlCeEVBcTJocTdidXE2UFliSVRoYlE1VEthMUxUVkNsWUp4RjVmQ1U3WVFNcDB3X1prOVF4Z21zUg?oc=5",
-        "source": "이데일리",
-        "published": "Mon, 16 Nov 2026 02:00:04 GMT"
+        "title": "미국 데이터센터 403곳에서 발생하는 배출량부터 베트남의 친환경 AI 인프라 구축 과제까지. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFVyWjh2VWN2MEVLZU1LQk9UMUlmTmxuRXNmdjZ1cGZ1OEU4aHZCdDgzTHNuMFZ2aHdnU1pndGJxWXh1T1BQN2hSVnBIem9tam8zUEFZN2lmVVVGWjBlQ1Y3c2xQdnBWeUF0bmlPV3hjZ2xCXzVpdGZMUTZvOE1ZYlpHUVk3SU1Db3NISC1jZFRZOVlSOFl4SHZDY0VrMF9FbVdFU2hpZWo4Vk1JTHZMRkVrVG9vdw?oc=5",
+        "source": "Vietnam.vn",
+        "published": "Tue, 17 Nov 2026 16:00:56 GMT"
       },
       {
-        "title": "SKT·효성중공업, GW급 AI 데이터센터 구축 맞손…전력설비 공급 협력 - 디지털데일리",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EUGpzQzBuY0J4bEJicFFTYXJhc0lubVBYVGhuTWxsc0tFaG1neHVnckxiYlZTZUpiMWJnTDlfT3lzUkFrN05HVkJUd1g4SklqN2Z3S1hNVjRFOXZaNWtaQ2ZpYWM?oc=5",
-        "source": "디지털데일리",
-        "published": "Mon, 16 Nov 2026 02:16:35 GMT"
+        "title": "몰렉스, 2027년 AI·전자산업 10대 전망…휴머노이드 양산·AI 데이터센터 구조 대전환 - 인공지능신문",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55cUhiZVZDM3pYT1ZwcXluQ3hZdGxRREVoNjVieU5YNGhnbVB4VGNXVnotTm9namJFVXpUUWswWjMwUHd6WnFYR1k0UXY2QU5BVkJlNkhPYl9XRVlzWUlhTEdnZS0tbWs?oc=5",
+        "source": "인공지능신문",
+        "published": "Tue, 17 Nov 2026 09:35:46 GMT"
+      },
+      {
+        "title": "\"데이터센터 새는 전력 확 잡는다\"…ABB 모터 제어 기술의 변신 - 지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qOXMtUk9jWW1LZ1hqZlJCVEJENVVBNTZUTlAwNl9uMU1Fdk9mVzVIUXRtcWRqME5BZjZhOURHZm9FT2pCS0JkT01tbFZhQXh4dmhJbWVR?oc=5",
+        "source": "지디넷코리아",
+        "published": "Tue, 17 Nov 2026 09:33:00 GMT"
       }
     ]
   },
-  "errors": {
-    "국내 주식": "HTTP Error 429: Too Many Requests"
-  }
+  "errors": {}
 }
