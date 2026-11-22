@@ -1,127 +1,97 @@
 {
-  "updated_at": "2026-11-22T08:27:37+09:00",
+  "updated_at": "2026-11-23T08:32:07+09:00",
   "categories": {
     "반도체": [
       {
-        "title": "이재용의 원픽…\"될 사람이 됐다\" 엔비디아 뚫은 30년 삼성맨 [강경주의 테크X] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiUFdleVN3by1tamhUajFQczRqMHA2djFDNHJfMmhLMzNBNXNpQl9kYWgyYXdGVUtJRDFoM19MUFQ5TUNveF9OQnJoVFRVLXctNFVBbWpjcU1OUQ?oc=5",
-        "source": "한국경제",
-        "published": "Sat, 21 Nov 2026 00:30:03 GMT"
+        "title": "AI에 메모리 뺏긴 세계…램마겟돈 2028년까지 간다 - 이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDRPRGdRM0ltWFNlNlNGWmxHVXM1bTlUZjFxNklIamZkeWdLR0ctMy13N21qVUJkNnU5bG4wNjFuS0VMeDlQNjBwaW1fQkU4U2ppdnFlaDl6bXg2c0ZIRi1lWXdFRHR5ZXVydlNhV3VaM0hoLWN2aThkeDh5eFpmOA?oc=5",
+        "source": "이데일리",
+        "published": "Sun, 22 Nov 2026 09:39:50 GMT"
       },
       {
-        "title": "삼전닉스의 저주? 1억이 1800만원 된다는 폭락론 - OBC 뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lclFrSWlMXzJFek5DdXJzYUNSbGprcTd6VW96RGlfaTU0cmluMWdyck5yeTVudXBXRlBhYUQzVUxRTUM4RjJKTkQ0R2xkZkFfbzZfMVVSUWF2OTBhbm9PMXRIcmVVbFJjUXc?oc=5",
+        "title": "삼성전자 18만원·SK하이닉스 110만원 지킬까…반도체 업황 전망 엇갈려 - 톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Sb2xfQ19hakRMN3RJN1FUcnlwUGlPWWVDQ0Z3cS0tbFAyVHFZblRjVlFKNmR0Y1JGSEc5b2JaVmtuMEExQ0V1MV96WDNkcFExX0dqdUpmVG5FenRDME9OTEl0OHcxRG9paTg0endfM0k1UQ?oc=5",
+        "source": "톱스타뉴스",
+        "published": "Sun, 22 Nov 2026 22:15:48 GMT"
+      },
+      {
+        "title": "HBM 슈퍼사이클 기대 꺾였나…삼성전자부터 테크윙까지 매도세 확산 '경계령' - 핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QN2pOZUVMOHp6U3VYUy1GdjBLZ3hicjZrMDZDS2Fhd1hPeFd5MElqNXJSQ1JoYzB2aWo4OWZ1NU5zMmFPdVFqcFVzUWVfR2hvR2lHZm0yREEyNWRlNlZzN09nc1ZNX2laY182c3Z6WGpRTlHSAXdBVV95cUxPckg5YlpIYVhVcC1Fdm9ndlhIWURsTVVQSm8tMEt6a2dfMkh2cmRTSlNXaDRPMF96VGZZMzdZRzlmNzJCd0tuaDN2SU12eHF5dTBRUnItd1VMR3dfLWJOOUhRUDlIUlRJRVVxQ3ExMmFTSENfSFdNTQ?oc=5",
+        "source": "핀포인트뉴스",
+        "published": "Sun, 22 Nov 2026 07:33:07 GMT"
+      },
+      {
+        "title": "삼성·SK, HBM 개발자 중용…LG는 로봇 연구진 임원 발탁 - 비즈중앙",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LTmtEbkNtNVZQUWhTUTlFLTY5UTlVX3B2d2NOUHlEc1VvbjRhdGVYcGtiTDBPdVZXdVZvcFhwZHRKelBkZ2hXWDBxWURFeDVSNGZicXlxdDNGWGdEUnRmSW1TQWh2dzVoZy1yTUl3cWo?oc=5",
+        "source": "비즈중앙",
+        "published": "Sun, 22 Nov 2026 05:32:53 GMT"
+      },
+      {
+        "title": "엔비디아 독주 흔들리나…구글 TPU, AI 반도체 판 흔든다 - OBC 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YQ0dxY1g2YnFwbGFiejZfMm1yRnQ5UGNrdHlnZ3pPRS1ZOGZTanJuWktTWDhMcEtzR0NRRDFXbDAxbHdtRVhwRDV0dU01VXdDN3oyYWlXLXBCZWJ3TlczRmY0b0l4UlVLeFE?oc=5",
         "source": "OBC 뉴스",
-        "published": "Sat, 21 Nov 2026 08:00:08 GMT"
+        "published": "Sun, 22 Nov 2026 03:11:43 GMT"
+      },
+      {
+        "title": "[주간 재계 나침반] 엔비디아 호실적에 韓 반도체 기대감…현대차 AI 동맹·삼성 노사 지형 변화 - 중앙이코노미뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zQTBBRVExR1lHQVpEZzRUUUh1d0lCTlByZk9lOUJzaWVTYVhndk9SZFp2bHZNR0NkV0pMaDJKMkJaZUljc2w0SDFsLVJ4NHdKQm9peVJZVjVkdjBDWV9FZ1Uzbm9yTURfeVBwNktPWFNVdw?oc=5",
+        "source": "중앙이코노미뉴스",
+        "published": "Sun, 22 Nov 2026 03:00:00 GMT"
       }
     ],
     "국내 주식": [
       {
-        "title": "코스피 급락 속 '코스닥 활성화'?…대만은 규제 강화, '검은 월요일' 또 손 놓나 [증시는 왜] - 파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQZ3Z0TW0wUWNuNm5VVHRFUWdyREY3OUJrbzFjVU5QYW5QbmVBcXZUY1RWT2pSNzFXSW0waFBaSW9FMG51akJpbndEYm8ydVc3d3VCRG55QThIQQ?oc=5",
-        "source": "파이낸셜뉴스",
-        "published": "Sat, 21 Nov 2026 21:00:00 GMT"
+        "title": "바닥 뚫은 코스피… “어디까지 떨어지나” 공포 - 세계일보",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WdVFxQXphX290NGtOeUNpbHNuQjN3Um0wc1kzc3FLOEtiTmJ5OHg2NDRSblFac3ZGOUZEYVlVSXVOTE44Wm50dFltUnpXOFFJck9xQk1aSTfSAVRBVV95cUxPUDg1cXJkblZ2eHpKRWlGSW9oNXAxNkFWUnRud1FrR1FjRTlGTWkwY2p5WE1WMGh6Vzg1R3lpY1JISUtYemJiZ0EwQXpQUThGZUpOMTg?oc=5",
+        "source": "세계일보",
+        "published": "Sun, 22 Nov 2026 11:00:00 GMT"
+      },
+      {
+        "title": "코스피·코스닥 5% 동반 급락… 정부, 월요일 개장 앞두고 긴급 F4 소집 - 파이낸셜포스트",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TaklRNUZ6aVlIR3NQTGJIU0NrdDVfaGZtR3hndUhvVjRBU3djY0NPeHB2aGppbzB1dlBIaEtjY1luVEc5b1djRjRxYS1fUHprSS0teW4wYkxSSlRqbkItMnM5NVF6N3FBTkt2SVFpdVpkWUt4?oc=5",
+        "source": "파이낸셜포스트",
+        "published": "Sun, 22 Nov 2026 09:19:47 GMT"
+      },
+      {
+        "title": "연초로 회귀한 코스피 4800선…종목 78%는 ‘뒷걸음’ - 시사저널",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWnBmRnRNSllfU2RYaGhkd2dROE1qY0xxZTVfYk5xcy1aeUZOT1lVNFdjVlNON3RiNmdKVHlubndWVm11dzJwRGhnMk90MGlfc2FEZUZKeUlQSTZycktZQmZhdlRjaTJRN0FpVW41d9IBc0FVX3lxTE9ZMmxFY01XdllHM2VrN2N2SWtSclJqTHNnVzV4S3Rqa25nUEJzWFJCajkwcHZKOVhLRm4yVVctYURTaVQ3Q0pKajd6a3hPaEZwUXZ2OE1TZVNrWWJqLWczaVBJbmF1VnJyOTZEYlZyLUN2WlE?oc=5",
+        "source": "시사저널",
+        "published": "Sun, 22 Nov 2026 03:28:21 GMT"
+      },
+      {
+        "title": "코스피·코스닥 5%대 급락 충격 이어 뉴욕증시까지 털썩…삼성전자·SK하이닉스 등 대형주 향방은? - CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVdHIzS1ZPVlNoamhvVGgzUVBkWVFhdTM5WldCdmRrcWZTa3hzdkJYbkczUzJOZjkwMG1weTM3cFo0WlAzVzRqNlVUamFHdnpsTVJudkIyYS04cjdoZ1dZUFhXOW1kcDlU?oc=5",
+        "source": "CBC뉴스",
+        "published": "Sun, 22 Nov 2026 01:10:00 GMT"
       }
     ],
     "미국 주식": [
       {
-        "title": "미 나스닥 5.28%·S&P500 3.70% 급락…서울은 먼저 5.21% 내렸다 - www.famtimes.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51dzc1LWk0dm9QYTJBamNPMmtva3YwSlFhSGw4VmNFbEl3NkVIWjdfdW1EeDl0MHBfc2NHeHFnd0FaZFlZaGc2N2ZWcDhyS2lkdEFxOW1lNXhIV3ZHMnhBU29wbWZHZlhKMzktU2pR?oc=5",
-        "source": "www.famtimes.co.kr",
-        "published": "Sat, 21 Nov 2026 01:58:33 GMT"
+        "title": "[미국증시] 나스닥 5.3% 급락…BofA \"닷컴 붕괴 때와 닮았다\" - 자본시장뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2WDJXNkZqVHBucWpncmVheTN3Rk5JcTJESjh4eV8yOHNzRFpSNHVKMDhtaXVUR1ZzZWZCMVN5UjJ1NFJjYmtJUlp1Ul95NEU1YzBGaV82UFBfTkFhc01wZnJTczRsWDQ?oc=5",
+        "source": "자본시장뉴스",
+        "published": "Sun, 22 Nov 2026 23:00:00 GMT"
       },
       {
-        "title": "뉴욕증시 나스닥 5.28% 폭락…S&P500 연속 하락 - CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iTGtiWGRqbVZ3eV9XYlNYREwzSXgwcllqUEctV1BCSGU0b2p1WksteHhvTVVDWVlIX1ZZMkFERnhURW1HVzBRU2QzSjg1SkExLU5NYXBKdTBWdmJpVzRFWUE3Qmltajhx?oc=5",
-        "source": "CBC뉴스",
-        "published": "Sat, 21 Nov 2026 01:20:00 GMT"
-      },
-      {
-        "title": "AI주 투매에 뉴욕증시 급락…S&P500 조정장 진입·나스닥 연중 하락 전환 - 뉴스로드",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xTjRpbjVDalNiZ1BaYmd6MXBpNTY5NDZUbi1zSGxpSUIwQk9kb0NCVjRCUVdXNEZYY0RkcU51TnhOaUxvcFBadVk1OTI0NkxaWElxSnpteXhuZjg2OGpsT3NaUlNFSGVtT09Z0gFvQVVfeXFMTVpuMjd0am5fV3JDaVh3Y0RSTEkxMzJMM0NWU3FoUVpMd01OSjhrdkpWQ0tyQ3Q0MVFzUVBPZl9CZE1HTy1KdGVDVnJvencxSnA1ZjFCbktudGNaeFZSTnZ5OUlGWG0wUm1GUXpBWTNJ?oc=5",
-        "source": "뉴스로드",
-        "published": "Sat, 21 Nov 2026 00:42:26 GMT"
-      },
-      {
-        "title": "[뉴욕증시]나스닥 5.3% 폭락…다우·S&P500도 조정 장세 진입 - 아시아경제",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LTEY0dS1rVGE1Q1JFd3E4ZWRKQlZ6bnpwVWhtXzR6bldZZlljWk1nRklLbWUwWklncmRwQnJjN3Q3TmFfUzYteUhQY0JkTTV0dHNhLXNGMnE5T2YyaU5lWA?oc=5",
-        "source": "아시아경제",
-        "published": "Sat, 21 Nov 2026 00:26:02 GMT"
-      },
-      {
-        "title": "뉴욕증시, 앤트로픽 상장 효과 실종…나스닥 5.6% 급락 - 스페셜경제",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WR090WmxpbnVJYzdhSEJ5R3R6WXZ3eXd4dFFaV1BIaUQxdFoteXF6N2VYM0pRVzJDckMzRU1PblE1cEJ3VmNHa1h2ckZCSnNWcDZaeVZIVTMyNk1pQndFMVFlQjFIN2hORXAwcA?oc=5",
-        "source": "스페셜경제",
-        "published": "Sat, 21 Nov 2026 00:02:17 GMT"
-      },
-      {
-        "title": "美 뉴욕증시 3대 지수 급락…AI 투자 과열 우려에 나스닥 5.3%↓ - 블루밍비트",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0VXo2YkprOEw5LUZrUEQwZ29CeDBVaVZ5Q0Qya0RkQ01idkx6LW9oeVFRLTh4ZkhtLXMwRkJxaW94QWZqWjBKbnZ6Y0Z5VUpO?oc=5",
-        "source": "블루밍비트",
-        "published": "Sat, 21 Nov 2026 00:00:18 GMT"
-      },
-      {
-        "title": "AI주 투매에 나스닥 5.28% 폭락…S&P500·다우 조정장 진입 - 우리경제신문",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vczFBajdpM1ppSW15d3ZteTFlNnNJRDBESEhrdWZSaXRtS0JCZTBsMGxDeWVFcUN5QWt0Rk1iU28tbFdJeXZVYS1aaDdYdS0ySEkxTHcwd3M?oc=5",
-        "source": "우리경제신문",
-        "published": "Fri, 20 Nov 2026 23:49:16 GMT"
-      },
-      {
-        "title": "엔비디아 14% 추락에 나스닥 5.3% 폭락…미국 증시 덮친 'AI 쇼크' - 진일보 | 전남일보",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzdm5aWGdGdDd6Q3U5T3JEZ0FVTmFlSV9UaDZKWVVqXzl5VURUYUcybXRRUjNyNkFoT0dJY2o3TmIzcmJkbVlkdjBtT2E1YnZXY2N6WElPaU51cE9EUEpGQXladWozOFZfOFctUEVabw?oc=5",
-        "source": "진일보 | 전남일보",
-        "published": "Fri, 20 Nov 2026 23:30:50 GMT"
+        "title": "미국증시 나스닥 5.28% 폭락…PCE 물가에 반등 여부 달렸다 - 톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Jemg5cnctNHdOZjVfSUdBaUdrT0VVbHJDWElFS296aDZ0WHp1U2wxa0JEY2U5RDVTZ213NlVCZWM3VG82dVNMQ1l1RW15UGppNmQ3OGlNeXNERGNWX0hQTEtUWk9rYkZ5MHZMaHVERjFSdw?oc=5",
+        "source": "톱스타뉴스",
+        "published": "Sun, 22 Nov 2026 22:04:08 GMT"
       }
     ],
     "경제": [],
     "AI 기술": [
       {
-        "title": "공정률 71% SK AI센터 찾은 李대통령…AI·메모리 수요 확대 공감 - 파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WY2R5dTJKMHNDVDhPSE1ycE9mdjlqX1hGeVBIbnpwVGNnVldCREdhVEk5d28zdWlYR3RCdkdpVWFHSl9xLXltOHZKNnBaLTl2RjM0M0lCYmp0QQ?oc=5",
-        "source": "파이낸셜뉴스",
-        "published": "Sat, 21 Nov 2026 05:58:33 GMT"
+        "title": "AI 데이터센터 규제 푼다…비수도권 50MW까지 전력평가 면제 - 경북신문",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JbzhrWHdSRWk0UG5MQUhhWWktRm9WLXZFaWZuMHFxdXY5bU04X3JfVzc4TFpzQlRrc2k0ZDFUNjFrZUwxUUM5TmdBajBsQ0VRbkFRSmdqMXQ?oc=5",
+        "source": "경북신문",
+        "published": "Sun, 22 Nov 2026 04:46:32 GMT"
       },
       {
-        "title": "李대통령, AI·메모리 수요 증가에 공감…재생에너지로 산업 경쟁력 확보 주문 - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LTWxiYkd0dVp4YWlQMURsR0s0a2ZqUHdCUGxIMllVdFV2NldtQ2w4MDlQQVM1NkJBQy1XV1RoejNhdzRLbGloVmdqTVVJMk9MbXfSAVNBVV95cUxONzAweThNNW9BaE9iamZqZnV4OUhUM3E3YVhWOXZQZWlVRzRDYXhVNm5VUEE4WmlEYjZ0bW1xRm40enRzSVhUaWxaZUJLNGg2QlJFWQ?oc=5",
-        "source": "서울경제",
-        "published": "Sat, 21 Nov 2026 05:30:05 GMT"
-      },
-      {
-        "title": "AI 데이터센터 구축 빨라진다…인허가 일괄처리·평가 특례 마련 - 대한민국 정책브리핑",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JallUQmlaUGd4bXVKRS1mMVVmaTlQcWxGMmsxeG8wWHhoQUxENkViUFJxZXhzcnRyOHBUcWFrM2o5bUpvSmJBclJDdW1Fb2RveGlnNVdkYmhtMVk0WHlKbUVKVXd4SHlGN1phUQ?oc=5",
-        "source": "대한민국 정책브리핑",
-        "published": "Sat, 21 Nov 2026 23:11:20 GMT"
-      },
-      {
-        "title": "이 대통령, 울산 SK AI데이터센터 방문…공정률 71% 점검, AI 고속도로 강조 - CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90cEFhSFVfb0t1bWpaREJsUjFxejhHNHhmekxHUjZ6UndpOHo0blFVVGVET1l1UnAwa1R2d1AxQ21mVGxkRzNON2pNWmVVLXVfVG50NkhVNEw3MVBtdDBHOXd5eHEzVU43?oc=5",
-        "source": "CBC뉴스",
-        "published": "Sat, 21 Nov 2026 16:00:00 GMT"
-      },
-      {
-        "title": "李대통령, 울산 AI데이터센터 점검 뒤 전통시장 방문…\"속도가 생명\" - 뉴스웍스",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwLWFmQTNrUVRrNlpJNkFOZjV6c3d5VjVLMTRkQ2tBemtBaEo4YkRyWGk1c2lVODZJRS1Qb0JKNU1DSzlqWUFic29iWXU0SDV2WkJUQlBob0drX2xsbFF0MzdoM1dWQmpXbVBXNGNVNNIBc0FVX3lxTFBqUDRXRzQ0bktGV2dLMlpPcFpnQ3Zyc2EyN1hHZlVXcmYwOG1kMTNud1dxbXlYYnFBdE1NcDVWa2xIVWVrN0QtQVc5Z2RrcGg0ZGM5YUhpcDNqUFh2QWdBX2REQ2lPWnJpWGVTR3JYT0Rsbm8?oc=5",
-        "source": "뉴스웍스",
-        "published": "Sat, 21 Nov 2026 12:39:50 GMT"
-      },
-      {
-        "title": "데이터센터 전기료와 AI의 가치 제안. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWHp2aUZwQ00wSWpNcXUtRXMtSXFpZEVjU1RZQTZyNGdwWDVQOWFyb2JTTlRaOUdkU01oek9ILWJqcWtqN3ZYem9aRXYzQVFjbjA1VHlXNHRURy1lcWpRcXF4b0M4a0s5aUJQLVI5Q2pldGh0TVhDOGhpejZIZ2Qydw?oc=5",
-        "source": "Vietnam.vn",
-        "published": "Sat, 21 Nov 2026 10:33:14 GMT"
-      },
-      {
-        "title": "[종합] 李대통령 AI 데이터센터, 미래산업 핵심 인프라…속도전이 핵심 - 아주경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaNGxCLXBXeDhLeDhjVTBwNW1IdGpYQjZNcVN6dGRZeUV5MklUc25LZDc5dm5jd2FVUGNCcHBuNmNxOEdlbl9PWVh3QnE0VnRkb3d2d1dUcGNUZ9IBWEFVX3lxTFBiM2VGNWxhU3ZGSTV3aDNrNmVPdzBQZzIzd01GQy14dlFjQ0Vzd25vTXZRa3BBZEdndVVFcGQzWVdSckZsWGN4SERqX2wwVnlTZTRraEFiVTU?oc=5",
-        "source": "아주경제",
-        "published": "Sat, 21 Nov 2026 09:33:58 GMT"
-      },
-      {
-        "title": "[AI 대전환과 지역 균형발전] 이 대통령, 울산 AI데이터센터 현장 점검…“글로벌 AI 경쟁, 속도가 생명” - 코리아포스트 한글판",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLNm52cVJtUnlQQWRJeF8tTXRyaEFDOUEyWm9hVjNqUGpZOU1XZm8yV0ZobXdWYlVMLW1FbGpTLVJfVS14aE45cHBMM05uWlM2ZVZjbXp6QkhmNDhZZzVabXRRWldGMXl0Q3ctaVlR?oc=5",
-        "source": "코리아포스트 한글판",
-        "published": "Sat, 21 Nov 2026 08:21:31 GMT"
+        "title": "LG유플러스, 2027년 AI 사업 중심 조직개편…데이터센터·플랫폼 사업화 가속 - 이코노미사이언스",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoV2tlMWZOZmhmQW50bkxkbjE2bTJhRkJIbE11emxBUnEtNzJ1SzI4ZlhMS05hUXVCd241c18xcE5SajV3eGprSU5iRjBNSmxIWEtkbC1heUJmVVNHcWJSVFlLTUFQenVCX0ZYT1lQVQ?oc=5",
+        "source": "이코노미사이언스",
+        "published": "Sun, 22 Nov 2026 00:00:00 GMT"
       }
     ]
   },
