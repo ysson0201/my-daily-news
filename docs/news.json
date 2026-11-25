@@ -1,188 +1,151 @@
 {
-  "updated_at": "2026-11-25T08:39:35+09:00",
+  "updated_at": "2026-11-26T08:40:16+09:00",
   "categories": {
     "반도체": [
       {
-        "title": "마이크론, 삼성·SK 안방서 반도체 인재 채용…HBM 기술 경쟁, 인력 확보전으로 - 월요신문",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CS25EeEYzYW9RMTk0Ql9WbzZxbnFkWC1vWHNxd0RUM1pyNkNmdUszOFFhZGMtX3hYa1piYVpsUVBmbW9KNWhBQTM3eHdDejBHcUdUN0F2algzdEVENG9VUDMwRU05aTFKSEE?oc=5",
-        "source": "월요신문",
-        "published": "Tue, 24 Nov 2026 22:57:55 GMT"
+        "title": "EUV 막힌 중국, 화웨이는 HBM을 이렇게 만들었다 - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vVENFODBwRWNrQ2tpOFZMVzVBVklpYjhnRUtRa3gybU5Dc3hYNUd6eS1WcmUzcjdBT0xwMm1nS2VBYWRjVWxHREliTQ?oc=5",
+        "source": "서울경제",
+        "published": "Wed, 25 Nov 2026 11:00:08 GMT"
       },
       {
-        "title": "엔비디아 하루 만에 2330억달러 증발…삼성전자·SK하이닉스도 수급위축 우려 - 핀포인트뉴스",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1adTlaYnNFYjRDTWMwNjl3MFdBaGtVYTdHZzEwRFNoS0E0enY0WG1NdzB6dEIzSUJZY2NpNW9LX3lSYmZnT3duMEVUbUkwd1JFUzVMS2IwbHRyRE9VWGZmSHdlempQQThBVEdiR1l6MGtSTWvSAXdBVV95cUxOc3lvUGM5clliSmc1N29XM252amhFd09wcE5COHhQQm5jZlFwTktLdG52bkJNZF9SNDk0UTRvalVBX292U09Mc3VZUHlUdHgtX1p0NjFnLWZuTmt2X0N3VXpBS1RueEpyNk5UdTN6RW1WVjFHakp6SQ?oc=5",
+        "title": "화웨이 HBM, CXMT는 수직 게이트 D램…ISSCC서 삼성·SK에 도전장 - 디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80SU44eHVrYjUzWjRQMmQ3cElOVzE2ZFpkSTU4OHA4MW5NVGRKSnkyMnA4ZXQ4ZW5hQV94NzRWQ0FQUUJzTi1pbEpWWi0xejkyUHVDbXQzd2FmTVpfSXZQRWlTaWJudw?oc=5",
+        "source": "디일렉",
+        "published": "Wed, 25 Nov 2026 07:46:17 GMT"
+      },
+      {
+        "title": "[C쇼크, 벼랑 끝 K산업｜반도체]⑤中과 메모리 격차 2년…HBM 이후에도 韓이 앞설 수 있나 - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqeU51dXNQaGRxUHEwaUdXZlZLVU9DMnhtRFVjNEZnV3NuRDFWaEM2cG9ScGp1dzJyczNYQjRQcUlxa2V6OHBzdHl0WlNiaERCakNBUlhGQWZKSHpqdzRlU3FR?oc=5",
+        "source": "아시아경제",
+        "published": "Wed, 25 Nov 2026 22:31:00 GMT"
+      },
+      {
+        "title": "엔비디아 살린 트럼프, 중국 수출은 별개…HBM·후공정 관련주 촉각 - 핀포인트뉴스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kd3FGOHRLN0R4X3RiWmppY05DSGVJRFYzNkxyOWxla004ZllvM2xkMTNFZU1STF9OTHRuTWtFNHpicDFobm8yXzJ1TUZXTnpBZ244b0t0dmRRdVZaeWc2Y1ZpZjRnekloVU05eGlwZXdxdnPSAXdBVV95cUxPeHRkUXlTMUlsSVJERFRuRTdXakdHQlhKRDB3d0FYREdKa1ZQUTctS0FCTG5OOWVybHFRRFJvTTFkMHFsQWZrdElmclYyTGx6TU9Jd2RleF80cWlHdWZJS3FvcEtpS2JjVndGMGpxdWU1MWE1d1hlUQ?oc=5",
         "source": "핀포인트뉴스",
-        "published": "Tue, 24 Nov 2026 21:36:40 GMT"
+        "published": "Wed, 25 Nov 2026 20:04:34 GMT"
       },
       {
-        "title": "내년 몸값 2배 넘게 뛴다...빅테크 참전에 요동치는 HBM 패권 - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm8yWTlndDVXd3daV3JpQlR3WWhlOGNtSmZvOTd5YzdJeE9STzRfR3prdUJOR1V5Sm16aGcteHZhck1OSTNYdUVaYUxVNktzZWpUOVh1d19DSDFzcmFJUkYwd0dER1dWZlZFZGJzRFJ5SGZXOU5lVXN1VUNaMTBfUmRvNA?oc=5",
-        "source": "조선일보",
-        "published": "Tue, 24 Nov 2026 21:07:43 GMT"
+        "title": "화웨이, 하이브리드 본딩 '맞춤형 HBM' 개발…삼성·SK와 속도전 - 지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52ZFV1S05WQVpuV0Z2Y2l1N2RkUzR3Z2I1MTZPbXR2UE5YOGEtSFY2QlI4RHZQbVB0VTB6YTZwM1I1aGJsRVNFTVMxTUFGLVl1Rl95VGxB?oc=5",
+        "source": "지디넷코리아",
+        "published": "Wed, 25 Nov 2026 11:42:01 GMT"
       },
       {
-        "title": "AMD까지 무너졌다…미국 반도체주 급락에 삼성전자·SK하이닉스 '초긴장' - 핀포인트뉴스",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjdHdYSTN5WTJUaVUwRlNWakFick9UbTduVFdDZXdqeENxbFpZX0xsOTVRdzRXa0V0ekw0aktCd3hBM3B4OVhhYnZRMVp3MzU3eXR3VU1TS3RJXzlHbG9pSk5BV3l2clZGd09DNzJsZEFXTWvSAXdBVV95cUxNcnpSR2hLWEZabWVzaE9SUmdLNmtCLUFzdVFNTVFUS2Jvb3FoUU9UVTl2akJfd25aSUdwbE1FbmFEOE9SVzVvcGJrek53cm03bWljZzBzS1ZqaWVlekFXMk1TeDBEWVE4dEstdGNOeXd3LW9FdjRzRQ?oc=5",
-        "source": "핀포인트뉴스",
-        "published": "Tue, 24 Nov 2026 20:23:46 GMT"
+        "title": "“내년 AI 기업들 돈 부족해질 것”…머스크의 경고, 삼성·SK하이닉스까지 흔들까 - 데일리25",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oQ0VTWlk4R2F5d1hYNHMtTTBUTmdTcF9SNHdGUTgyQ2k0a2YwX3dXRUQ1QnZRNm5XU1hYc2lad1ZFSjRFWFdGNXlCS3JmTUpCb3J6bEJpNlhwYjNrS3dZWG9mWEd5YXdjMDBqWA?oc=5",
+        "source": "데일리25",
+        "published": "Wed, 25 Nov 2026 08:40:00 GMT"
       },
       {
-        "title": "[젠슨황복귀] 한숨 돌린 K-반도체… 삼전·SK하닉 'HBM 동맹' 이상 무 - CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KNVBJYzNpQlpGOWVMMk5oMjhDR0pHMzNlaUdfOTZwTThtQkkxcWRUckpRYTNnZ2VVLUxJdzZNZnVEME9ielJ3T3oyYkZ0czlDdFY1SUJTM1FVMnA3TlZDX04zZGQ5anIt?oc=5",
-        "source": "CBC뉴스",
-        "published": "Tue, 24 Nov 2026 15:00:00 GMT"
+        "title": "마이크론, HBM4 증설 속 대만 신공장 차질…삼성·SK 추격 변수 - 아이뉴스24",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OSUVJbTBEOVFnUloxLTVaZExaUmxUWUJSazE4eUhEYm5DVGNIV1dfZTZKNGlPZXh2N2puNGZVUTJiYk1OOENpVW56OA?oc=5",
+        "source": "아이뉴스24",
+        "published": "Wed, 25 Nov 2026 06:25:59 GMT"
       },
       {
-        "title": "HBM 호황 기대에 소부장도 들썩…원익IPS·한미반도체 상승대열 합류 - 핀포인트뉴스",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1UWp1aHkzRnV1V1c1ZWppZjRsdnNYNmhkR0s3ZlZJYXRWVWFzeEtUemo3dXExVlp5ZDNDdWFOYmxlRzM3azNTWXhNaktsejhNODhQU2lka08zUFRwOF9NWUgxUWRnRTFVLTU4by1VT1BfMXfSAXdBVV95cUxPNWNfUGItZ2l5a0xMY3Y0dkFnZ3U2MHN1dTk1OFgzb09Gb3F6UTRiemF2WFRZeHZzN2RYVEN3ZE10aHhtS21kanotQm5HbjVTSFBRbjRoTWpzU3JOT21VMjFrRExOV2ZmZm1iZGR1OFZrQ211UkRYNA?oc=5",
-        "source": "핀포인트뉴스",
-        "published": "Tue, 24 Nov 2026 10:41:48 GMT"
-      },
-      {
-        "title": "iM증권 \"HBM 물량 범용 D램으로 못 돌린다…SK하이닉스·삼성전자에 유리\" - 핀포인트뉴스",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aU3pFX1l2VWpRTjlsbGdxSlJrODJZQU5KWS1PdlhsczNBTUVRMFVQNkhoRVJhR1dZSjNlVU1hWm81SllmaC1jQlZoM1k5M2lyMHVfWndHWThFYkhWQ3p4NksxZF9BNGhHQnI3OWUxOHNWbXM?oc=5",
-        "source": "핀포인트뉴스",
-        "published": "Tue, 24 Nov 2026 10:12:56 GMT"
-      },
-      {
-        "title": "젠슨 황 귀환에 힘받는 K반도체… 삼성·SK, AI 동맹 탄력 기대 - 아시아투데이",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZdlBYWEdHUkhhYll3d2w4RF9ZUzdPOE5RQkRDclZXbkxxTUNXZXp6SEVIOXlJLVFjTTlDeTdFX01jMlQzVjFEb21VWG92dnh3QWtCQUlGT3V0cVR5SW0xMFhsQ1I1THVXSWZHMHlB?oc=5",
-        "source": "아시아투데이",
-        "published": "Tue, 24 Nov 2026 08:58:53 GMT"
+        "title": "화웨이, 하이브리드 본딩 기반 ‘맞춤형 HBM’ 공개···삼전·하닉 ‘경고등’ - 시사저널e",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80ZHN4dUVzQUtnNmhPOU9XeUF5dld0ckg5bG5odXlXVTdBTldDcVZuclJLNkJaY0hKbDV5ZkJMaXczWnR0RW5SZWQzUkJxQWw3S1lYbTZYS0hERUFDaEMydVdLTlJOMzdNYU9wZmdMWGxQZ9IBdkFVX3lxTE5scG4zYUxpWkZib0FMSUJTYldQNGt4eEQ4bnB1RTBzS2FOb3NSVkZoSWZpMEZtLVUzWDkwd0NJOG0zWnJQeUx4QjVuWlNsQVdySzEyMGE3WjYtMmhENXZ1aUcwbTNrczhidVFMbHE0bTVKX1RIdlE?oc=5",
+        "source": "시사저널e",
+        "published": "Wed, 25 Nov 2026 05:29:08 GMT"
       }
     ],
     "국내 주식": [
       {
-        "title": "“증안펀드 이르면 이달 투입 가능”…코스피200·코스닥150 투자할듯 - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BbTdXeHlvZHFTV0tvS083dzVYWU5DQmZQdWRMN19JWjdDaFJZYzJhcTRyU05RcU5pTWxYd1E1aWxsZ0F2OXdpb2RpbjFBV183R2fSAVNBVV95cUxPRWF3VDdCMGJyZGxKRDBiUGd1NjltVjJOaE5vUVp4ejRvYkpVR3prX2ZLcmwxOUdnX3QtX3E5QkFHUkluREZuZlFCYkh5dFJGZG9ZTQ?oc=5",
-        "source": "서울경제",
-        "published": "Tue, 24 Nov 2026 08:48:43 GMT"
+        "title": "코스피·코스닥, 하락 마감 - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NXy1tb0FUWjExczhvVGsxWWpNUnFtcFdqRTlBYkJER3hNSEJRd3lDQU9QRlN1ZlZaMldsN0M4enpkd0VfUTQ2ci1zLUFPZDltdDluelVyVUdza2tV?oc=5",
+        "source": "뉴스핌",
+        "published": "Wed, 25 Nov 2026 07:05:00 GMT"
       },
       {
-        "title": "코스피·코스닥 하락에 증안펀드 가동준비 10조7600억원 변수…삼성전자·SK하이닉스 3%대 약세 - CBC뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qNnJ4eW5Gem5CSEg5YWlLdGM3bDdjWF9McVo5cldjVW1wd2tGeEZiWmduWVU2aWhWenJwRUN0eXpfc3I5dW5jZ0cwYmhYOXE3TXk3MWVNT0oxOUVmc2xKWVdSeE5sVjhG?oc=5",
-        "source": "CBC뉴스",
-        "published": "Tue, 24 Nov 2026 15:56:27 GMT"
+        "title": "코스피·코스닥 동반 하락…검게 물든 증시 - 뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfU2UxWXN2TDQxOHg5SHBvZDRVYktseGp2V1J6dTE0dFlLbVdSV2czNWdobjVtVi1zdmJZWE5uZFp0bkY1SUQyMkQzSQ?oc=5",
+        "source": "뉴스1",
+        "published": "Wed, 25 Nov 2026 06:50:46 GMT"
       },
       {
-        "title": "젠슨황 복귀에 반도체주 급등…코스피·코스닥 매수사이드카 - KBS 뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rVkhyTWVqbFFoQnBHZnhQTVctTUtDZXJQa1JyemhXSVBLYTZfbGRiVEUzNUM3WmRpTGY5OFdvWUVjT3paajlOOXVyMGVPaFc1c3cxQUtRSGxmcnc?oc=5",
-        "source": "KBS 뉴스",
-        "published": "Tue, 24 Nov 2026 07:59:00 GMT"
+        "title": "코스피·코스닥, 내림세로 장 마감 - 한강타임즈",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vQ25Dd2dudmt6eHYxMW1uV2pINm5HUVpqSlR6ckVYNE52ZGVQbThLVW5fUnI3azY5MFdmSGQ5SWdsWWNKWUF6LUtmX0N1YnFGM19scFZSb1FyclJtU2FCVEk0TWZTUWV5MkNj?oc=5",
+        "source": "한강타임즈",
+        "published": "Wed, 25 Nov 2026 06:43:52 GMT"
       },
       {
-        "title": "널뛰는 증시, 올해만 사이드카 101회, 2008년의 두 배 : 금융 - 재경일보",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyelBydGRtbUgweTRZSjdJRmgxajloQ2daRDRsQ1lBejF3MkNzTks5Uy1DWTBBcEF0LXZ5S1oweDl2WlBwdWNJTm5hcw?oc=5",
-        "source": "재경일보",
-        "published": "Tue, 24 Nov 2026 07:58:00 GMT"
+        "title": "[그래픽] 코스피 코스닥 추이 - 뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnMExSWmpTMjRpVkxobmlQcmtXR3FxT1lXRkZrNFRBLWxfWEVzdVNES2FLaWVvemEzTjNzQ2ZjY2dFZEF0MU1mVXFVbw?oc=5",
+        "source": "뉴스1",
+        "published": "Wed, 25 Nov 2026 06:37:36 GMT"
       },
       {
-        "title": "“AI 황제 돌아오자 증시도 부활” 코스피, 5000선 탈환…외국인도 ‘사자’ [투자360] - 헤럴드경제",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hM2JYN2pwd3RxZGRnSDloNXlPeC1fbnlpRW0xY0dvV2szMGlBekFrVmJTc003ektvQ29qQTF5U3l2NXRfYXRSZTRtN1VRc2V3dXM2UWdR?oc=5",
-        "source": "헤럴드경제",
-        "published": "Tue, 24 Nov 2026 07:18:17 GMT"
+        "title": "[오늘의 증시] 11월 25일 코스피 코스닥 - 뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jaVNHcUhVZ2JHSE9KQkJ2c1VjVmNITmlNTFlVVVp2M2htWThOQ0FrUUhORkQ5cDlDMURCTHdUTy1vS19GdldpektoVQ?oc=5",
+        "source": "뉴스1",
+        "published": "Wed, 25 Nov 2026 06:36:01 GMT"
       },
       {
-        "title": "젠슨 황 귀환에 춤춘 증시…코스피 6% 급등 5000선 - 경제타임스",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IVkRqMkVwR1ktWE1uUzYwNEtPV0stWl9jRjdiZkpkQ0c3SEotMkVEbDZxTHZkbmo1Q2JYdDlxbDRkeENEOTJkbUk2Vm1zX2lOQldN?oc=5",
-        "source": "경제타임스",
-        "published": "Tue, 24 Nov 2026 07:11:04 GMT"
-      },
-      {
-        "title": "코스피, 젠슨황 복귀에 6%대 급등, '5천피' 회복…코스닥 4.8%↑ - 금융소비자뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNUszc0MyaVp3WUdoYlJPT1lRWUpnX09BQWdrTGZZZkUtUXhYZ0ZxRW9NZ20zNUNtcU1yb3lKUzhBQVN3ekxBUzlmOEs3OEM4TVh2S0tQcDFrbS1YeEFXOUcxZ0JBRnJWNVE?oc=5",
-        "source": "금융소비자뉴스",
-        "published": "Tue, 24 Nov 2026 07:10:00 GMT"
-      },
-      {
-        "title": "젠슨 황 복귀에 ‘5천피’ 기사회생…코스피·코스닥 동반 폭등 - 뉴스로드",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lRFhwV2tmUDBhVlNZVGk4T29ZaVppVVNFOXprLWZ6dkhjelU2R2l1a1VFdUdhc29jVDFKUXIzQmktRHFROUZNTkhHQTViZWdSajUxb21HbGxkRnN3N01UUjJtSU9MTlY3VXZSMtIBb0FVX3lxTE5uRzJhRno5bXFrNURlTDNHYTVZZE9OVmFxOGlHcHZkVjd6VDdVUlRfOExNbHZGTW1hcWhtaGFvblZFekFMVmpQdnROMzN2Q3YzblUwWGVYdThrQldQT254aE5seHhkYnowVlBFTzFJTQ?oc=5",
-        "source": "뉴스로드",
-        "published": "Tue, 24 Nov 2026 07:09:58 GMT"
+        "title": "코스피-코스닥 '하락', 달러/원 환율 '상승' 출발 - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80UFNLdUZuNDRUb0ZIN2g1cHA4Zk9pelNicTFQVnZOSEJOT1pLZjRuOWtSbXNKUkpmWVg0bjVOUm45MnBzREZodGtsWHlGa1AzYjBybzlqcWhsM0M1?oc=5",
+        "source": "뉴스핌",
+        "published": "Wed, 25 Nov 2026 00:41:00 GMT"
       }
     ],
     "미국 주식": [
       {
-        "title": "뉴욕증시, 기술주 차익실현·관세 우려에 혼조…나스닥 1.48% 하락 - 산경투데이",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55RDBQYnh5RlMxNjRXYXpicmxRTThpOHgtZUh1bmZuNEdZZllQejlfUmRnQ1p6UVRNUWJIbWN6NlFGRV9BYmc5eGc2bUFvU3VaS0pWTlYwZXpKR0k3TmVJSV9ldy02MFI0em40MzN3WjDSAXRBVV95cUxPWTdKZlFrbno5TFlrYzh1amY3WmtidkV5ejduZi1DcGZvZGJfWjNqa1hDT3R5YlJObTJlUmZTR0M1OTdSM3VEaEFDb3RkSzAtajVYeS13Ry1IUnNrazBIRmRERzBWSEhOLWxJWkNoeHNxSVh0UA?oc=5",
-        "source": "산경투데이",
-        "published": "Tue, 24 Nov 2026 23:04:48 GMT"
+        "title": "뉴욕증시, 혼조⋯나스닥·S&P500, 저가 매수에 낙폭 제한 [상보] - 이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnOTBobUtnMEw5QjFOMV9kaTE0c3lMN2Z5ZWdOWU5wbmxuSF91OGxJYzVZM0RucGxFdWFKMjBUZmRYLXVyMjNOVzd0X1ZjUVZvekpJSA?oc=5",
+        "source": "이투데이",
+        "published": "Wed, 25 Nov 2026 21:41:00 GMT"
       },
       {
-        "title": "“만원으로 美 대표지수 3종에 투자”…미래에셋, ‘4·4·2 ETF’ 내놓는다 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bk53M0N5aVVWMVdyeERhal92V1VuOUk2OG9VaHhKekRXTlBiRmxhWnRZZkJqRm8tM3Q0V1NDenp1amdlWGd0dVZSSlR3bUZmNmc?oc=5",
-        "source": "매일경제 마켓",
-        "published": "Tue, 24 Nov 2026 05:13:26 GMT"
-      },
-      {
-        "title": "미국 증시, 젠슨 황의 엔비디아(NVDA) 복귀에 급등...비트코인(BTC)은 상승 반납 - 코인리더스",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtVHc1dExFd0h1d09YeUVqOWE3cWRHVnBIbzVLdFU4VjdHY2lWM2oyWDhtbHZqcjljbkdEZWFPc1FOWmMwWnhablh3?oc=5",
-        "source": "코인리더스",
-        "published": "Tue, 24 Nov 2026 04:30:00 GMT"
-      },
-      {
-        "title": "[미장 브리핑] 뉴욕증시, 다우존스 강세... S&P 500 급등 - 센머니",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tb3pWekRWYWljM0hlZkhYR0FmaHhJVTJhUzlJVDNOS1hJamtHcHphWXhVdm1MbnN6SE1rVGo5dkhpYVU4TlV2Mk11UXl2ZTUzWmRRZE5YNTdGM3FtUm1ZRUlYUnY2M1RGY2ZTMQ?oc=5",
-        "source": "센머니",
-        "published": "Tue, 24 Nov 2026 00:10:45 GMT"
+        "title": "뉴욕증시 추수감사절 주간…23일 S&P500 4.73%·나스닥 6.51% 급반등, 25일 PCE·GDP가 다음 변수 - ISSUE ON (이슈온)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EQ3NHRTFweDU0SUZvQWlKMFFId2xxODhvdkE5R240ak9IczVpM0hKODQ5TUxyTS02eHV4ZzduWFplMWdRRzVMR1VwV0FTVjloT2xnVGhBckhBd0JNTER6NGMzSXE3em55WVpZ?oc=5",
+        "source": "ISSUE ON (이슈온)",
+        "published": "Wed, 25 Nov 2026 18:13:06 GMT"
       }
     ],
-    "경제": [
-      {
-        "title": "골드만삭스 \"한국, 기준금리 연 3.5% 넘기기 어려워\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yXzBHQWg3cW9FVFRPd3ZDNE1NMmJWZG02b19pOXNkb3FaZmtFdkk4NkhMTGVsYjJ0Q2t5SWltVllrenJXblRkOUZnQ0JMQlN6Zm1tMW5CVWdOUQ?oc=5",
-        "source": "한국경제",
-        "published": "Tue, 24 Nov 2026 06:13:30 GMT"
-      }
-    ],
+    "경제": [],
     "AI 기술": [
       {
-        "title": "무기체계 넘어 국방 AI 인프라로…한화, 국방 AI데이터센터 구축 본격화 - 디지털데일리",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OUVdkSG1CUExCZmQwOFhON2YyVDlSMWFETVQ4eDIzcHVPbmJYdnhKVjcwZ0kyR1BldGp5VVR2REZSakgxNWdoVGZ0Vk4xYlhmUkNvbDNNUlM3NnFsN2wxemxjUkM?oc=5",
-        "source": "디지털데일리",
-        "published": "Tue, 24 Nov 2026 08:01:59 GMT"
+        "title": "제주 40㎿ AI 데이터센터 아직 구상 단계… 국비·전력 확보가 관건 - 파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHb1A0RHFqcjN0c0RybGdxaWVhbUd1YWNpVXZjWGI1LURBcnNfSl95YjI5dlI4cWI0eUFmX0ZIa21JMkJJVG1CTEl6eTFRbWRRTWxYeUZLOWU1QQ?oc=5",
+        "source": "파이낸셜뉴스",
+        "published": "Wed, 25 Nov 2026 00:17:47 GMT"
       },
       {
-        "title": "“전남광주를 글로벌 AI 오픈생태계 중심지로”…곽재도 제4대 AICA 단장 취임 - 전자신문",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtNmlBd0FBQV9OWTYxUVppcklPMTM5QkJyTkNiNHBIRGZoUW94THRGRVJDLWllcTV0Y1k1aHlRQmVHRVppQjVwZXUyLTJMQQ?oc=5",
+        "title": "인포뱅크, 그린에너지 AI 서비스 개발 기업 사업화 전주기 지원 - 전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44WlFDVDNEVFpYSS1EU3hUU0plODdma2hJc1l4UUYxNnY5dFZoQ1FnQ0lTNHd6VUFlWXNQTUNGVjBESF9QVFNGcEh2OWtNUQ?oc=5",
         "source": "전자신문",
-        "published": "Tue, 24 Nov 2026 03:53:39 GMT"
+        "published": "Wed, 25 Nov 2026 08:02:59 GMT"
       },
       {
-        "title": "[김창원의 필드]AI 호황에 따른 성장통, 하지만 멈출 수는 없다 - PRESS9",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWSVp2VU1WTmZhaEIySzZzZzNHLTBCNTNtSzdUX0ZianR0UEs0TVBJZGx5eGlMUFhFTFlvb3FtUS1aQjNEUjdNeVluaXQ3ejVIamx4clRlczZVeW41N0ZtVlBqcjk?oc=5",
-        "source": "PRESS9",
-        "published": "Tue, 24 Nov 2026 23:00:00 GMT"
+        "title": "키사이트, 아토튜드 반도체 설계 주기 50% 이상 단축 - 양자신문",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4MnQ2bWtmY01YQmZ5Tjd4NzBGV3RWV2w2c0xlMjdQTXViTDlkY3d1RjItZjJHVWVWQm5naUxsWXJadVJZYW1ETjA0U2ZISTdtRmdYMmhXdjlXbEhDWmJ3ekVocDdZZHlPandodzhoOA?oc=5",
+        "source": "양자신문",
+        "published": "Wed, 25 Nov 2026 13:19:22 GMT"
       },
       {
-        "title": "세종에서 AI데이터센터 활성화 협력 모색의 장 열려 - 굿뉴스365",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZlBVUFNVSUYxVk11VDJKMWhRTXVIazJyUDJVdGo2ZGRmeFJyZV95LWZrNFdpWTRoMGRLaVVtSzJCcC1fTjluaXJ2VWptOHVDQVBXNnFpREY5VzhPSUl0UWE5Mm43dnhteUJPYmNKM21teXhZU2c?oc=5",
-        "source": "굿뉴스365",
-        "published": "Tue, 24 Nov 2026 22:34:00 GMT"
+        "title": "[G2VP, AI 데이터센터 전력난에 '태양광+장기 저장' 베팅…\"오프그리드가 답\"] G2VP는 데이터센터 투자액이 10년 말까지 4조 달러를 넘을 것으로 추산한다. 차기 물결이 형성되면서 이 회사는 데이터센터 전력 공급의 두 가지 경로에 주목 - AI넷",
+        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBualhDWVo4RzR0cGpRZWoyZGpvWW1jS25jZ0NsU01abElWNFNhQ2dOZDVXVnl2Vm50N2s1S2F5Rl8?oc=5",
+        "source": "AI넷",
+        "published": "Wed, 25 Nov 2026 13:06:13 GMT"
       },
       {
-        "title": "한화, 10조원 투자해 국방 AI 데이터센터 구축…민간 주도 국방 AI 인프라 시대 연다 - 뉴스투데이",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JVEJYd0RCcTd1aTJxeFBMbGhjeHhQTmdkVEIxZWZXZDJnY0ZFSWNpdnpfWHhoODVNQmVJbU1NVGwtcTNKSW1zcjZhUHB6MUNQdDRpbF9wekIzQmN1cGc?oc=5",
-        "source": "뉴스투데이",
-        "published": "Tue, 24 Nov 2026 19:28:00 GMT"
+        "title": "디에스앤지 \"28년간 서버·GPU에 특화...풀스택 AI 컨설팅 제공\" - 지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sRm5XcV9mWXFtT2VuMmxjaFB2Y1JEYzA5N2xKQ0FzUks5RnFON2h0d1g2MThwWFlsMi1NeXREYjZfb2xWckxyTExkUG1SYWQycjVHMUF3?oc=5",
+        "source": "지디넷코리아",
+        "published": "Wed, 25 Nov 2026 09:50:37 GMT"
       },
       {
-        "title": "과속하는 인공지능에 브레이크를 걸다 - 단비뉴스",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BNU80cDFESTh3cGZyNW5MTURFXzJ2ODI4U2I2dG9ZMUVOdW1FT2k0QXFRdDB0Y2hEbldzZG1YcHVfU3NoTjFSOWJaVjl2Q1dQbWtKUlExempRbnVuUkVwTkNjYTdmb2xEaTZN?oc=5",
-        "source": "단비뉴스",
-        "published": "Tue, 24 Nov 2026 12:52:31 GMT"
+        "title": "경남테크노파크, 제조 AI 데이터센터 운영…연 300여 기업 지원 목표 - 위런치",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mRG1qVjBRYm1pN29zaXFTdVEwQ1ppZEg0dWxMdFMzUlJGdzFNYnBqOVp5cWRwRlJwaVJNTEczV000TThNMnpvZW5lLTZDekJacEVna2RIUkRxM1BYMVZmR1c3dmg?oc=5",
+        "source": "위런치",
+        "published": "Wed, 25 Nov 2026 06:56:34 GMT"
       },
       {
-        "title": "[송윤주의 건설생태계] 150일 인허가 타임아웃제…AI 데이터센터 건설 ‘속도전’ 가능할까 - 에너지경제신문",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wanQ5X3FYZlNqRFcxVVNkN3dDQ0xwampRVnVRaGtwdzBvMmNJYXQ5bHBIUmZPZkloOEdOYmRiMWNDb2NvTVFkZUxyb19HN3cxTklFX3NTUGJUcmc?oc=5",
-        "source": "에너지경제신문",
-        "published": "Tue, 24 Nov 2026 10:36:18 GMT"
-      },
-      {
-        "title": "한화에어로, 180MW급 국방 AI 데이터센터 구축 추진…2028년 가동 목표 - 글로벌이코노믹",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1hjdThhbUJrZ0VrSENiU0FvUFhydHZTV1pZRHpTX0lRMDZaM0FDYVdvWXVCYUV2S09sbEdzNi1tcnJudXJrZU5Sc2NSUTJVRUpEcmhqeEFrZEJXNEpJTjhXUEZnZDBWVXpmdWZUSnlDYW1RMFFaNlMtcU1Pd2xDRUt1Wnp1UQ?oc=5",
-        "source": "글로벌이코노믹",
-        "published": "Tue, 24 Nov 2026 08:13:29 GMT"
+        "title": "LS그룹, 전력 인프라 경쟁력 강화…AI 데이터센터 시장 공략 - 더밸류뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MUzU1V3hwU2p3YkFQRF9LNW9uQ2FzU21PcWNzM1g4SHltbUdvYmdvOVRnQVRqaXhyZ2RRcG90VkE4UkxFcTZTSkVEZDhBRzY1bmRnMA?oc=5",
+        "source": "더밸류뉴스",
+        "published": "Wed, 25 Nov 2026 06:33:49 GMT"
       }
     ]
   },
